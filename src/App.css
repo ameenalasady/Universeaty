@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400&display=swap");
+
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+.maincontainer {
+  height: auto;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.submitcontainer {
+  display: flex;
+  justify-content: center;
+}
+
+.formcontainer {
+  display: flex;
+  flex-direction: row;
+  padding: 1em;
+  width: 40vw;
+  align-items: center;
+  margin-top: 5em;
+}
+
+form {
+  width: 100%;
+}
+
+.tablecontainer {
+  padding: 1em;
+  width: 60vw;
+  margin-top: 2em;
+}
+
+.MuiTableCell-root {
+  text-align: center;
+}
+
+.MuiButtonBase-root {
+  text-align: center;
+}
+
+td.MuiTableCell-root {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.bottomright {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5em;
+  align-items: center;
+}
+
+.MuiGrid-root {
+  align-items: center;
+}
+
+.MuiTable-root {
+  margin-bottom: 2em;
+}
+
+#modal-modal-description {
+  text-align: center;
+  margin-top: 1em !important;
+  margin-bottom: 1em !important;
+}
+
+.MuiBox-root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 1em;
+  border-color: white !important;
+}
