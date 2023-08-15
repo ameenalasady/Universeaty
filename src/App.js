@@ -187,97 +187,104 @@ function App() {
       </div>
 
       <div className="tablecontainer">
-        <div className="explain">Now Pick Which Section You Want To Track:</div>
-        <div className="bottomleft">
-          {data && (
-            <Table style={{ tableLayout: "fixed", width: "100%" }}>
-              <TableHead>
-                <TableRow>
-                  <TableCell align="center" style={{ fontSize: "1.5em" }}>
-                    Lectures
-                  </TableCell>
-                  <TableCell align="center" style={{ fontSize: "1.5em" }}>
-                    Labs
-                  </TableCell>
-                  <TableCell align="center" style={{ fontSize: "1.5em" }}>
-                    Tutorials
-                  </TableCell>
-                </TableRow>
-              </TableHead>
-              <TableBody>
-                <TableRow>
-                  <TableCell align="center">
-                    {data.LEC.sort((a, b) =>
-                      a.section.localeCompare(b.section)
-                    ).map((lec) => (
-                      <div key={lec.key}>
-                        <Button
-                          style={{ fontSize: "1.5em" }}
-                          disabled={lec.open_seats !== 0}
-                          onClick={() => {
-                            setSelectedSection(lec.section);
-                            setTimeout(() => {
-                              scrollToBottom();
-                            }, 200);
-                          }}
-                        >
-                          {lec.section}
-                        </Button>
-                      </div>
-                    ))}
-                  </TableCell>
+        {data && (
+          <>
+            <div className="explain">
+              Now Pick Which Section You Want To Track:
+            </div>
+            <div className="bottomleft">
+              <Table style={{ tableLayout: "fixed", width: "100%" }}>
+                <TableHead>
+                  <TableRow>
+                    <TableCell align="center" style={{ fontSize: "1.5em" }}>
+                      Lectures
+                    </TableCell>
+                    <TableCell align="center" style={{ fontSize: "1.5em" }}>
+                      Labs
+                    </TableCell>
+                    <TableCell align="center" style={{ fontSize: "1.5em" }}>
+                      Tutorials
+                    </TableCell>
+                  </TableRow>
+                </TableHead>
+                <TableBody>
+                  <TableRow>
+                    <TableCell align="center">
+                      {data.LEC.sort((a, b) =>
+                        a.section.localeCompare(b.section)
+                      ).map((lec) => (
+                        <div key={lec.key}>
+                          <Button
+                            style={{ fontSize: "1.5em" }}
+                            disabled={lec.open_seats !== 0}
+                            onClick={() => {
+                              setSelectedSection(lec.section);
+                              setTimeout(() => {
+                                scrollToBottom();
+                              }, 200);
+                            }}
+                          >
+                            {lec.section}
+                          </Button>
+                        </div>
+                      ))}
+                    </TableCell>
 
-                  <TableCell>
-                    {data.LAB.sort((a, b) =>
-                      a.section.localeCompare(b.section)
-                    ).map((lab) => (
-                      <div key={lab.key}>
-                        <Button
-                          style={{ fontSize: "1.5em" }}
-                          disabled={lab.open_seats !== 0}
-                          onClick={() => {
-                            setSelectedSection(lab.section);
-                            setTimeout(() => {
-                              scrollToBottom();
-                            }, 200);
-                          }}
-                        >
-                          {lab.section}
-                        </Button>
-                      </div>
-                    ))}
-                  </TableCell>
-                  <TableCell>
-                    {data.TUT.sort((a, b) =>
-                      a.section.localeCompare(b.section)
-                    ).map((tut) => (
-                      <div key={tut.key}>
-                        <Button
-                          style={{ fontSize: "1.5em" }}
-                          disabled={tut.open_seats !== 0}
-                          onClick={() => {
-                            setSelectedSection(tut.section);
-                            setTimeout(() => {
-                              scrollToBottom();
-                            }, 200);
-                          }}
-                        >
-                          {tut.section}
-                        </Button>
-                      </div>
-                    ))}
-                  </TableCell>
-                </TableRow>
-              </TableBody>
-            </Table>
-          )}
-        </div>
+                    <TableCell>
+                      {data.LAB.sort((a, b) =>
+                        a.section.localeCompare(b.section)
+                      ).map((lab) => (
+                        <div key={lab.key}>
+                          <Button
+                            style={{ fontSize: "1.5em" }}
+                            disabled={lab.open_seats !== 0}
+                            onClick={() => {
+                              setSelectedSection(lab.section);
+                              setTimeout(() => {
+                                scrollToBottom();
+                              }, 200);
+                            }}
+                          >
+                            {lab.section}
+                          </Button>
+                        </div>
+                      ))}
+                    </TableCell>
+                    <TableCell>
+                      {data.TUT.sort((a, b) =>
+                        a.section.localeCompare(b.section)
+                      ).map((tut) => (
+                        <div key={tut.key}>
+                          <Button
+                            style={{ fontSize: "1.5em" }}
+                            disabled={tut.open_seats !== 0}
+                            onClick={() => {
+                              setSelectedSection(tut.section);
+                              setTimeout(() => {
+                                scrollToBottom();
+                              }, 200);
+                            }}
+                          >
+                            {tut.section}
+                          </Button>
+                        </div>
+                      ))}
+                    </TableCell>
+                  </TableRow>
+                </TableBody>
+              </Table>
+            </div>
+          </>
+        )}
       </div>
 
       <div className="bottomright">
-        <div className="howcontact">How Would You Like To Be Contacted?</div>
         {selectedSection && (
           <>
+            <div className="howcontact">
+              How Would You Like To Be Contacted?
+            </div>
+
             <h2>Track Section: {selectedSection}</h2>
             <Select
               value={contactMethod}
