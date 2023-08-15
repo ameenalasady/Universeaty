@@ -22,6 +22,7 @@ import {
   Box,
   Typography,
   createFilterOptions,
+  Tooltip,
 } from "@mui/material";
 
 const isValidEmail = (email) => {
@@ -256,7 +257,13 @@ function App() {
                 }}
               >
                 <MenuItem value="email">Email</MenuItem>
-                <MenuItem value="phone">Phone</MenuItem>
+                <Tooltip title="Coming Soon">
+                  <span>
+                    <MenuItem value="phone" disabled>
+                      Phone
+                    </MenuItem>
+                  </span>
+                </Tooltip>
               </Select>
               {contactMethod && (
                 <>
