@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./App.css";
 import courses from "./scraped.json";
-
+import { styled } from "@mui/material/styles";
 import {
   TextField,
   Button,
@@ -24,6 +24,11 @@ import {
   createFilterOptions,
   Tooltip,
 } from "@mui/material";
+
+const StyledFormControlLabel = styled(FormControlLabel)(({ theme }) => ({
+  marginRight: 0,
+  marginLeft: 0,
+}));
 
 const isValidEmail = (email) => {
   const emailRegex =
@@ -108,7 +113,7 @@ function App() {
   return (
     <div className="maincontainer">
       <div className="formcontainer">
-        <form onSubmit={handleSubmit}>
+        <form onSubmit={handleSubmit} className="mainForm">
           <Autocomplete
             filterOptions={filterOptions}
             options={courses}
@@ -130,25 +135,28 @@ function App() {
             renderInput={(params) => (
               <TextField {...params} label="Course Code" />
             )}
+            sx={{ marginBottom: "1em" }}
           />
 
           <br />
           <FormControl component="fieldset">
-            <RadioGroup
-              value={term}
-              onChange={(event) => setTerm(event.target.value)}
-            >
-              <FormControlLabel
-                value="3202330"
-                control={<Radio />}
-                label="Fall 2023"
-              />
-              <FormControlLabel
-                value="3202340"
-                control={<Radio />}
-                label="Winter 2024"
-              />
-            </RadioGroup>
+            <Box display="flex" justifyContent="center" alignItems="center">
+              <RadioGroup
+                value={term}
+                onChange={(event) => setTerm(event.target.value)}
+              >
+                <StyledFormControlLabel
+                  value="3202330"
+                  control={<Radio />}
+                  label="Fall 2023"
+                />
+                <StyledFormControlLabel
+                  value="3202340"
+                  control={<Radio />}
+                  label="Winter 2024"
+                />
+              </RadioGroup>
+            </Box>
           </FormControl>
           <br />
           <div className="submitcontainer">
@@ -158,7 +166,7 @@ function App() {
               color="primary"
               disabled={loading}
               startIcon={loading ? <CircularProgress size={20} /> : null}
-              sx={{ width: "15%" }}
+              sx={{ minWidth: "30%" }}
             >
               Submit
             </Button>
@@ -169,22 +177,29 @@ function App() {
       <div className="tablecontainer">
         <div className="bottomleft">
           {data && (
-            <Table>
+            <Table style={{ tableLayout: "fixed", width: "100%" }}>
               <TableHead>
                 <TableRow>
-                  <TableCell align="center">Lectures</TableCell>
-                  <TableCell align="center">Labs</TableCell>
-                  <TableCell align="center">Tutorials</TableCell>
+                  <TableCell align="center" style={{ fontSize: "1.5em" }}>
+                    Lectures
+                  </TableCell>
+                  <TableCell align="center" style={{ fontSize: "1.5em" }}>
+                    Labs
+                  </TableCell>
+                  <TableCell align="center" style={{ fontSize: "1.5em" }}>
+                    Tutorials
+                  </TableCell>
                 </TableRow>
               </TableHead>
               <TableBody>
                 <TableRow>
-                  <TableCell>
+                  <TableCell align="center">
                     {data.LEC.sort((a, b) =>
                       a.section.localeCompare(b.section)
                     ).map((lec) => (
                       <div key={lec.key}>
                         <Button
+                          style={{ fontSize: "1.5em" }}
                           disabled={lec.open_seats !== 0}
                           onClick={() => {
                             setSelectedSection(lec.section);
@@ -205,6 +220,7 @@ function App() {
                     ).map((lab) => (
                       <div key={lab.key}>
                         <Button
+                          style={{ fontSize: "1.5em" }}
                           disabled={lab.open_seats !== 0}
                           onClick={() => {
                             setSelectedSection(lab.section);
@@ -224,6 +240,7 @@ function App() {
                     ).map((tut) => (
                       <div key={tut.key}>
                         <Button
+                          style={{ fontSize: "1.5em" }}
                           disabled={tut.open_seats !== 0}
                           onClick={() => {
                             setSelectedSection(tut.section);
@@ -242,96 +259,99 @@ function App() {
             </Table>
           )}
         </div>
-        <div className="bottomright">
-          {selectedSection && (
-            <>
-              <h2>Track Section: {selectedSection}</h2>
-              <Select
-                value={contactMethod}
-                onChange={(event) => setContactMethod(event.target.value)}
-                sx={{
-                  width: "20%",
-                  marginLeft: "auto",
-                  marginRight: "auto",
-                  marginBottom: "1em",
-                }}
-              >
-                <MenuItem value="email">Email</MenuItem>
-                <Tooltip title="Coming Soon">
-                  <span>
-                    <MenuItem value="phone" disabled>
-                      Phone
-                    </MenuItem>
-                  </span>
-                </Tooltip>
-              </Select>
-              {contactMethod && (
-                <>
-                  <TextField
-                    label={contactMethod === "email" ? "Email" : "Phone"}
-                    value={contactInfo}
-                    onChange={handleContactInfoChange}
-                    placeholder={
-                      contactMethod === "email"
-                        ? "example@example.com"
-                        : "1234567890"
-                    }
-                    sx={{ width: "50%" }}
-                    error={error}
-                    helperText={error && `Invalid ${contactMethod}`}
-                  />
-                  <br />
-                  <Button
-                    variant="contained"
-                    color="primary"
+      </div>
+
+      <div className="bottomright">
+        {selectedSection && (
+          <>
+            <h2>Track Section: {selectedSection}</h2>
+            <Select
+              value={contactMethod}
+              onChange={(event) => setContactMethod(event.target.value)}
+              sx={{
+                width: "50%",
+                maxWidth: "200px",
+                marginLeft: "auto",
+                marginRight: "auto",
+                marginBottom: "1em",
+              }}
+            >
+              <MenuItem value="email">Email</MenuItem>
+              <Tooltip title="Coming Soon">
+                <span>
+                  <MenuItem value="phone" disabled>
+                    Phone
+                  </MenuItem>
+                </span>
+              </Tooltip>
+            </Select>
+            {contactMethod && (
+              <>
+                <TextField
+                  label={contactMethod === "email" ? "Email" : "Phone"}
+                  value={contactInfo}
+                  onChange={handleContactInfoChange}
+                  placeholder={
+                    contactMethod === "email"
+                      ? "example@example.com"
+                      : "1234567890"
+                  }
+                  sx={{ width: "80%", maxWidth: "400px" }}
+                  error={error}
+                  helperText={error && `Invalid ${contactMethod}`}
+                />
+                <br />
+                <Button
+                  variant="contained"
+                  color="primary"
+                  sx={{
+                    marginTop: "2em",
+                    width: "30%",
+                    maxWidth: "100px",
+                    marginLeft: "auto",
+                    marginRight: "auto",
+                  }}
+                  onClick={handleButtonClick}
+                >
+                  Track
+                </Button>
+                <Modal open={open} onClose={handleClose}>
+                  <Box
                     sx={{
-                      marginTop: "1em",
-                      width: "10%",
-                      marginLeft: "auto",
-                      marginRight: "auto",
+                      position: "absolute",
+                      top: "50%",
+                      left: "50%",
+                      transform: "translate(-50%, -50%)",
+                      width: 400,
+                      bgcolor: "background.paper",
+                      border: "2px solid #000",
+                      boxShadow: 24,
+                      p: 4,
                     }}
-                    onClick={handleButtonClick}
                   >
-                    Track
-                  </Button>
-                  <Modal open={open} onClose={handleClose}>
-                    <Box
-                      sx={{
-                        position: "absolute",
-                        top: "50%",
-                        left: "50%",
-                        transform: "translate(-50%, -50%)",
-                        width: 400,
-                        bgcolor: "background.paper",
-                        border: "2px solid #000",
-                        boxShadow: 24,
-                        p: 4,
-                      }}
+                    <Typography
+                      id="modal-modal-title"
+                      variant="h6"
+                      component="h2"
                     >
-                      <Typography
-                        id="modal-modal-title"
-                        variant="h6"
-                        component="h2"
-                      >
-                        Success!
-                      </Typography>
-                      <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-                        Your request was made successfully.
-                      </Typography>
-                      <Button
-                        variant="contained"
-                        color="primary"
-                        onClick={handleClose}
-                      >
-                        Close
-                      </Button>
-                    </Box>
-                  </Modal>
-                </>
-              )}
-            </>
-          )}
-        </div>
+                      Success!
+                    </Typography>
+                    <Typography id="modal-modal-description" sx={{ mt: 2 }}>
+                      Your request was made successfully.
+                    </Typography>
+                    <Button
+                      variant="contained"
+                      color="primary"
+                      onClick={handleClose}
+                    >
+                      Close
+                    </Button>
+                  </Box>
+                </Modal>
+              </>
+            )}
+          </>
+        )}
       </div>
     </div>
   );

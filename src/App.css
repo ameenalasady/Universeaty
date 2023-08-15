@@ -8,21 +8,29 @@ html {
   height: auto;
   width: 100vw;
   display: flex;
-  justify-content: center;
   align-items: center;
+  flex-direction: column;
+}
+
+.mainForm {
+  display: flex;
   flex-direction: column;
 }
 
 .submitcontainer {
   display: flex;
   justify-content: center;
+  margin-top: 1em;
+  min-width: 30%;
 }
 
 .formcontainer {
   display: flex;
-  flex-direction: row;
-  padding: 1em;
+  flex-direction: column;
+  padding-top: 1em;
+  padding-bottom: 1em;
   width: 40vw;
+  min-width: 250px;
   align-items: center;
   margin-top: 5em;
 }
@@ -32,9 +40,12 @@ form {
 }
 
 .tablecontainer {
+  display: flex;
+  flex-direction: column !important;
+  align-items: center;
   padding-top: 1em;
-  width: 60vw;
   margin-top: 2em;
+  width: 80%;
 }
 
 .MuiTableCell-root {
@@ -53,19 +64,22 @@ h2 {
   text-align: center;
 }
 
+.bottomleft {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
 .bottomright {
   display: flex;
   flex-direction: column;
-  margin-bottom: 5em;
   align-items: center;
-}
-
-.MuiGrid-root {
-  align-items: center;
-}
-
-.MuiTable-root {
+  width: 80%;
   margin-bottom: 2em;
+}
+
+.css-rqglhn-MuiTable-root {
+  width: 100%;
 }
 
 #modal-modal-description {
