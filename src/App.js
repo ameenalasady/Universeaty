@@ -184,6 +184,7 @@ function App() {
                     ).map((lec) => (
                       <div key={lec.key}>
                         <Button
+                          disabled={lec.open_seats !== 0}
                           onClick={() => {
                             setSelectedSection(lec.section);
                             setTimeout(() => {
@@ -196,12 +197,14 @@ function App() {
                       </div>
                     ))}
                   </TableCell>
+
                   <TableCell>
                     {data.LAB.sort((a, b) =>
                       a.section.localeCompare(b.section)
                     ).map((lab) => (
                       <div key={lab.key}>
                         <Button
+                          disabled={lab.open_seats !== 0}
                           onClick={() => {
                             setSelectedSection(lab.section);
                             setTimeout(() => {
@@ -220,6 +223,7 @@ function App() {
                     ).map((tut) => (
                       <div key={tut.key}>
                         <Button
+                          disabled={tut.open_seats !== 0}
                           onClick={() => {
                             setSelectedSection(tut.section);
                             setTimeout(() => {
