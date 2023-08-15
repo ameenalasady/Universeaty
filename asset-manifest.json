@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/McMasterSeatAlertWebsite/static/css/main.6de7b9b2.css",
-    "main.js": "/McMasterSeatAlertWebsite/static/js/main.beb9d4c8.js",
-    "static/js/787.90d93399.chunk.js": "/McMasterSeatAlertWebsite/static/js/787.90d93399.chunk.js",
-    "index.html": "/McMasterSeatAlertWebsite/index.html",
-    "main.6de7b9b2.css.map": "/McMasterSeatAlertWebsite/static/css/main.6de7b9b2.css.map",
-    "main.beb9d4c8.js.map": "/McMasterSeatAlertWebsite/static/js/main.beb9d4c8.js.map",
-    "787.90d93399.chunk.js.map": "/McMasterSeatAlertWebsite/static/js/787.90d93399.chunk.js.map"
+    "main.css": "/Universeaty/static/css/main.6de7b9b2.css",
+    "main.js": "/Universeaty/static/js/main.5596e542.js",
+    "static/js/787.90d93399.chunk.js": "/Universeaty/static/js/787.90d93399.chunk.js",
+    "index.html": "/Universeaty/index.html",
+    "main.6de7b9b2.css.map": "/Universeaty/static/css/main.6de7b9b2.css.map",
+    "main.5596e542.js.map": "/Universeaty/static/js/main.5596e542.js.map",
+    "787.90d93399.chunk.js.map": "/Universeaty/static/js/787.90d93399.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6de7b9b2.css",
-    "static/js/main.beb9d4c8.js"
+    "static/js/main.5596e542.js"
   ]
 }
