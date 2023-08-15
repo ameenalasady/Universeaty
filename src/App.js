@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
 import courses from "./scraped.json";
-import { styled } from "@mui/material/styles";
 import {
   TextField,
   Button,
