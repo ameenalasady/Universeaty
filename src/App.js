@@ -100,6 +100,8 @@ function App() {
   const OPTIONS_LIMIT = 30;
   const filterOptions = createFilterOptions({
     limit: OPTIONS_LIMIT,
+    matchFrom: "any",
+    stringify: (option) => option.Text + " " + option.Info,
   });
 
   return (
