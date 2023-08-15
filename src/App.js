@@ -25,11 +25,6 @@ import {
   Tooltip,
 } from "@mui/material";
 
-const StyledFormControlLabel = styled(FormControlLabel)(({ theme }) => ({
-  marginRight: 0,
-  marginLeft: 0,
-}));
-
 const isValidEmail = (email) => {
   const emailRegex =
     /^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
@@ -52,6 +47,7 @@ function App() {
   const [contactInfo, setContactInfo] = useState("");
   const [error, setError] = useState(false);
   const [open, setOpen] = useState(false);
+  const [reason, setReason] = useState(null);
 
   const handleSubmit = async (event) => {
     event.preventDefault();
@@ -94,6 +90,10 @@ function App() {
         `https://redirect-to-raspberry-pi.vercel.app/notify_open_seats?course_code=${courseCode}&term=${term}&section=${selectedSection}&contact_method=${contactMethod}&contact_info=${contactInfo}`
       );
       if (response.status === 200) {
+        setOpen(true);
+      } else if (response.status === 400) {
+        const reason = await response.text();
+        setReason(reason);
         setOpen(true);
       }
     }
@@ -146,12 +146,13 @@ function App() {
                 value={term}
                 onChange={(event) => setTerm(event.target.value)}
               >
-                <StyledFormControlLabel
+                <FormControlLabel
                   value="3202330"
                   control={<Radio />}
                   label="Fall 2023"
                 />
-                <StyledFormControlLabel
+
+                <FormControlLabel
                   value="3202340"
                   control={<Radio />}
                   label="Winter 2024"
@@ -335,10 +336,10 @@ function App() {
                       variant="h6"
                       component="h2"
                     >
-                      Success!
+                      {reason ? "Error" : "Success!"}
                     </Typography>
                     <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-                      Your request was made successfully.
+                      {reason ? reason : "Your request was made successfully."}
                     </Typography>
                     <Button
                       variant="contained"
