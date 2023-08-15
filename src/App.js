@@ -107,7 +107,8 @@ function App() {
   const filterOptions = createFilterOptions({
     limit: OPTIONS_LIMIT,
     matchFrom: "any",
-    stringify: (option) => option.Text + " " + option.Info,
+    stringify: (option) =>
+      option.Text + " " + option.Text.replace("-", " ") + " " + option.Info,
   });
 
   return (
