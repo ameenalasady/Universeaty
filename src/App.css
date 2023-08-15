@@ -11,7 +11,27 @@ html {
   align-items: center;
   flex-direction: column;
 }
+.titletext {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
+.welcometo {
+  font-size: 1.2em;
+  margin-top: 1.5em;
+  margin-bottom: 0;
+}
+
+.universeaty {
+  font-size: 2em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.startby {
+  font-size: 1.2em;
+}
 .mainForm {
   display: flex;
   flex-direction: column;
@@ -32,11 +52,16 @@ html {
   width: 40vw;
   min-width: 250px;
   align-items: center;
-  margin-top: 5em;
+  margin-top: 1.5em;
 }
 
 form {
   width: 100%;
+}
+
+.explain {
+  font-size: 1.2em;
+  text-align: center;
 }
 
 .tablecontainer {
@@ -44,7 +69,7 @@ form {
   flex-direction: column !important;
   align-items: center;
   padding-top: 1em;
-  margin-top: 2em;
+  margin-top: 1em;
   width: 80%;
 }
 
@@ -68,6 +93,7 @@ h2 {
   display: flex;
   align-items: center;
   width: 100%;
+  margin-top: 2em;
 }
 
 .bottomright {
@@ -76,6 +102,11 @@ h2 {
   align-items: center;
   width: 80%;
   margin-bottom: 2em;
+}
+
+.howcontact {
+  font-size: 1.2em;
+  margin-top: 2.5em;
 }
 
 .css-rqglhn-MuiTable-root {

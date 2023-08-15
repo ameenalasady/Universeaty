@@ -114,6 +114,15 @@ function App() {
 
   return (
     <div className="maincontainer">
+      <div className="titlecontainer">
+        <div className="titletext">
+          <p className="welcometo">Welcome To</p>
+          <p className="universeaty" style={{ color: "black" }}>
+            UNIVER<span style={{ color: "maroon" }}>SEAT</span>Y
+          </p>
+        </div>
+      </div>
+      <div className="startby">Start By Searching Your Course:</div>
       <div className="formcontainer">
         <form onSubmit={handleSubmit} className="mainForm">
           <Autocomplete
@@ -171,13 +180,14 @@ function App() {
               startIcon={loading ? <CircularProgress size={20} /> : null}
               sx={{ minWidth: "30%" }}
             >
-              Submit
+              Search
             </Button>
           </div>
         </form>
       </div>
 
       <div className="tablecontainer">
+        <div className="explain">Now Pick Which Section You Want To Track:</div>
         <div className="bottomleft">
           {data && (
             <Table style={{ tableLayout: "fixed", width: "100%" }}>
@@ -265,6 +275,7 @@ function App() {
       </div>
 
       <div className="bottomright">
+        <div className="howcontact">How Would You Like To Be Contacted?</div>
         {selectedSection && (
           <>
             <h2>Track Section: {selectedSection}</h2>
