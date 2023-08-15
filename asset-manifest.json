@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/McMasterSeatAlertWebsite/static/css/main.6de7b9b2.css",
-    "main.js": "/McMasterSeatAlertWebsite/static/js/main.bcd0094e.js",
+    "main.js": "/McMasterSeatAlertWebsite/static/js/main.0bfd96e8.js",
     "static/js/787.90d93399.chunk.js": "/McMasterSeatAlertWebsite/static/js/787.90d93399.chunk.js",
     "index.html": "/McMasterSeatAlertWebsite/index.html",
     "main.6de7b9b2.css.map": "/McMasterSeatAlertWebsite/static/css/main.6de7b9b2.css.map",
-    "main.bcd0094e.js.map": "/McMasterSeatAlertWebsite/static/js/main.bcd0094e.js.map",
+    "main.0bfd96e8.js.map": "/McMasterSeatAlertWebsite/static/js/main.0bfd96e8.js.map",
     "787.90d93399.chunk.js.map": "/McMasterSeatAlertWebsite/static/js/787.90d93399.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6de7b9b2.css",
-    "static/js/main.bcd0094e.js"
+    "static/js/main.0bfd96e8.js"
   ]
 }
