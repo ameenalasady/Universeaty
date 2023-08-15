@@ -54,7 +54,7 @@ function App() {
 
     // Send a request to the Flask API
     const response = await fetch(
-      `https://seatalert.onrender.com/open_seats?course_code=${courseCode}&term=${term}`
+      `https://redirect-to-raspberry-pi.vercel.app/open_seats?course_code=${courseCode}&term=${term}`
     );
     const json = await response.json();
 
@@ -85,7 +85,7 @@ function App() {
   const handleButtonClick = async () => {
     if (!error) {
       const response = await fetch(
-        `https://seatalert.onrender.com/notify_open_seats?course_code=${courseCode}&term=${term}&section=${selectedSection}&contact_method=${contactMethod}&contact_info=${contactInfo}`
+        `https://redirect-to-raspberry-pi.vercel.app/notify_open_seats?course_code=${courseCode}&term=${term}&section=${selectedSection}&contact_method=${contactMethod}&contact_info=${contactInfo}`
       );
       if (response.status === 200) {
         setOpen(true);
