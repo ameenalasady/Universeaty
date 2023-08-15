@@ -49,6 +49,7 @@ function App() {
   const [error, setError] = useState(false);
   const [open, setOpen] = useState(false);
   const [reason, setReason] = useState(null);
+  const [buttonLoading, setButtonLoading] = useState(false);
 
   const handleSubmit = async (event) => {
     event.preventDefault();
@@ -86,6 +87,7 @@ function App() {
   };
 
   const handleButtonClick = async () => {
+    setButtonLoading(true);
     if (!error) {
       const response = await fetch(
         `https://redirect-to-raspberry-pi.vercel.app/notify_open_seats?course_code=${courseCode}&term=${term}&section=${selectedSection}&contact_method=${contactMethod}&contact_info=${contactInfo}`
@@ -98,10 +100,12 @@ function App() {
         setOpen(true);
       }
     }
+    setButtonLoading(false);
   };
 
   const handleClose = () => {
     setOpen(false);
+    setReason(null);
   };
 
   const OPTIONS_LIMIT = 30;
@@ -196,13 +200,13 @@ function App() {
               <Table style={{ tableLayout: "fixed", width: "100%" }}>
                 <TableHead>
                   <TableRow>
-                    <TableCell align="center" style={{ fontSize: "1.5em" }}>
+                    <TableCell align="center" style={{ fontSize: "1em" }}>
                       Lectures
                     </TableCell>
-                    <TableCell align="center" style={{ fontSize: "1.5em" }}>
+                    <TableCell align="center" style={{ fontSize: "1em" }}>
                       Labs
                     </TableCell>
-                    <TableCell align="center" style={{ fontSize: "1.5em" }}>
+                    <TableCell align="center" style={{ fontSize: "1em" }}>
                       Tutorials
                     </TableCell>
                   </TableRow>
@@ -333,8 +337,9 @@ function App() {
                     marginRight: "auto",
                   }}
                   onClick={handleButtonClick}
+                  disabled={buttonLoading}
                 >
-                  Track
+                  {buttonLoading ? "Loading..." : "Track"}
                 </Button>
                 <Modal open={open} onClose={handleClose}>
                   <Box
