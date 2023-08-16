@@ -135,7 +135,6 @@ function App() {
               <RadioGroup
                 value={term}
                 onChange={(event) => setTerm(event.target.value)}
-                flexDirection="row"
               >
                 <FormControlLabel
                   value="3202330"
@@ -151,8 +150,6 @@ function App() {
               </RadioGroup>
             </Box>
           </FormControl>
-
-          <br />
 
           <Autocomplete
             filterOptions={filterOptions}
@@ -328,7 +325,7 @@ function App() {
                   error={error}
                   helperText={error && `Invalid ${contactMethod}`}
                 />
-                <br />
+
                 <Button
                   variant="contained"
                   color="primary"
