@@ -131,10 +131,11 @@ function App() {
       <div className="formcontainer">
         <form onSubmit={handleSubmit} className="mainForm">
           <FormControl component="fieldset">
-            <Box display="flex" justifyContent="center" alignItems="center">
+            <Box>
               <RadioGroup
                 value={term}
                 onChange={(event) => setTerm(event.target.value)}
+                sx={{ display: "flex", flexDirection: "row" }}
               >
                 <FormControlLabel
                   value="3202330"
@@ -348,7 +349,8 @@ function App() {
                       top: "50%",
                       left: "50%",
                       transform: "translate(-50%, -50%)",
-                      width: 400,
+                      width: "20%",
+                      minWidth: "250px",
                       bgcolor: "background.paper",
                       border: "2px solid #000",
                       boxShadow: 24,

@@ -38,11 +38,6 @@ html {
   flex-direction: column;
 }
 
-.css-dmmspl-MuiFormGroup-root {
-  display: flex;
-  flex-direction: row !important;
-}
-
 .submitcontainer {
   display: flex;
   justify-content: center;
