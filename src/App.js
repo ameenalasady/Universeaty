@@ -207,13 +207,13 @@ function App() {
               <Table style={{ tableLayout: "fixed", width: "100%" }}>
                 <TableHead>
                   <TableRow>
-                    <TableCell align="center" style={{ fontSize: "1em" }}>
+                    <TableCell align="center" style={{ fontSize: "1.2em" }}>
                       Lectures
                     </TableCell>
-                    <TableCell align="center" style={{ fontSize: "1em" }}>
+                    <TableCell align="center" style={{ fontSize: "1.2em" }}>
                       Labs
                     </TableCell>
-                    <TableCell align="center" style={{ fontSize: "1em" }}>
+                    <TableCell align="center" style={{ fontSize: "1.2em" }}>
                       Tutorials
                     </TableCell>
                   </TableRow>
@@ -346,7 +346,7 @@ function App() {
                   onClick={handleButtonClick}
                   disabled={buttonLoading}
                 >
-                  {buttonLoading ? "Loading..." : "Track"}
+                  {buttonLoading ? <CircularProgress size={24} /> : "Track"}
                 </Button>
                 <Modal open={open} onClose={handleClose}>
                   <Box
