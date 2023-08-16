@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Universeaty/static/css/main.3a4e1e37.css",
+    "main.css": "/Universeaty/static/css/main.fbab263c.css",
     "main.js": "/Universeaty/static/js/main.b55d2f6e.js",
     "static/js/787.8742eac5.chunk.js": "/Universeaty/static/js/787.8742eac5.chunk.js",
     "index.html": "/Universeaty/index.html",
-    "main.3a4e1e37.css.map": "/Universeaty/static/css/main.3a4e1e37.css.map",
+    "main.fbab263c.css.map": "/Universeaty/static/css/main.fbab263c.css.map",
     "main.b55d2f6e.js.map": "/Universeaty/static/js/main.b55d2f6e.js.map",
     "787.8742eac5.chunk.js.map": "/Universeaty/static/js/787.8742eac5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a4e1e37.css",
+    "static/css/main.fbab263c.css",
     "static/js/main.b55d2f6e.js"
   ]
 }
