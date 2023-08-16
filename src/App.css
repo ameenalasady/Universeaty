@@ -38,6 +38,11 @@ html {
   flex-direction: column;
 }
 
+/* .betweenterms {
+  width: 20px;
+  height: 1px;
+} */
+
 .submitcontainer {
   display: flex;
   justify-content: center;

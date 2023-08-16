@@ -135,18 +135,24 @@ function App() {
               <RadioGroup
                 value={term}
                 onChange={(event) => setTerm(event.target.value)}
-                sx={{ display: "flex", flexDirection: "row" }}
+                sx={{
+                  display: "flex",
+                  flexDirection: "row",
+                  alignItems: "center",
+                }}
               >
                 <FormControlLabel
                   value="3202330"
                   control={<Radio />}
                   label="Fall 2023"
+                  sx={{ margin: "0" }}
                 />
 
                 <FormControlLabel
                   value="3202340"
                   control={<Radio />}
                   label="Winter 2024"
+                  sx={{ margin: "0" }}
                 />
               </RadioGroup>
             </Box>
