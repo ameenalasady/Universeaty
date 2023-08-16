@@ -1,0 +1,5134 @@
+[
+    {
+        "Info": "Topics in Black, African and African Diaspora Studies",
+        "Text": "ABLD-3BA3"
+    },
+    {
+        "Info": "Introduction to Anthropology: Sex, Food and Death",
+        "Text": "ANTHROP-1AA3"
+    },
+    {
+        "Info": "Introduction to Anthropology: Race, Religion, and Social Justice",
+        "Text": "ANTHROP-1AB3"
+    },
+    {
+        "Info": "The Anthropology of Food and Nutrition",
+        "Text": "ANTHROP-2AN3"
+    },
+    {
+        "Info": "Ancient Mesoamerica: Aztecs to Zapotecs",
+        "Text": "ANTHROP-2BB3"
+    },
+    {
+        "Info": "Archaeology of Environmental Crisis and Response",
+        "Text": "ANTHROP-2C03"
+    },
+    {
+        "Info": "Traditional Indigenous Ecological Knowledge",
+        "Text": "ANTHROP-2DA3"
+    },
+    {
+        "Info": "Sport and/as Religion",
+        "Text": "ANTHROP-2EE3"
+    },
+    {
+        "Info": "Human Skeletal Biology and Bioarchaeology",
+        "Text": "ANTHROP-2FF3"
+    },
+    {
+        "Info": "Heritage, Economy, and Ethics",
+        "Text": "ANTHROP-2HE3"
+    },
+    {
+        "Info": "Art and Activism",
+        "Text": "ANTHROP-2MA3"
+    },
+    {
+        "Info": "Religion, Magic and Witchcraft",
+        "Text": "ANTHROP-2R03"
+    },
+    {
+        "Info": "Plagues and People",
+        "Text": "ANTHROP-2U03"
+    },
+    {
+        "Info": "Neanderthals to Pyramids: Introduction to World Archaeology",
+        "Text": "ANTHROP-2WA3"
+    },
+    {
+        "Info": "Culture and Religion",
+        "Text": "ANTHROP-3AR3"
+    },
+    {
+        "Info": "Ancient Agriculture to Criminal Investigations: Paleoethnobotany in Practice",
+        "Text": "ANTHROP-3BB3"
+    },
+    {
+        "Info": "Ceramic Analysis",
+        "Text": "ANTHROP-3CA3"
+    },
+    {
+        "Info": "Forensic Anthropology",
+        "Text": "ANTHROP-3FA3"
+    },
+    {
+        "Info": "Comparative Mythology",
+        "Text": "ANTHROP-3G03"
+    },
+    {
+        "Info": "The Anthropology of Tourism",
+        "Text": "ANTHROP-3TR3"
+    },
+    {
+        "Info": "Current Problems in Sociocultural Anthropology II",
+        "Text": "ANTHROP-4BB3"
+    },
+    {
+        "Info": "Cultural Politics of Food and Eating",
+        "Text": "ANTHROP-4CP3"
+    },
+    {
+        "Info": "Diet & Nutrition: Biocultural and Bioarchaeological Perspectives",
+        "Text": "ANTHROP-4DN3"
+    },
+    {
+        "Info": "Advanced Topics in Biological Anthropology I",
+        "Text": "ANTHROP-4J03"
+    },
+    {
+        "Info": "Introduction to Modern Standard Arabic II",
+        "Text": "ARABIC-2AR3"
+    },
+    {
+        "Info": "Making Art and Understanding Technology & Images",
+        "Text": "ART-1TI3"
+    },
+    {
+        "Info": "Making Art and Understanding Images",
+        "Text": "ART-1UI3"
+    },
+    {
+        "Info": "Concentrated Study - Intaglio",
+        "Text": "ART-3CI3"
+    },
+    {
+        "Info": "Practical Issues",
+        "Text": "ART-3D03"
+    },
+    {
+        "Info": "Guided Studio Practice",
+        "Text": "ART-3GS6B"
+    },
+    {
+        "Info": "Video Art and Digital Cinema",
+        "Text": "ART-3VA3"
+    },
+    {
+        "Info": "Advanced Research and Presentation Strategies",
+        "Text": "ART-4AR3"
+    },
+    {
+        "Info": "Concentrated Study - Intaglio",
+        "Text": "ART-4CI3"
+    },
+    {
+        "Info": "Exhibition Preparation and Documentation",
+        "Text": "ART-4EP3"
+    },
+    {
+        "Info": "Roman Art",
+        "Text": "ARTHIST-2C03"
+    },
+    {
+        "Info": "Art and Revolutions in France, 1789-1914",
+        "Text": "ARTHIST-2DF3"
+    },
+    {
+        "Info": "Film Analysis",
+        "Text": "ARTHIST-2FA3"
+    },
+    {
+        "Info": "Performance, Art and Visual Culture in East and South Asia",
+        "Text": "ARTHIST-2Z03"
+    },
+    {
+        "Info": "Indigenous Art and Visual Culture in Canada, 1960 to the Present",
+        "Text": "ARTHIST-3BB3"
+    },
+    {
+        "Info": "Colours of the World",
+        "Text": "ARTHIST-3Q03"
+    },
+    {
+        "Info": "Greek Sanctuaries",
+        "Text": "ARTHIST-3QQ3"
+    },
+    {
+        "Info": "Cinema History from WWII",
+        "Text": "ARTHIST-3XX3"
+    },
+    {
+        "Info": "The Cultural History of Paris, 1789-1914",
+        "Text": "ARTHIST-4LP3"
+    },
+    {
+        "Info": "Contemporary Indigenous Studies",
+        "Text": "ARTSSCI-1AA3"
+    },
+    {
+        "Info": "Argumentation",
+        "Text": "ARTSSCI-1BB3"
+    },
+    {
+        "Info": "Global Challenges Inquiry",
+        "Text": "ARTSSCI-1C06B"
+    },
+    {
+        "Info": "Calculus",
+        "Text": "ARTSSCI-1D06B"
+    },
+    {
+        "Info": "Social and Political Thought",
+        "Text": "ARTSSCI-2A06B"
+    },
+    {
+        "Info": "Physics",
+        "Text": "ARTSSCI-2D06B"
+    },
+    {
+        "Info": "Applied Statistical Inference",
+        "Text": "ARTSSCI-2R03"
+    },
+    {
+        "Info": "Technology and Society II",
+        "Text": "ARTSSCI-3BB3"
+    },
+    {
+        "Info": "Coding Inquiry",
+        "Text": "ARTSSCI-3C03"
+    },
+    {
+        "Info": "Global Justice Inquiry",
+        "Text": "ARTSSCI-3GJ3"
+    },
+    {
+        "Info": "Religion and Law",
+        "Text": "ARTSSCI-3RL3"
+    },
+    {
+        "Info": "Medical Humanities Inquiry",
+        "Text": "ARTSSCI-4CT3"
+    },
+    {
+        "Info": "Literature Inquiry I",
+        "Text": "ARTSSCI-4LI3"
+    },
+    {
+        "Info": "Local Explorations",
+        "Text": "ARTSSCI-4MN1"
+    },
+    {
+        "Info": "Visual Culture Inquiry",
+        "Text": "ARTSSCI-4VC3"
+    },
+    {
+        "Info": "The Big Questions",
+        "Text": "ASTRON-2B03"
+    },
+    {
+        "Info": "Planetary Astronomy",
+        "Text": "ASTRON-2E03"
+    },
+    {
+        "Info": "Galaxies and Cosmology",
+        "Text": "ASTRON-3X03"
+    },
+    {
+        "Info": "Advanced CAD",
+        "Text": "AUTOTECH-2AC3"
+    },
+    {
+        "Info": "Thermodynamics and Heat Transfer",
+        "Text": "AUTOTECH-2TS3"
+    },
+    {
+        "Info": "Internal Combustion Engines",
+        "Text": "AUTOTECH-4AE3"
+    },
+    {
+        "Info": "Electrical and Electronics Control Systems",
+        "Text": "AUTOTECH-4EC3"
+    },
+    {
+        "Info": "Kinematic and Dynamic Modelling and Simulation",
+        "Text": "AUTOTECH-4MS3"
+    },
+    {
+        "Info": "Protein Structure and Enzyme Function",
+        "Text": "BIOCHEM-2BB3"
+    },
+    {
+        "Info": "Metabolism and Physiological Chemistry",
+        "Text": "BIOCHEM-2EE3"
+    },
+    {
+        "Info": "Inquiry in Biochemical Techniques",
+        "Text": "BIOCHEM-2L06B"
+    },
+    {
+        "Info": "Antibiotics are the Cornerstone of Medicine",
+        "Text": "BIOCHEM-3AB3"
+    },
+    {
+        "Info": "Clinical Biochemistry",
+        "Text": "BIOCHEM-3H03"
+    },
+    {
+        "Info": "Advanced Biochemistry Techniques",
+        "Text": "BIOCHEM-3LA3"
+    },
+    {
+        "Info": "Fundamental and Applied Biochemical Techniques",
+        "Text": "BIOCHEM-3LT3"
+    },
+    {
+        "Info": "Structural Determination and Analysis of Macromolecules",
+        "Text": "BIOCHEM-3Z03"
+    },
+    {
+        "Info": "Inquiry in Biochemistry",
+        "Text": "BIOCHEM-4C03"
+    },
+    {
+        "Info": "Biotechnology and Drug Discovery",
+        "Text": "BIOCHEM-4H03"
+    },
+    {
+        "Info": "Immunological Principles in Practice",
+        "Text": "BIOCHEM-4J03"
+    },
+    {
+        "Info": "Cellular and Integrated Metabolism",
+        "Text": "BIOCHEM-4M03"
+    },
+    {
+        "Info": "Molecular Membrane Biology",
+        "Text": "BIOCHEM-4N03"
+    },
+    {
+        "Info": "Cellular and Molecular Biology",
+        "Text": "BIOLOGY-1A03"
+    },
+    {
+        "Info": "Biodiversity, Evolution and Humanity",
+        "Text": "BIOLOGY-1M03"
+    },
+    {
+        "Info": "Integrative Physiology of Animals",
+        "Text": "BIOLOGY-2A03"
+    },
+    {
+        "Info": "Cell Biology",
+        "Text": "BIOLOGY-2B03"
+    },
+    {
+        "Info": "Genetics",
+        "Text": "BIOLOGY-2C03"
+    },
+    {
+        "Info": "Fundamental and Applied Ecology",
+        "Text": "BIOLOGY-2F03"
+    },
+    {
+        "Info": "The Scientific Method in Biology",
+        "Text": "BIOLOGY-2L03"
+    },
+    {
+        "Info": "Plant Physiology",
+        "Text": "BIOLOGY-3B03"
+    },
+    {
+        "Info": "Ecotoxicology",
+        "Text": "BIOLOGY-3ET3"
+    },
+    {
+        "Info": "Population Genetics",
+        "Text": "BIOLOGY-3PG3"
+    },
+    {
+        "Info": "Applied Statistics for Biology",
+        "Text": "BIOLOGY-3SA3"
+    },
+    {
+        "Info": "Population Ecology",
+        "Text": "BIOLOGY-3SS3"
+    },
+    {
+        "Info": "Animal Physiology - Regulatory Systems",
+        "Text": "BIOLOGY-3UU3"
+    },
+    {
+        "Info": "Comparative Vertebrate Anatomy & Physiology",
+        "Text": "BIOLOGY-3XL3"
+    },
+    {
+        "Info": "Advanced Topics in Ecology",
+        "Text": "BIOLOGY-4A03"
+    },
+    {
+        "Info": "Conservation Biology",
+        "Text": "BIOLOGY-4AA3"
+    },
+    {
+        "Info": "Molecular and Cellular Neuroscience",
+        "Text": "BIOLOGY-4T03"
+    },
+    {
+        "Info": "Drug Discovery and Development",
+        "Text": "BIOMEDDC-3B06B"
+    },
+    {
+        "Info": "Biochemistry and Biomedical Scientific Writing: Right your Write",
+        "Text": "BIOMEDDC-3WR3"
+    },
+    {
+        "Info": "Explorations in Medical and Biological Physics",
+        "Text": "BIOPHYS-2S03"
+    },
+    {
+        "Info": "Origin of Life",
+        "Text": "BIOPHYS-3D03"
+    },
+    {
+        "Info": "Modelling Life",
+        "Text": "BIOPHYS-3G03"
+    },
+    {
+        "Info": "Biosafety Training",
+        "Text": "BIOSAFE-1BS0"
+    },
+    {
+        "Info": "Biotechnology Concepts",
+        "Text": "BIOTECH-2B03"
+    },
+    {
+        "Info": "Biochemistry",
+        "Text": "BIOTECH-2BC3"
+    },
+    {
+        "Info": "Genetics",
+        "Text": "BIOTECH-2GT3"
+    },
+    {
+        "Info": "Microbiology",
+        "Text": "BIOTECH-2MB3"
+    },
+    {
+        "Info": "Biomaterials and Biocompatibility",
+        "Text": "BIOTECH-4BL3"
+    },
+    {
+        "Info": "Biopharmaceuticals",
+        "Text": "BIOTECH-4BM3"
+    },
+    {
+        "Info": "Genomics and Proteomics",
+        "Text": "BIOTECH-4GP3"
+    },
+    {
+        "Info": "Introductory Chemistry II",
+        "Text": "CHEM-1AA3"
+    },
+    {
+        "Info": "General Chemistry for Engineering I",
+        "Text": "CHEM-1E03"
+    },
+    {
+        "Info": "Introductory Inorganic Chemistry: Structure and Bonding",
+        "Text": "CHEM-2II3"
+    },
+    {
+        "Info": "Tools for Chemical Discovery",
+        "Text": "CHEM-2LB3"
+    },
+    {
+        "Info": "Organic Chemistry II",
+        "Text": "CHEM-2OB3"
+    },
+    {
+        "Info": "Synthesis and Function of Organic Molecules",
+        "Text": "CHEM-2OD3"
+    },
+    {
+        "Info": "Applications of Physical Chemistry",
+        "Text": "CHEM-2P03"
+    },
+    {
+        "Info": "Instrumental Analysis",
+        "Text": "CHEM-3AA3"
+    },
+    {
+        "Info": "Industrial Chemistry",
+        "Text": "CHEM-3I03"
+    },
+    {
+        "Info": "Quantum Mechanics and Spectroscopy",
+        "Text": "CHEM-3PA3"
+    },
+    {
+        "Info": "Radioisotopes in Medicine",
+        "Text": "CHEM-3RC3"
+    },
+    {
+        "Info": "Physical Methods of Inorganic Structure Determination",
+        "Text": "CHEM-4IA3"
+    },
+    {
+        "Info": "Bio-Inorganic Chemistry",
+        "Text": "CHEM-4IB3"
+    },
+    {
+        "Info": "Natural Products",
+        "Text": "CHEM-4OA3"
+    },
+    {
+        "Info": "Computational Models for Electronic Structure and Chemical Bonding",
+        "Text": "CHEM-4PB3"
+    },
+    {
+        "Info": "Sustainable Chemistry \u2013 Analysis and Regulation",
+        "Text": "CHEM-4SC3"
+    },
+    {
+        "Info": "Pharmaceutical Chemistry Laboratory I: Biomolecular Interactions",
+        "Text": "CHEMBIO-2L03"
+    },
+    {
+        "Info": "Organic Chemistry II",
+        "Text": "CHEMBIO-2OD3"
+    },
+    {
+        "Info": "Physical Chemistry Tools for Chemical Biology",
+        "Text": "CHEMBIO-2P03"
+    },
+    {
+        "Info": "Analytical Tools for Chemical Biology",
+        "Text": "CHEMBIO-3AA3"
+    },
+    {
+        "Info": "Chemical Biology Laboratory II",
+        "Text": "CHEMBIO-3L03"
+    },
+    {
+        "Info": "Structural Elucidation of Natural Products and Small Molecules",
+        "Text": "CHEMBIO-3OB3"
+    },
+    {
+        "Info": "Bio-Analytical Chemistry and Assay Development",
+        "Text": "CHEMBIO-4A03"
+    },
+    {
+        "Info": "Bio-Inorganic Chemistry",
+        "Text": "CHEMBIO-4IB3"
+    },
+    {
+        "Info": "Natural Products",
+        "Text": "CHEMBIO-4OA3"
+    },
+    {
+        "Info": "Medicinal Chemistry: Drug Design and Development",
+        "Text": "CHEMBIO-4OB3"
+    },
+    {
+        "Info": "Integrated Chemical & Biomedical Engineering Capstone Design Project",
+        "Text": "CHEMBME-5P06B"
+    },
+    {
+        "Info": "Chemical Engineering Principles II",
+        "Text": "CHEMENG-2F04"
+    },
+    {
+        "Info": "Fluid Mechanics",
+        "Text": "CHEMENG-2O04"
+    },
+    {
+        "Info": "Bioseparations Engineering",
+        "Text": "CHEMENG-3BM3"
+    },
+    {
+        "Info": "Chemical Process Design and Simulation",
+        "Text": "CHEMENG-3G04"
+    },
+    {
+        "Info": "Introduction to Reactor Design",
+        "Text": "CHEMENG-3K04"
+    },
+    {
+        "Info": "Intermediate Laboratory Skills",
+        "Text": "CHEMENG-3L03"
+    },
+    {
+        "Info": "Process Control",
+        "Text": "CHEMENG-3P04"
+    },
+    {
+        "Info": "Introduction to Polymer Science",
+        "Text": "CHEMENG-3Q03"
+    },
+    {
+        "Info": "Electrochemistry and Electrochemical Engineering",
+        "Text": "CHEMENG-4EC3"
+    },
+    {
+        "Info": "Optimization in Chemical Engineering",
+        "Text": "CHEMENG-4G03"
+    },
+    {
+        "Info": "Big Data Methods and Modeling in Chemical and Materials Engineering",
+        "Text": "CHEMENG-4H03"
+    },
+    {
+        "Info": "Applications of Chemical Engineering in Medicine",
+        "Text": "CHEMENG-4T03"
+    },
+    {
+        "Info": "Chemical Plant Design and Capstone Project",
+        "Text": "CHEMENG-4W06B"
+    },
+    {
+        "Info": "Polymer Processing",
+        "Text": "CHEMENG-4X03"
+    },
+    {
+        "Info": "Interfacial Engineering",
+        "Text": "CHEMENG-4Z03"
+    },
+    {
+        "Info": "Mandarin Chinese for Beginners",
+        "Text": "CHINESE-1Z06B"
+    },
+    {
+        "Info": "Integrated Civil & Biomedical Engineering Capstone Design Project",
+        "Text": "CIVBME-5P06B"
+    },
+    {
+        "Info": "Structural Mechanics",
+        "Text": "CIVENG-2C04"
+    },
+    {
+        "Info": "Engineering Geology",
+        "Text": "CIVENG-2J03"
+    },
+    {
+        "Info": "Fluid Mechanics",
+        "Text": "CIVENG-2O04"
+    },
+    {
+        "Info": "Geotechnical Engineering II",
+        "Text": "CIVENG-3B03"
+    },
+    {
+        "Info": "Reinforced Concrete Design",
+        "Text": "CIVENG-3J04"
+    },
+    {
+        "Info": "Water Quality",
+        "Text": "CIVENG-3L03"
+    },
+    {
+        "Info": "Municipal Hydraulics",
+        "Text": "CIVENG-3M03"
+    },
+    {
+        "Info": "Building Science",
+        "Text": "CIVENG-4BP4"
+    },
+    {
+        "Info": "Design of Water Resources Systems",
+        "Text": "CIVENG-4L04"
+    },
+    {
+        "Info": "Stormwater Management Modeling and Analysis",
+        "Text": "CIVENG-4SM4"
+    },
+    {
+        "Info": "Transit Modelling and Intelligent Transportation Systems",
+        "Text": "CIVENG-4T04"
+    },
+    {
+        "Info": "Traffic Analysis: Theory and Simulation",
+        "Text": "CIVENG-4TA4"
+    },
+    {
+        "Info": "Biological Aspects of Wastewater Treatment",
+        "Text": "CIVENG-4V04"
+    },
+    {
+        "Info": "Design of Low Rise Buildings",
+        "Text": "CIVENG-4W04"
+    },
+    {
+        "Info": "Design and Synthesis Project in Civil Engineering",
+        "Text": "CIVENG-4X06B"
+    },
+    {
+        "Info": "Bridges and Other Structural Systems",
+        "Text": "CIVENG-4Y04"
+    },
+    {
+        "Info": "Geotechnical Design",
+        "Text": "CIVTECH-3GT3"
+    },
+    {
+        "Info": "Building Science",
+        "Text": "CIVTECH-4BC3"
+    },
+    {
+        "Info": "Advanced Land Use Planning",
+        "Text": "CIVTECH-4LU3"
+    },
+    {
+        "Info": "Hydraulic Engineering",
+        "Text": "CIVTECH-4MH3"
+    },
+    {
+        "Info": "Structural Steel Design",
+        "Text": "CIVTECH-4SD3"
+    },
+    {
+        "Info": "Introduction to Communication",
+        "Text": "CMST-1A03"
+    },
+    {
+        "Info": "Culture and Communication",
+        "Text": "CMST-2BB3"
+    },
+    {
+        "Info": "Gender and Performance",
+        "Text": "CMST-2H03"
+    },
+    {
+        "Info": "Public Relations: Principles and Practices",
+        "Text": "CMST-2PR3"
+    },
+    {
+        "Info": "Application in Communication Theory and Methods",
+        "Text": "CMST-2RA3"
+    },
+    {
+        "Info": "Digital Storytelling",
+        "Text": "CMST-3DG3"
+    },
+    {
+        "Info": "History of Communication",
+        "Text": "CMST-3HC3"
+    },
+    {
+        "Info": "The Rise of the Music Industry",
+        "Text": "CMST-3JJ3"
+    },
+    {
+        "Info": "Media Audiences and Effects",
+        "Text": "CMST-3K03"
+    },
+    {
+        "Info": "Race, Religion and Media",
+        "Text": "CMST-3RR3"
+    },
+    {
+        "Info": "Building Publics Using Social Media",
+        "Text": "CMST-3SM3"
+    },
+    {
+        "Info": "International Communication",
+        "Text": "CMST-4D03"
+    },
+    {
+        "Info": "Media and Promotionalism",
+        "Text": "CMST-4E03"
+    },
+    {
+        "Info": "Communication, Culture and Technology",
+        "Text": "CMST-4M03"
+    },
+    {
+        "Info": "Social Activism and the Media",
+        "Text": "CMST-4P03"
+    },
+    {
+        "Info": "Communications for Campaigns and Elections",
+        "Text": "CMST-4X03"
+    },
+    {
+        "Info": "Community-Based Learning with McMaster Children and Youth University",
+        "Text": "CMTYENGA-2MD3"
+    },
+    {
+        "Info": "Epidemiology in Public Health",
+        "Text": "COLLAB-2P03"
+    },
+    {
+        "Info": "Aging in Place",
+        "Text": "COLLAB-2T03"
+    },
+    {
+        "Info": "Interprofessional Case Management",
+        "Text": "COLLAB-3IP3"
+    },
+    {
+        "Info": "Introductory Financial Accounting",
+        "Text": "COMMERCE-1AA3"
+    },
+    {
+        "Info": "Organizational Behaviour",
+        "Text": "COMMERCE-1BA3"
+    },
+    {
+        "Info": "Business Data Analytics",
+        "Text": "COMMERCE-1DA3"
+    },
+    {
+        "Info": "DeGroote Student Experience and Development I",
+        "Text": "COMMERCE-1GR0B"
+    },
+    {
+        "Info": "Introduction to Marketing",
+        "Text": "COMMERCE-1MA3"
+    },
+    {
+        "Info": "Managerial Accounting I",
+        "Text": "COMMERCE-2AB3"
+    },
+    {
+        "Info": "Human Resource Management and Labour Relations",
+        "Text": "COMMERCE-2BC3"
+    },
+    {
+        "Info": "Introduction to Finance",
+        "Text": "COMMERCE-2FA3"
+    },
+    {
+        "Info": "Managerial Finance",
+        "Text": "COMMERCE-2FB3"
+    },
+    {
+        "Info": "DeGroote Student Experience and Development II",
+        "Text": "COMMERCE-2GR0"
+    },
+    {
+        "Info": "Career Development Course",
+        "Text": "COMMERCE-2IN0"
+    },
+    {
+        "Info": "Negotiations",
+        "Text": "COMMERCE-2NG3"
+    },
+    {
+        "Info": "Operations Management",
+        "Text": "COMMERCE-2OC3"
+    },
+    {
+        "Info": "Intermediate Financial Accounting II",
+        "Text": "COMMERCE-3AC3"
+    },
+    {
+        "Info": "(2023 Fall only) Predictive Analytics",
+        "Text": "COMMERCE-3DA3"
+    },
+    {
+        "Info": "Securities Analysis",
+        "Text": "COMMERCE-3FB3"
+    },
+    {
+        "Info": "International Finance",
+        "Text": "COMMERCE-3FC3"
+    },
+    {
+        "Info": "Financial Modelling",
+        "Text": "COMMERCE-3FD3"
+    },
+    {
+        "Info": "Alternative Investments and Portfolio Management",
+        "Text": "COMMERCE-3FH3"
+    },
+    {
+        "Info": "Market Trading with Options and Futures",
+        "Text": "COMMERCE-3FI3"
+    },
+    {
+        "Info": "Sustainable and Social Finance",
+        "Text": "COMMERCE-3FL3"
+    },
+    {
+        "Info": "The History of Finance",
+        "Text": "COMMERCE-3FM3"
+    },
+    {
+        "Info": "DeGroote Student Experience and Development III",
+        "Text": "COMMERCE-3GR0"
+    },
+    {
+        "Info": "Management of Enterprise Data Analytics",
+        "Text": "COMMERCE-3KE3"
+    },
+    {
+        "Info": "Marketing Research",
+        "Text": "COMMERCE-3MA3"
+    },
+    {
+        "Info": "Consumer Behaviour",
+        "Text": "COMMERCE-3MB3"
+    },
+    {
+        "Info": "Applied Marketing Management",
+        "Text": "COMMERCE-3MC3"
+    },
+    {
+        "Info": "Introduction to Contemporary Applied Marketing",
+        "Text": "COMMERCE-3MD3"
+    },
+    {
+        "Info": "Managerial Accounting II",
+        "Text": "COMMERCE-4AA3"
+    },
+    {
+        "Info": "Advanced Financial Accounting",
+        "Text": "COMMERCE-4AC3"
+    },
+    {
+        "Info": "Introduction to Auditing",
+        "Text": "COMMERCE-4AD3"
+    },
+    {
+        "Info": "Accounting Theory",
+        "Text": "COMMERCE-4AF3"
+    },
+    {
+        "Info": "Accounting Information for Decision Making",
+        "Text": "COMMERCE-4AK3"
+    },
+    {
+        "Info": "Recruitment and Selection",
+        "Text": "COMMERCE-4BB3"
+    },
+    {
+        "Info": "Collective Bargaining",
+        "Text": "COMMERCE-4BC3"
+    },
+    {
+        "Info": "Strategic Compensation/Reward Systems",
+        "Text": "COMMERCE-4BE3"
+    },
+    {
+        "Info": "Labour Law and Policy",
+        "Text": "COMMERCE-4BF3"
+    },
+    {
+        "Info": "Strategic Human Resource Planning",
+        "Text": "COMMERCE-4BM3"
+    },
+    {
+        "Info": "Leadership Development",
+        "Text": "COMMERCE-4BN3"
+    },
+    {
+        "Info": "Special Topics in Human Resource Management",
+        "Text": "COMMERCE-4BX3"
+    },
+    {
+        "Info": "Applied Corporate Finance",
+        "Text": "COMMERCE-4FA3"
+    },
+    {
+        "Info": "Valuation for Finance Professionals",
+        "Text": "COMMERCE-4FB3"
+    },
+    {
+        "Info": "Options and Futures",
+        "Text": "COMMERCE-4FE3"
+    },
+    {
+        "Info": "Mergers, Acquisitions and Corporate Control",
+        "Text": "COMMERCE-4FH3"
+    },
+    {
+        "Info": "Financial Statement Analysis",
+        "Text": "COMMERCE-4FK3"
+    },
+    {
+        "Info": "Personal Financial Management",
+        "Text": "COMMERCE-4FL3"
+    },
+    {
+        "Info": "Personal Financial Planning and Advising",
+        "Text": "COMMERCE-4FM3"
+    },
+    {
+        "Info": "Pension, Retirement and Estate Planning",
+        "Text": "COMMERCE-4FS3"
+    },
+    {
+        "Info": "Real Estate Finance and Investment",
+        "Text": "COMMERCE-4FT3"
+    },
+    {
+        "Info": "Venture Capital",
+        "Text": "COMMERCE-4FV3"
+    },
+    {
+        "Info": "Introduction to FinTech",
+        "Text": "COMMERCE-4FY3"
+    },
+    {
+        "Info": "DeGroote Student Experience and Development IV",
+        "Text": "COMMERCE-4GR3"
+    },
+    {
+        "Info": "Project Management",
+        "Text": "COMMERCE-4KF3"
+    },
+    {
+        "Info": "Data Mining For Business Analytics",
+        "Text": "COMMERCE-4KG3"
+    },
+    {
+        "Info": "Advertising and Integrated Marketing Communication",
+        "Text": "COMMERCE-4MA3"
+    },
+    {
+        "Info": "New Product Marketing",
+        "Text": "COMMERCE-4MC3"
+    },
+    {
+        "Info": "Business Marketing",
+        "Text": "COMMERCE-4MD3"
+    },
+    {
+        "Info": "Sales Management",
+        "Text": "COMMERCE-4ME3"
+    },
+    {
+        "Info": "Retailing Management",
+        "Text": "COMMERCE-4MF3"
+    },
+    {
+        "Info": "Digital Marketing",
+        "Text": "COMMERCE-4MH3"
+    },
+    {
+        "Info": "Marketing Analytics",
+        "Text": "COMMERCE-4MI3"
+    },
+    {
+        "Info": "Analysis of Production/Operations Problems",
+        "Text": "COMMERCE-4OB3"
+    },
+    {
+        "Info": "Purchasing and Supply Management",
+        "Text": "COMMERCE-4OD3"
+    },
+    {
+        "Info": "Business Policy: Strategic Management",
+        "Text": "COMMERCE-4PA3"
+    },
+    {
+        "Info": "Operations Modelling and Analysis",
+        "Text": "COMMERCE-4QA3"
+    },
+    {
+        "Info": "International Business",
+        "Text": "COMMERCE-4SA3"
+    },
+    {
+        "Info": "Advanced Canadian Taxation",
+        "Text": "COMMERCE-4SC3"
+    },
+    {
+        "Info": "Commercial Law",
+        "Text": "COMMERCE-4SD3"
+    },
+    {
+        "Info": "Sustainability: Corporations and Society",
+        "Text": "COMMERCE-4SG3"
+    },
+    {
+        "Info": "Innovation for Social Impact",
+        "Text": "COMMERCE-4SI3"
+    },
+    {
+        "Info": "Sports Management",
+        "Text": "COMMERCE-4SM3"
+    },
+    {
+        "Info": "Microprocessor Systems Project",
+        "Text": "COMPENG-2DX3"
+    },
+    {
+        "Info": "Data Structures and Algorithms",
+        "Text": "COMPENG-2SI3"
+    },
+    {
+        "Info": "Computer Systems Integration Project",
+        "Text": "COMPENG-3DY4"
+    },
+    {
+        "Info": "Computer-Aided Engineering",
+        "Text": "COMPENG-3SK3"
+    },
+    {
+        "Info": "Algorithm Design and Analysis",
+        "Text": "COMPENG-3SM4"
+    },
+    {
+        "Info": "Advanced Internet Communications",
+        "Text": "COMPENG-4DN4"
+    },
+    {
+        "Info": "Embedded Systems",
+        "Text": "COMPENG-4DS4"
+    },
+    {
+        "Info": "Image Processing",
+        "Text": "COMPENG-4TN4"
+    },
+    {
+        "Info": "Discrete Mathematics for Computer Science",
+        "Text": "COMPSCI-1DM3"
+    },
+    {
+        "Info": "Introduction to Programming",
+        "Text": "COMPSCI-1MD3"
+    },
+    {
+        "Info": "Computer Science Practice and Experience: Development Basics",
+        "Text": "COMPSCI-1XC3"
+    },
+    {
+        "Info": "Computer Science Practice and Experience: Introduction to Software Design Using Web Programming",
+        "Text": "COMPSCI-1XD3"
+    },
+    {
+        "Info": "Automata and Computability",
+        "Text": "COMPSCI-2AC3"
+    },
+    {
+        "Info": "Databases",
+        "Text": "COMPSCI-2DB3"
+    },
+    {
+        "Info": "Concurrent Systems",
+        "Text": "COMPSCI-2SD3"
+    },
+    {
+        "Info": "Computer Science Practice and Experience: Algorithms and Software Design",
+        "Text": "COMPSCI-2XC3"
+    },
+    {
+        "Info": "Algorithms and Complexity",
+        "Text": "COMPSCI-3AC3"
+    },
+    {
+        "Info": "Introduction to Data Mining",
+        "Text": "COMPSCI-3DM3"
+    },
+    {
+        "Info": "Data Privacy",
+        "Text": "COMPSCI-3DP3"
+    },
+    {
+        "Info": "Computer Networks and Security",
+        "Text": "COMPSCI-3N03"
+    },
+    {
+        "Info": "Syntax-Based Tools and Compilers",
+        "Text": "COMPSCI-3TB3"
+    },
+    {
+        "Info": "Advanced Databases",
+        "Text": "COMPSCI-4AD3"
+    },
+    {
+        "Info": "Computer Networks and Security",
+        "Text": "COMPSCI-4C03"
+    },
+    {
+        "Info": "Performance Analysis of Computer Systems",
+        "Text": "COMPSCI-4E03"
+    },
+    {
+        "Info": "Introduction to Machine Learning",
+        "Text": "COMPSCI-4ML3"
+    },
+    {
+        "Info": "Syntax-Based Tools and Compilers",
+        "Text": "COMPSCI-4TB3"
+    },
+    {
+        "Info": "Directed Readings",
+        "Text": "COMPSCI-4Z03"
+    },
+    {
+        "Info": "Capstone Project",
+        "Text": "COMPSCI-4ZP6B"
+    },
+    {
+        "Info": "Introduction to Neural Networks and Machine Learning",
+        "Text": "DATASCI-3ML3"
+    },
+    {
+        "Info": "Physics for Video Games",
+        "Text": "DATASCI-3VG3"
+    },
+    {
+        "Info": "Earth and the Environment",
+        "Text": "EARTHSC-1G03"
+    },
+    {
+        "Info": "Natural Disasters",
+        "Text": "EARTHSC-2GG3"
+    },
+    {
+        "Info": "Geology of Canada",
+        "Text": "EARTHSC-2T03"
+    },
+    {
+        "Info": "Petrology",
+        "Text": "EARTHSC-3K03"
+    },
+    {
+        "Info": "Paleoecology",
+        "Text": "EARTHSC-3P03"
+    },
+    {
+        "Info": "Structural Geology",
+        "Text": "EARTHSC-3Z03"
+    },
+    {
+        "Info": "Topics of Field Research",
+        "Text": "EARTHSC-4FF3"
+    },
+    {
+        "Info": "Exploration Geophysics",
+        "Text": "EARTHSC-4V03"
+    },
+    {
+        "Info": "Contaminant Hydrogeology",
+        "Text": "EARTHSC-4WB3"
+    },
+    {
+        "Info": "Introductory Microeconomics",
+        "Text": "ECON-1B03"
+    },
+    {
+        "Info": "Introductory Macroeconomics",
+        "Text": "ECON-1BB3"
+    },
+    {
+        "Info": "Introduction to Mathematical Economics",
+        "Text": "ECON-1ME3"
+    },
+    {
+        "Info": "Analysis of Economic Data",
+        "Text": "ECON-2B03"
+    },
+    {
+        "Info": "Health Economics and its Application to Health Policy",
+        "Text": "ECON-2CC3"
+    },
+    {
+        "Info": "Intermediate Macroeconomics I",
+        "Text": "ECON-2H03"
+    },
+    {
+        "Info": "Intermediate Macroeconomics II",
+        "Text": "ECON-2HH3"
+    },
+    {
+        "Info": "Financial Economics",
+        "Text": "ECON-2I03"
+    },
+    {
+        "Info": "Environmental Economics",
+        "Text": "ECON-2J03"
+    },
+    {
+        "Info": "Economics of Professional Sports",
+        "Text": "ECON-2P03"
+    },
+    {
+        "Info": "Intermediate Microeconomics I",
+        "Text": "ECON-2Z03"
+    },
+    {
+        "Info": "Intermediate Microeconomics II",
+        "Text": "ECON-2ZZ3"
+    },
+    {
+        "Info": "Public Sector Economics: Expenditures",
+        "Text": "ECON-3B03"
+    },
+    {
+        "Info": "Behavioural Economics",
+        "Text": "ECON-3BE3"
+    },
+    {
+        "Info": "Public Sector Economics: Taxation",
+        "Text": "ECON-3C03"
+    },
+    {
+        "Info": "Labour Economics",
+        "Text": "ECON-3D03"
+    },
+    {
+        "Info": "Applied Econometrics",
+        "Text": "ECON-3E03"
+    },
+    {
+        "Info": "Introduction to Advanced Economic Theory",
+        "Text": "ECON-3G03"
+    },
+    {
+        "Info": "International Monetary Economics",
+        "Text": "ECON-3H03"
+    },
+    {
+        "Info": "International Trade",
+        "Text": "ECON-3HH3"
+    },
+    {
+        "Info": "Introduction to Game Theory",
+        "Text": "ECON-3M03"
+    },
+    {
+        "Info": "Economic Development",
+        "Text": "ECON-3T03"
+    },
+    {
+        "Info": "Honours Economic Analysis",
+        "Text": "ECON-4A03"
+    },
+    {
+        "Info": "Advanced Economic Theory II",
+        "Text": "ECON-4TT3"
+    },
+    {
+        "Info": "Integrated Electrical & Biomedical Engineering Capstone Design Project",
+        "Text": "ELECBME-5P06B"
+    },
+    {
+        "Info": "Circuits and Waves",
+        "Text": "ELECENG-2CF3"
+    },
+    {
+        "Info": "Circuits and Systems",
+        "Text": "ELECENG-2CJ4"
+    },
+    {
+        "Info": "Electronic Devices and Circuits I",
+        "Text": "ELECENG-2EI4"
+    },
+    {
+        "Info": "Electromagnetics I",
+        "Text": "ELECENG-2FH4"
+    },
+    {
+        "Info": "Introduction to Control Systems",
+        "Text": "ELECENG-3CL4"
+    },
+    {
+        "Info": "Electrical Systems Integration Project",
+        "Text": "ELECENG-3EY4"
+    },
+    {
+        "Info": "Electronics and Instrumentation",
+        "Text": "ELECENG-3N03"
+    },
+    {
+        "Info": "Energy Conversion",
+        "Text": "ELECENG-3PI4"
+    },
+    {
+        "Info": "Communication Systems",
+        "Text": "ELECENG-3TR4"
+    },
+    {
+        "Info": "Cellular Bioelectricity",
+        "Text": "ELECENG-4BB3"
+    },
+    {
+        "Info": "Advanced Medical Imaging",
+        "Text": "ELECENG-4BF4"
+    },
+    {
+        "Info": "Photonic Devices and Systems",
+        "Text": "ELECENG-4EM4"
+    },
+    {
+        "Info": "Engineering Design",
+        "Text": "ELECENG-4OI6B"
+    },
+    {
+        "Info": "Electric Motor Drives",
+        "Text": "ELECENG-4PN4"
+    },
+    {
+        "Info": "Smart and Micro Grids",
+        "Text": "ELECENG-4PP4"
+    },
+    {
+        "Info": "Introduction to the Engineering Co-op Program",
+        "Text": "ENGINEER-1EE0"
+    },
+    {
+        "Info": "Integrated Cornerstone Design Projects in Engineering",
+        "Text": "ENGINEER-1P13B"
+    },
+    {
+        "Info": "Inclusion in the Engineering Workplace",
+        "Text": "ENGINEER-2IW3"
+    },
+    {
+        "Info": "Engineering Design 2: Communications and Social Impact",
+        "Text": "ENGINEER-2PX3"
+    },
+    {
+        "Info": "Experiential Learning in Complementary Studies",
+        "Text": "ENGINEER-3CX3B"
+    },
+    {
+        "Info": "Engineering Design 3: Engineering Economics",
+        "Text": "ENGINEER-3PX3"
+    },
+    {
+        "Info": "Ethics, Equity and Law in Engineering",
+        "Text": "ENGINEER-4A03"
+    },
+    {
+        "Info": "Experiential Engineering Design",
+        "Text": "ENGINEER-4EX3B"
+    },
+    {
+        "Info": "Studying Culture: A Critical Introduction",
+        "Text": "ENGLISH-1CS3"
+    },
+    {
+        "Info": "The Written World",
+        "Text": "ENGLISH-1F03"
+    },
+    {
+        "Info": "Making and Unmaking Literary Traditions",
+        "Text": "ENGLISH-1G03"
+    },
+    {
+        "Info": "Contemporary Canadian Fiction",
+        "Text": "ENGLISH-2C03"
+    },
+    {
+        "Info": "Shakespeare: Comedies, Problem Plays, and Romances",
+        "Text": "ENGLISH-2CR3"
+    },
+    {
+        "Info": "Genre in Creative Writing",
+        "Text": "ENGLISH-2CW3"
+    },
+    {
+        "Info": "Indigenous Futurisms and Wonderworks",
+        "Text": "ENGLISH-2KA3"
+    },
+    {
+        "Info": "Popular Culture",
+        "Text": "ENGLISH-2PC3"
+    },
+    {
+        "Info": "Reading Environmental Humanities",
+        "Text": "ENGLISH-2Z03"
+    },
+    {
+        "Info": "Critical Race Studies",
+        "Text": "ENGLISH-3A03"
+    },
+    {
+        "Info": "Theories of Decolonization and Resistance",
+        "Text": "ENGLISH-3GG3"
+    },
+    {
+        "Info": "Reading the Embodied Past: Gender and Sexuality",
+        "Text": "ENGLISH-3GS3"
+    },
+    {
+        "Info": "Narratives of Health",
+        "Text": "ENGLISH-3NH3"
+    },
+    {
+        "Info": "'We Other Victorians': Victorian Literature and Culture and Its Afterlives",
+        "Text": "ENGLISH-3VC3"
+    },
+    {
+        "Info": "British Romantic Literature and Culture: Revolution, War, Empire",
+        "Text": "ENGLISH-3WE3"
+    },
+    {
+        "Info": "Electricity and Magnetism",
+        "Text": "ENGPHYS-2A04"
+    },
+    {
+        "Info": "Computational Multiphysics",
+        "Text": "ENGPHYS-2CM4"
+    },
+    {
+        "Info": "Introduction to Quantum Mechanics",
+        "Text": "ENGPHYS-2QM3"
+    },
+    {
+        "Info": "Embedding and Programming a Micro-Controller",
+        "Text": "ENGPHYS-3BB3"
+    },
+    {
+        "Info": "Engineering Metrology",
+        "Text": "ENGPHYS-3L04"
+    },
+    {
+        "Info": "Introduction to Fluid Mechanics and Heat Transfer",
+        "Text": "ENGPHYS-3O04"
+    },
+    {
+        "Info": "Photonic Devices",
+        "Text": "ENGPHYS-3PD4"
+    },
+    {
+        "Info": "Semiconductor Junction Devices",
+        "Text": "ENGPHYS-3PN4"
+    },
+    {
+        "Info": "Statistical Mechanics",
+        "Text": "ENGPHYS-3SM3"
+    },
+    {
+        "Info": "Engineering Physics Design and Synthesis Project",
+        "Text": "ENGPHYS-4A06B"
+    },
+    {
+        "Info": "Biosensors - Fundamentals and Applications",
+        "Text": "ENGPHYS-4B03"
+    },
+    {
+        "Info": "Introduction to Biophotonics",
+        "Text": "ENGPHYS-4I03"
+    },
+    {
+        "Info": "Nanoscale Semiconductor Devices",
+        "Text": "ENGPHYS-4MD3"
+    },
+    {
+        "Info": "Advanced Nuclear Engineering",
+        "Text": "ENGPHYS-4NE3"
+    },
+    {
+        "Info": "Nuclear Power Plant Systems and Operation",
+        "Text": "ENGPHYS-4P03"
+    },
+    {
+        "Info": "Lasers and Electro-Optics",
+        "Text": "ENGPHYS-4S04"
+    },
+    {
+        "Info": "Case Studies in History and Technology",
+        "Text": "ENGSOCTY-2Y03"
+    },
+    {
+        "Info": "Inquiry in an Engineering Context II",
+        "Text": "ENGSOCTY-3X03"
+    },
+    {
+        "Info": "Inquiry in an Engineering Context III",
+        "Text": "ENGSOCTY-4X03B"
+    },
+    {
+        "Info": "Analytical Chemistry",
+        "Text": "ENGTECH-1AC3"
+    },
+    {
+        "Info": "Biology",
+        "Text": "ENGTECH-1BI3"
+    },
+    {
+        "Info": "Electricity and Electronics I",
+        "Text": "ENGTECH-1EL3"
+    },
+    {
+        "Info": "Introduction to the Technology Co-op Program",
+        "Text": "ENGTECH-1ET0"
+    },
+    {
+        "Info": "Statics and Mechanics of Materials",
+        "Text": "ENGTECH-1ME3"
+    },
+    {
+        "Info": "Mathematics II",
+        "Text": "ENGTECH-1MT3"
+    },
+    {
+        "Info": "Object-Oriented Programming",
+        "Text": "ENGTECH-1PR3"
+    },
+    {
+        "Info": "Modelling and Numerical Solutions",
+        "Text": "ENGTECH-2MS3"
+    },
+    {
+        "Info": "Mathematics IV",
+        "Text": "ENGTECH-2MT3"
+    },
+    {
+        "Info": "Discrete Mathematics",
+        "Text": "ENGTECH-3DM3"
+    },
+    {
+        "Info": "Mathematics V",
+        "Text": "ENGTECH-3MA3"
+    },
+    {
+        "Info": "Strength of Materials",
+        "Text": "ENGTECH-3ML3"
+    },
+    {
+        "Info": "Statics and Dynamics",
+        "Text": "ENGTECH-3SD3"
+    },
+    {
+        "Info": "Structure and Properties of Materials",
+        "Text": "ENGTECH-3SP3"
+    },
+    {
+        "Info": "Probability and Statistics",
+        "Text": "ENGTECH-3ST3"
+    },
+    {
+        "Info": "Thermodynamics",
+        "Text": "ENGTECH-3TD3"
+    },
+    {
+        "Info": "Artificial Intelligence",
+        "Text": "ENGTECH-4AI3"
+    },
+    {
+        "Info": "Systems and Control",
+        "Text": "ENGTECH-4CT3"
+    },
+    {
+        "Info": "Senior Engineering Design Project",
+        "Text": "ENGTECH-4ED3"
+    },
+    {
+        "Info": "Senior Engineering Project",
+        "Text": "ENGTECH-4EP3"
+    },
+    {
+        "Info": "Finite Element Analysis",
+        "Text": "ENGTECH-4FA3"
+    },
+    {
+        "Info": "Senior Engineering Project",
+        "Text": "ENGTECH-4FD3"
+    },
+    {
+        "Info": "Advanced Mathematics",
+        "Text": "ENGTECH-4MA3"
+    },
+    {
+        "Info": "Mechanics of Fluids",
+        "Text": "ENGTECH-4TF3"
+    },
+    {
+        "Info": "Industrial Electronics",
+        "Text": "ENRTECH-3IE3"
+    },
+    {
+        "Info": "Industrial Networks and Communication Systems",
+        "Text": "ENRTECH-3IN3"
+    },
+    {
+        "Info": "Power Distribution I",
+        "Text": "ENRTECH-3PD3"
+    },
+    {
+        "Info": "Power Protection and Maintenance II",
+        "Text": "ENRTECH-4PP3"
+    },
+    {
+        "Info": "Power Quality",
+        "Text": "ENRTECH-4PQ3"
+    },
+    {
+        "Info": "Climate, Water and Environment",
+        "Text": "ENVIRSC-1C03"
+    },
+    {
+        "Info": "Introduction to Environmental Geochemistry",
+        "Text": "ENVIRSC-2Q03"
+    },
+    {
+        "Info": "Physical Hydrology",
+        "Text": "ENVIRSC-2W03"
+    },
+    {
+        "Info": "Water and the Environment",
+        "Text": "ENVIRSC-2WW3"
+    },
+    {
+        "Info": "Advanced Physical Climatology",
+        "Text": "ENVIRSC-4C03"
+    },
+    {
+        "Info": "Environmental Assessment",
+        "Text": "ENVIRSC-4EA3"
+    },
+    {
+        "Info": "Society, Culture and Environment",
+        "Text": "ENVSOCTY-1HA3"
+    },
+    {
+        "Info": "Population, Cities and Development",
+        "Text": "ENVSOCTY-1HB3"
+    },
+    {
+        "Info": "Traditional Indigenous Ecological Knowledge",
+        "Text": "ENVSOCTY-2EK3"
+    },
+    {
+        "Info": "Health and Place",
+        "Text": "ENVSOCTY-2HI3"
+    },
+    {
+        "Info": "Economic Geography: Innovation, Inequality and Identity",
+        "Text": "ENVSOCTY-2LE3"
+    },
+    {
+        "Info": "Regional Geography of the United States",
+        "Text": "ENVSOCTY-2RU3"
+    },
+    {
+        "Info": "Environmental Catastrophes",
+        "Text": "ENVSOCTY-3EC3"
+    },
+    {
+        "Info": "Northern Environments and Societies",
+        "Text": "ENVSOCTY-3EN3"
+    },
+    {
+        "Info": "Advanced Raster GIS",
+        "Text": "ENVSOCTY-3GI3"
+    },
+    {
+        "Info": "Research Methods",
+        "Text": "ENVSOCTY-3MA3"
+    },
+    {
+        "Info": "Human Geographies of Africa",
+        "Text": "ENVSOCTY-3RA3"
+    },
+    {
+        "Info": "Environmental Assessment",
+        "Text": "ENVSOCTY-4EA3"
+    },
+    {
+        "Info": "Applied Spatial Statistics",
+        "Text": "ENVSOCTY-4GA3"
+    },
+    {
+        "Info": "Advanced Remote Sensing",
+        "Text": "ENVSOCTY-4SR3"
+    },
+    {
+        "Info": "Sustainable Cities",
+        "Text": "ENVSOCTY-4US3"
+    },
+    {
+        "Info": "Integrated Engineering Physics & Biomedical Engineering Capstone Design Project",
+        "Text": "EPHYSBME-5P06B"
+    },
+    {
+        "Info": "Introductory Farsi II",
+        "Text": "FARSI-1ZZ3"
+    },
+    {
+        "Info": "Introduction to French Studies: Advanced Level",
+        "Text": "FRENCH-1A06B"
+    },
+    {
+        "Info": "Beginner's Intensive French I",
+        "Text": "FRENCH-1Z06B"
+    },
+    {
+        "Info": "French Language Practice II",
+        "Text": "FRENCH-2BB3"
+    },
+    {
+        "Info": "Survey of French and Francophone Literature",
+        "Text": "FRENCH-2F03"
+    },
+    {
+        "Info": "Elementary Translation from English to French",
+        "Text": "FRENCH-2G03"
+    },
+    {
+        "Info": "Introduction to French Studies: Advanced Level",
+        "Text": "FRENCH-2M06B"
+    },
+    {
+        "Info": "Beginner's Intensive French II",
+        "Text": "FRENCH-2Z06B"
+    },
+    {
+        "Info": "The Modern French-Canadian Novel",
+        "Text": "FRENCH-3AA3"
+    },
+    {
+        "Info": "Francophone Writers",
+        "Text": "FRENCH-3AC3"
+    },
+    {
+        "Info": "Professional French II",
+        "Text": "FRENCH-3II3"
+    },
+    {
+        "Info": "Twentieth-Century French Literature",
+        "Text": "FRENCH-3W03"
+    },
+    {
+        "Info": "French Language Practice IV",
+        "Text": "FRENCH-4A03"
+    },
+    {
+        "Info": "Gender, Race, Culture, Power",
+        "Text": "GENDRST-1A03"
+    },
+    {
+        "Info": "Gender, Feminism and Social Justice",
+        "Text": "GENDRST-1AA3"
+    },
+    {
+        "Info": "Images of the Divine Feminine",
+        "Text": "GENDRST-2BB3"
+    },
+    {
+        "Info": "Gender and Religion",
+        "Text": "GENDRST-3FF3"
+    },
+    {
+        "Info": "Foundations of Business",
+        "Text": "GENTECH-1BZ3"
+    },
+    {
+        "Info": "Engineering Economics",
+        "Text": "GENTECH-2EE3"
+    },
+    {
+        "Info": "Human Resource Fundamentals",
+        "Text": "GENTECH-2HR3"
+    },
+    {
+        "Info": "Creativity, Innovation and Technology",
+        "Text": "GENTECH-3DM3"
+    },
+    {
+        "Info": "Engineering Economics",
+        "Text": "GENTECH-3EE3"
+    },
+    {
+        "Info": "Financial Systems",
+        "Text": "GENTECH-3FS3"
+    },
+    {
+        "Info": "Management Principles",
+        "Text": "GENTECH-3MP3"
+    },
+    {
+        "Info": "Legal and Regulatory Issues",
+        "Text": "GENTECH-4EM3"
+    },
+    {
+        "Info": "Entrepreneurial Thinking and Innovation",
+        "Text": "GENTECH-4EN3"
+    },
+    {
+        "Info": "Entrepreneurial Thinking and Innovation",
+        "Text": "GENTECH-4EP3"
+    },
+    {
+        "Info": "Lean Thinking and Practices",
+        "Text": "GENTECH-4LM3"
+    },
+    {
+        "Info": "Operations Management",
+        "Text": "GENTECH-4OM3"
+    },
+    {
+        "Info": "Project Management",
+        "Text": "GENTECH-4PM3"
+    },
+    {
+        "Info": "Technology Ethics and Sustainability",
+        "Text": "GENTECH-4SE3"
+    },
+    {
+        "Info": "Technical Communications",
+        "Text": "GENTECH-4TC3"
+    },
+    {
+        "Info": "Beginner's Intensive German",
+        "Text": "GERMAN-1Z06B"
+    },
+    {
+        "Info": "Postmodern Alienation and Anxieties - Kafka for the Twenty-First Century (Taught in English)",
+        "Text": "GERMAN-2KK3"
+    },
+    {
+        "Info": "Modern Germany Through Film: Golden 20s - Avant Garde - Transnational Cinema (Taught in English)",
+        "Text": "GERMAN-2P03"
+    },
+    {
+        "Info": "Horror Film: Vampires, Monsters, and Mad Scientists (Taught in English)",
+        "Text": "GERMAN-2Q03"
+    },
+    {
+        "Info": "Introduction to Greek and Roman Archaeology",
+        "Text": "GKROMST-1A03"
+    },
+    {
+        "Info": "An Introduction to Ancient Myth and Literature",
+        "Text": "GKROMST-1B03"
+    },
+    {
+        "Info": "History of Greece and Rome",
+        "Text": "GKROMST-1M03"
+    },
+    {
+        "Info": "Roman Art",
+        "Text": "GKROMST-2C03"
+    },
+    {
+        "Info": "Greek and Roman Mythology",
+        "Text": "GKROMST-2D03"
+    },
+    {
+        "Info": "The Ancient World in Film",
+        "Text": "GKROMST-2E03"
+    },
+    {
+        "Info": "Nero, Decadence, and the End of a Dynasty",
+        "Text": "GKROMST-2HD3"
+    },
+    {
+        "Info": "Ancient Law",
+        "Text": "GKROMST-2LW3"
+    },
+    {
+        "Info": "Ancient Roots of Medical Terminology",
+        "Text": "GKROMST-2MT3"
+    },
+    {
+        "Info": "Roman Slavery",
+        "Text": "GKROMST-3HH3"
+    },
+    {
+        "Info": "Advanced Ancient Roots of Medical Terminology",
+        "Text": "GKROMST-3MT3"
+    },
+    {
+        "Info": "Greek Sanctuaries",
+        "Text": "GKROMST-3Q03"
+    },
+    {
+        "Info": "The Myth and Reality of Troy",
+        "Text": "GKROMST-4MR3"
+    },
+    {
+        "Info": "Global Citizenship",
+        "Text": "GLOBALZN-1A03"
+    },
+    {
+        "Info": "Beginner's Intensive Ancient Greek II",
+        "Text": "GREEK-1ZZ3"
+    },
+    {
+        "Info": "Intermediate Greek II",
+        "Text": "GREEK-2AA3"
+    },
+    {
+        "Info": "Greek Prose",
+        "Text": "GREEK-3AA3"
+    },
+    {
+        "Info": "Introduction to Biblical Hebrew II",
+        "Text": "HEBREW-2B03"
+    },
+    {
+        "Info": "Exploring History in a Small Group Setting",
+        "Text": "HISTORY-1FF3"
+    },
+    {
+        "Info": "History of Greece and Rome",
+        "Text": "HISTORY-1M03"
+    },
+    {
+        "Info": "History of Medicine",
+        "Text": "HISTORY-1Q03"
+    },
+    {
+        "Info": "The Medieval World 400-1050",
+        "Text": "HISTORY-2CC3"
+    },
+    {
+        "Info": "Art and Revolutions in France, 1789-1914",
+        "Text": "HISTORY-2DF3"
+    },
+    {
+        "Info": "A History of Monsters",
+        "Text": "HISTORY-2GR3"
+    },
+    {
+        "Info": "Pirates, Pilgrims and the Enslaved in the Mediterranean, 1450-1750",
+        "Text": "HISTORY-2HH3"
+    },
+    {
+        "Info": "Modern Germany",
+        "Text": "HISTORY-2II3"
+    },
+    {
+        "Info": "Africa up to 1800",
+        "Text": "HISTORY-2J03"
+    },
+    {
+        "Info": "Modern China",
+        "Text": "HISTORY-2MC3"
+    },
+    {
+        "Info": "Histories of the Written Word",
+        "Text": "HISTORY-2PQ3"
+    },
+    {
+        "Info": "U.S. History Since the Civil War",
+        "Text": "HISTORY-2RR3"
+    },
+    {
+        "Info": "Survey of Canadian History, 1885 to the Present",
+        "Text": "HISTORY-2TT3"
+    },
+    {
+        "Info": "American Foreign Relations since 1898",
+        "Text": "HISTORY-2UV3"
+    },
+    {
+        "Info": "History of Quebec",
+        "Text": "HISTORY-3HQ3"
+    },
+    {
+        "Info": "Crime, Constables, and Courts: Modern Criminal Justice, 1700 to Present",
+        "Text": "HISTORY-3JJ3"
+    },
+    {
+        "Info": "The Vietnam War",
+        "Text": "HISTORY-3KK3"
+    },
+    {
+        "Info": "Poverty, Privilege and Protest in Canadian History",
+        "Text": "HISTORY-3N03"
+    },
+    {
+        "Info": "Early Modern Russia",
+        "Text": "HISTORY-3RU3"
+    },
+    {
+        "Info": "The History of the Future",
+        "Text": "HISTORY-3UA3"
+    },
+    {
+        "Info": "Youth Subcultures in Britain: From the Teds to the Acid Ravers",
+        "Text": "HISTORY-3YB3"
+    },
+    {
+        "Info": "The Cultural History of Paris, 1789-1914",
+        "Text": "HISTORY-4LP3"
+    },
+    {
+        "Info": "Introduction to Health and Society",
+        "Text": "HLTHAGE-1AA3"
+    },
+    {
+        "Info": "Introduction to Aging and Society",
+        "Text": "HLTHAGE-1BB3"
+    },
+    {
+        "Info": "Introduction to Mental Health and Illness",
+        "Text": "HLTHAGE-1CC3"
+    },
+    {
+        "Info": "The Anthropology of Food and Nutrition",
+        "Text": "HLTHAGE-2AN3"
+    },
+    {
+        "Info": "Perspectives in Health, Aging and Society",
+        "Text": "HLTHAGE-2BB3"
+    },
+    {
+        "Info": "Health Economics and its Application to Health Policy",
+        "Text": "HLTHAGE-2C03"
+    },
+    {
+        "Info": "Aging and Health Care Systems",
+        "Text": "HLTHAGE-2F03"
+    },
+    {
+        "Info": "Health & Place",
+        "Text": "HLTHAGE-2HI3"
+    },
+    {
+        "Info": "Selected Topics in Health and Society",
+        "Text": "HLTHAGE-2K03"
+    },
+    {
+        "Info": "Drugs, Sex and Alcohol: Society and its Addictions",
+        "Text": "HLTHAGE-2L03"
+    },
+    {
+        "Info": "State, Civil Society and Health",
+        "Text": "HLTHAGE-3AA3"
+    },
+    {
+        "Info": "Kindred Species: Animals, Health and Society",
+        "Text": "HLTHAGE-3AB3"
+    },
+    {
+        "Info": "Advanced Research Methods",
+        "Text": "HLTHAGE-3B03"
+    },
+    {
+        "Info": "Aging and Mental Health",
+        "Text": "HLTHAGE-3N03"
+    },
+    {
+        "Info": "Health and Incarceration",
+        "Text": "HLTHAGE-3T03"
+    },
+    {
+        "Info": "Living Well with Dementia: Social and Physical Environments",
+        "Text": "HLTHAGE-4AB3"
+    },
+    {
+        "Info": "Representations of Health and Illness Across the Lifecourse",
+        "Text": "HLTHAGE-4C03"
+    },
+    {
+        "Info": "Aging and Health",
+        "Text": "HLTHAGE-4I03"
+    },
+    {
+        "Info": "Narratives of Illness",
+        "Text": "HLTHAGE-4J03"
+    },
+    {
+        "Info": "Aging and Wellbeing",
+        "Text": "HLTHAGE-4N03"
+    },
+    {
+        "Info": "Competencies in Animal Care and Research: Orientation",
+        "Text": "HTHSCI-1A00"
+    },
+    {
+        "Info": "Competencies in Animal Care and Research: Methodologies",
+        "Text": "HTHSCI-1B00"
+    },
+    {
+        "Info": "Competencies in Animal Care and Research: Completion of Ethical Research",
+        "Text": "HTHSCI-1C00"
+    },
+    {
+        "Info": "Social Justice and Healthcare",
+        "Text": "HTHSCI-1C06B"
+    },
+    {
+        "Info": "Anatomy and Physiology",
+        "Text": "HTHSCI-1D06B"
+    },
+    {
+        "Info": "Discover Immunology Today",
+        "Text": "HTHSCI-1DT3"
+    },
+    {
+        "Info": "Inquiry I: Introduction",
+        "Text": "HTHSCI-1E06B"
+    },
+    {
+        "Info": "Human Anatomy and Physiology I",
+        "Text": "HTHSCI-1H06B"
+    },
+    {
+        "Info": "Cellular and Molecular Biology",
+        "Text": "HTHSCI-1I06B"
+    },
+    {
+        "Info": "Life Sciences for Clinical Practice",
+        "Text": "HTHSCI-1J03"
+    },
+    {
+        "Info": "Human Biochemistry I",
+        "Text": "HTHSCI-1LL3"
+    },
+    {
+        "Info": "Foundations of Data Science",
+        "Text": "HTHSCI-1M03"
+    },
+    {
+        "Info": "Praxis Pathways 1",
+        "Text": "HTHSCI-1X01B"
+    },
+    {
+        "Info": "Artistic Explorations of Community Issues",
+        "Text": "HTHSCI-2AE3"
+    },
+    {
+        "Info": "Integrated Biological Bases of Nursing Practice II",
+        "Text": "HTHSCI-2C06"
+    },
+    {
+        "Info": "CHS Learning Modules",
+        "Text": "HTHSCI-2CH3B"
+    },
+    {
+        "Info": "CHS Inquiry Fundamentals",
+        "Text": "HTHSCI-2CH6B"
+    },
+    {
+        "Info": "Inquiry II: Introduction and Biochemistry",
+        "Text": "HTHSCI-2D06B"
+    },
+    {
+        "Info": "Global Health and the Complexities of Disease",
+        "Text": "HTHSCI-2DS3"
+    },
+    {
+        "Info": "Human Physiology and Anatomy II",
+        "Text": "HTHSCI-2FF3"
+    },
+    {
+        "Info": "Statistics & Epidemiology 2",
+        "Text": "HTHSCI-2GG3"
+    },
+    {
+        "Info": "Introductory Microbiology",
+        "Text": "HTHSCI-2HH3"
+    },
+    {
+        "Info": "Inquiry II: Cell Biology",
+        "Text": "HTHSCI-2K03"
+    },
+    {
+        "Info": "Introduction to Integrated Pathophysiology for Nursing for Basic Stream",
+        "Text": "HTHSCI-2LA2B"
+    },
+    {
+        "Info": "Anatomy and Physiology II: Homeostasis",
+        "Text": "HTHSCI-2LL3"
+    },
+    {
+        "Info": "Introduction to Integrated Pathophysiology for Accelerated Stream",
+        "Text": "HTHSCI-2PF3B"
+    },
+    {
+        "Info": "Introduction to Statistics for Nursing",
+        "Text": "HTHSCI-2S03"
+    },
+    {
+        "Info": "Sex, Gender, & Health",
+        "Text": "HTHSCI-2T03"
+    },
+    {
+        "Info": "Praxis Pathways 2",
+        "Text": "HTHSCI-2X03B"
+    },
+    {
+        "Info": "Indigenous Health",
+        "Text": "HTHSCI-3AH3"
+    },
+    {
+        "Info": "Symptomatology",
+        "Text": "HTHSCI-3BA3"
+    },
+    {
+        "Info": "Nursing Concepts in Continence Care",
+        "Text": "HTHSCI-3BE4"
+    },
+    {
+        "Info": "Advanced Nursing Concepts in Continence Care",
+        "Text": "HTHSCI-3BG3"
+    },
+    {
+        "Info": "Research Appraisal and Utilization in Evidence Informed Decision Making",
+        "Text": "HTHSCI-3C04"
+    },
+    {
+        "Info": "Theatre for Development",
+        "Text": "HTHSCI-3CC3"
+    },
+    {
+        "Info": "CHS Inquiry Intermediate",
+        "Text": "HTHSCI-3CH9B"
+    },
+    {
+        "Info": "Child Visual Development and Community Engagement",
+        "Text": "HTHSCI-3CV3B"
+    },
+    {
+        "Info": "Engaging the City: An Introduction to Community-Based Research in Hamilton",
+        "Text": "HTHSCI-3DD6B"
+    },
+    {
+        "Info": "Demystifying Medicine",
+        "Text": "HTHSCI-3DM3"
+    },
+    {
+        "Info": "Demystifying Research",
+        "Text": "HTHSCI-3DR3"
+    },
+    {
+        "Info": "Inquiry III: Advanced Inquiry in Health Sciences",
+        "Text": "HTHSCI-3E03"
+    },
+    {
+        "Info": "Biomedical Graphics",
+        "Text": "HTHSCI-3EE3"
+    },
+    {
+        "Info": "Science of Fictional Characters",
+        "Text": "HTHSCI-3FC3"
+    },
+    {
+        "Info": "Critical Appraisal of the Health Literature",
+        "Text": "HTHSCI-3G03"
+    },
+    {
+        "Info": "Deceptions in Decision Making",
+        "Text": "HTHSCI-3HH3"
+    },
+    {
+        "Info": "Health Law: Current and Emerging Issues",
+        "Text": "HTHSCI-3HL3"
+    },
+    {
+        "Info": "Research Skills",
+        "Text": "HTHSCI-3HR3"
+    },
+    {
+        "Info": "The Science of Feeling Good",
+        "Text": "HTHSCI-3JJ3"
+    },
+    {
+        "Info": "Seeing and Understanding Data",
+        "Text": "HTHSCI-3KK3"
+    },
+    {
+        "Info": "Introduction to Bioethics",
+        "Text": "HTHSCI-3L03"
+    },
+    {
+        "Info": "Practical Applications in Clinical Laboratory Testing",
+        "Text": "HTHSCI-3LT3"
+    },
+    {
+        "Info": "Introduction to Bacteriology in Health Sciences",
+        "Text": "HTHSCI-3MB3"
+    },
+    {
+        "Info": "Critical Examination of Mental Health",
+        "Text": "HTHSCI-3MH3"
+    },
+    {
+        "Info": "Practicum in Medical Research.",
+        "Text": "HTHSCI-3MR6B"
+    },
+    {
+        "Info": "Music, Health, & the Community",
+        "Text": "HTHSCI-3MU3"
+    },
+    {
+        "Info": "Creative Writing in the Health Sciences",
+        "Text": "HTHSCI-3N03"
+    },
+    {
+        "Info": "Integrated Pathophysiology for Nursing",
+        "Text": "HTHSCI-3PA2B"
+    },
+    {
+        "Info": "The Politics of Help",
+        "Text": "HTHSCI-3PH3"
+    },
+    {
+        "Info": "Health Ventures",
+        "Text": "HTHSCI-3PP3"
+    },
+    {
+        "Info": "Qualitative Research Methods in Health",
+        "Text": "HTHSCI-3QA3"
+    },
+    {
+        "Info": "Racism and Health",
+        "Text": "HTHSCI-3RH3"
+    },
+    {
+        "Info": "Exploring the Foundations of Rehabilitation Sciences",
+        "Text": "HTHSCI-3RS3"
+    },
+    {
+        "Info": "Communication Skills",
+        "Text": "HTHSCI-3S03"
+    },
+    {
+        "Info": "Superbugs: Bacterial Antibiotic Resistance",
+        "Text": "HTHSCI-3SB3"
+    },
+    {
+        "Info": "Inquiry into Work, Self and Purpose",
+        "Text": "HTHSCI-3T03"
+    },
+    {
+        "Info": "Medical Genetics",
+        "Text": "HTHSCI-3U03"
+    },
+    {
+        "Info": "Research and Experimental Design",
+        "Text": "HTHSCI-3V03"
+    },
+    {
+        "Info": "Praxis Pathways 3",
+        "Text": "HTHSCI-3X00B"
+    },
+    {
+        "Info": "Advanced Communication Skills",
+        "Text": "HTHSCI-4AC3"
+    },
+    {
+        "Info": "Research Skills and Application",
+        "Text": "HTHSCI-4BR6B"
+    },
+    {
+        "Info": "CHS Inquiry Advanced",
+        "Text": "HTHSCI-4CH6B"
+    },
+    {
+        "Info": "Cultural Competency in Health Sciences",
+        "Text": "HTHSCI-4CU3"
+    },
+    {
+        "Info": "Dance in Health and Wellness",
+        "Text": "HTHSCI-4DN3"
+    },
+    {
+        "Info": "Pathoanatomy",
+        "Text": "HTHSCI-4G03"
+    },
+    {
+        "Info": "Integration of Children\u2019s Physical and Mental Health",
+        "Text": "HTHSCI-4IC3"
+    },
+    {
+        "Info": "Indigenous Health Research",
+        "Text": "HTHSCI-4IH3"
+    },
+    {
+        "Info": "Advanced Concepts in Immunology",
+        "Text": "HTHSCI-4II3"
+    },
+    {
+        "Info": "Immunological Principles In Practice",
+        "Text": "HTHSCI-4J03"
+    },
+    {
+        "Info": "Demystifying Science - Advanced Knowledge Translation and Science Communication",
+        "Text": "HTHSCI-4KT3"
+    },
+    {
+        "Info": "Leadership and Management 2",
+        "Text": "HTHSCI-4LC3"
+    },
+    {
+        "Info": "Integrated Health Systems",
+        "Text": "HTHSCI-4LL3"
+    },
+    {
+        "Info": "Navigating Complexity in Health",
+        "Text": "HTHSCI-4NC3"
+    },
+    {
+        "Info": "Creative Writing in Health Sciences II",
+        "Text": "HTHSCI-4NN3"
+    },
+    {
+        "Info": "Nursing Research",
+        "Text": "HTHSCI-4NR3"
+    },
+    {
+        "Info": "Principles of Virus Pathogenesis",
+        "Text": "HTHSCI-4O03"
+    },
+    {
+        "Info": "Peer Tutoring in Anatomy & Physiology",
+        "Text": "HTHSCI-4PF3B"
+    },
+    {
+        "Info": "Global Sexual and Reproductive Health and Rights",
+        "Text": "HTHSCI-4SR3"
+    },
+    {
+        "Info": "Group Process Practicum",
+        "Text": "HTHSCI-4SS6B"
+    },
+    {
+        "Info": "The Teaching Hospital",
+        "Text": "HTHSCI-4TE3"
+    },
+    {
+        "Info": "Praxis Pathways 4",
+        "Text": "HTHSCI-4XP3B"
+    },
+    {
+        "Info": "Professional Transitions",
+        "Text": "HTHSCI-4XX3"
+    },
+    {
+        "Info": "Science, Culture and Identity",
+        "Text": "HTHSCI-4Y03"
+    },
+    {
+        "Info": "Global Health Advocacy",
+        "Text": "HTHSCI-4ZZ3"
+    },
+    {
+        "Info": "Humanities Career Planning and Development",
+        "Text": "HUMAN-2CP2"
+    },
+    {
+        "Info": "Creative, Collaborative, Critical: Approaches to Digital Scholarship",
+        "Text": "HUMAN-2DH3"
+    },
+    {
+        "Info": "Community Leadership at McMaster",
+        "Text": "HUMAN-3CL3"
+    },
+    {
+        "Info": "Foundations of Ethical Leadership",
+        "Text": "HUMAN-3LM3"
+    },
+    {
+        "Info": "Boundaries and Bridges: Relationship Skills for Effective Leaders",
+        "Text": "HUMAN-4RM3"
+    },
+    {
+        "Info": "Applied Humanities II",
+        "Text": "HUMAN-4W03B"
+    },
+    {
+        "Info": "Introduction to Autism Spectrum Disorder (ASD)",
+        "Text": "HUMBEHV-2A06B"
+    },
+    {
+        "Info": "Introduction to Applied Behaviour Analysis (ABA) I",
+        "Text": "HUMBEHV-2B06B"
+    },
+    {
+        "Info": "Specialized Instructional Strategies (SIS) I",
+        "Text": "HUMBEHV-2C03"
+    },
+    {
+        "Info": "Philosophy and Curriculum Design",
+        "Text": "HUMBEHV-2L03"
+    },
+    {
+        "Info": "Advanced Applied Psychology",
+        "Text": "HUMBEHV-3AP3"
+    },
+    {
+        "Info": "Treating Challenging Behaviour I",
+        "Text": "HUMBEHV-3CB3"
+    },
+    {
+        "Info": "Applied Behavioural Analysis (ABA) II",
+        "Text": "HUMBEHV-3D03"
+    },
+    {
+        "Info": "Behavioural Skill Building",
+        "Text": "HUMBEHV-3E06B"
+    },
+    {
+        "Info": "Working with Families and Teams",
+        "Text": "HUMBEHV-3H03"
+    },
+    {
+        "Info": "Curriculum Theory and Approaches",
+        "Text": "HUMBEHV-3O03"
+    },
+    {
+        "Info": "Health, Safety & Nutrition",
+        "Text": "HUMBEHV-3Q03"
+    },
+    {
+        "Info": "Parent and Staff Training",
+        "Text": "HUMBEHV-4I03"
+    },
+    {
+        "Info": "Science Communication in the Behavioural Sciences",
+        "Text": "HUMBEHV-4SC6B"
+    },
+    {
+        "Info": "Inclusion in the ECE Classroom",
+        "Text": "HUMBEHV-4U03"
+    },
+    {
+        "Info": "Theory to Practice III",
+        "Text": "HUMBEHV-4VS3S"
+    },
+    {
+        "Info": "Perspectives B: Arts in Society: Technology and the Environment",
+        "Text": "IARTS-1PB3"
+    },
+    {
+        "Info": "Project Production 1",
+        "Text": "IARTS-1RP3"
+    },
+    {
+        "Info": "3D Practices in Art",
+        "Text": "IARTS-1SS3"
+    },
+    {
+        "Info": "Theatre, Performance, and Society",
+        "Text": "IARTS-1T03"
+    },
+    {
+        "Info": "Performance, Art and Visual Culture in East and South Asia",
+        "Text": "IARTS-2AS3"
+    },
+    {
+        "Info": "Contemporary Approaches to Drawing Practices",
+        "Text": "IARTS-2CD3"
+    },
+    {
+        "Info": "Film Analysis",
+        "Text": "IARTS-2FA3"
+    },
+    {
+        "Info": "Movies and Me",
+        "Text": "IARTS-2MM3"
+    },
+    {
+        "Info": "Perspectives D: Arts Across Disciplines",
+        "Text": "IARTS-2PD3"
+    },
+    {
+        "Info": "Project Production 2",
+        "Text": "IARTS-2RP3"
+    },
+    {
+        "Info": "Introduction to the IBEHS Co-op Program",
+        "Text": "IBEHS-1EE0"
+    },
+    {
+        "Info": "Entrepreneurship in Biomedical Innovation: From Bench to Market",
+        "Text": "IBEHS-1EP6B"
+    },
+    {
+        "Info": "Health Screening and Clinical Safety Training",
+        "Text": "IBEHS-1HS0"
+    },
+    {
+        "Info": "Health Solutions Design Projects I: Introduction to Engineering Fundamentals and Design",
+        "Text": "IBEHS-1P10B"
+    },
+    {
+        "Info": "From Idea to Innovation",
+        "Text": "IBEHS-2EE3"
+    },
+    {
+        "Info": "Health Solutions Design Projects II: Introduction to Genetic Engineering",
+        "Text": "IBEHS-2P03"
+    },
+    {
+        "Info": "Project Management",
+        "Text": "IBEHS-3EE3"
+    },
+    {
+        "Info": "Health Solutions Design Projects III: Analysis and Decision Making",
+        "Text": "IBEHS-3P04"
+    },
+    {
+        "Info": "Biomedical Control Systems",
+        "Text": "IBEHS-4A03"
+    },
+    {
+        "Info": "Statistical Methods in Biomedical Engineering",
+        "Text": "IBEHS-4C03"
+    },
+    {
+        "Info": "Introduction to Medical Imaging",
+        "Text": "IBEHS-4D03"
+    },
+    {
+        "Info": "Innovators in Scrubs",
+        "Text": "IBEHS-4EE6B"
+    },
+    {
+        "Info": "Biomedical Capstone Design Project",
+        "Text": "IBEHS-5P06B"
+    },
+    {
+        "Info": "Perspectives on Canadian Business",
+        "Text": "IBH-1AB3"
+    },
+    {
+        "Info": "Introduction to Language and Society",
+        "Text": "IBH-1AC3"
+    },
+    {
+        "Info": "IBH in the Community",
+        "Text": "IBH-1AD3"
+    },
+    {
+        "Info": "Introduction to Peace Studies for IBH",
+        "Text": "IBH-1BD3"
+    },
+    {
+        "Info": "Leadership Development - Self Awareness",
+        "Text": "IBH-1LD0B"
+    },
+    {
+        "Info": "Information Systems in Management",
+        "Text": "IBH-2AB3"
+    },
+    {
+        "Info": "Talent Management",
+        "Text": "IBH-2AC3"
+    },
+    {
+        "Info": "Statistical Data Analysis",
+        "Text": "IBH-2AD3"
+    },
+    {
+        "Info": "Managerial Accounting",
+        "Text": "IBH-2BA3"
+    },
+    {
+        "Info": "Moral Issues",
+        "Text": "IBH-2BD3"
+    },
+    {
+        "Info": "Leadership Development - Leadership Emergence",
+        "Text": "IBH-2LD0B"
+    },
+    {
+        "Info": "Cross-Cultural Communication",
+        "Text": "IBH-3AD3"
+    },
+    {
+        "Info": "Poverty, Privilege and Protest in Canadian History",
+        "Text": "IBH-3BC3"
+    },
+    {
+        "Info": "Interpersonal Communication",
+        "Text": "IBH-3BD3"
+    },
+    {
+        "Info": "Operations Management",
+        "Text": "IBH-3BE3"
+    },
+    {
+        "Info": "Social Entrepreneurship Capstone",
+        "Text": "IBH-4AB6B"
+    },
+    {
+        "Info": "Leadership Effectiveness: Building Personal and Organizational Success",
+        "Text": "IBH-4BA3"
+    },
+    {
+        "Info": "Introduction to Contemporary Indigenous Studies",
+        "Text": "INDIGST-1AA3"
+    },
+    {
+        "Info": "Traditional Indigenous Ecological Knowledge",
+        "Text": "INDIGST-2D03"
+    },
+    {
+        "Info": "Indigenous Celebrity",
+        "Text": "INDIGST-2H03"
+    },
+    {
+        "Info": "Indigenous Futurisms and Wonderworks",
+        "Text": "INDIGST-2K03"
+    },
+    {
+        "Info": "Indigenous Ways of Knowing: Theory",
+        "Text": "INDIGST-2MM3"
+    },
+    {
+        "Info": "Contemporary Indigenous Societies: Selected Topics",
+        "Text": "INDIGST-3CC3"
+    },
+    {
+        "Info": "Indigenous Art and Visual Culture in Canada, 1960 to the Present",
+        "Text": "INDIGST-3F03"
+    },
+    {
+        "Info": "Indigenous Medicine II: Practical",
+        "Text": "INDIGST-3HH3"
+    },
+    {
+        "Info": "Histories of Indigenous Sport and Recreation",
+        "Text": "INDIGST-3Q03"
+    },
+    {
+        "Info": "The Indian Act: A Social Problem",
+        "Text": "INDIGST-3VV3"
+    },
+    {
+        "Info": "The World of Entrepreneurship",
+        "Text": "INNOVATE-1X03"
+    },
+    {
+        "Info": "Artificial Intelligence - Innovative Technologies",
+        "Text": "INNOVATE-1Z03"
+    },
+    {
+        "Info": "Lean Startup",
+        "Text": "INNOVATE-2X03"
+    },
+    {
+        "Info": "Sprint Methodologies",
+        "Text": "INNOVATE-2Z03"
+    },
+    {
+        "Info": "Experiential Learning in Innovation",
+        "Text": "INNOVATE-3EX3"
+    },
+    {
+        "Info": "Persuasion, Pitching Skills and Marketing",
+        "Text": "INNOVATE-3X03"
+    },
+    {
+        "Info": "From Founder to CEO",
+        "Text": "INNOVATE-3Z03"
+    },
+    {
+        "Info": "Founders Startup",
+        "Text": "INNOVATE-4EX6B"
+    },
+    {
+        "Info": "Personal Leadership Through University Transition",
+        "Text": "INSPIRE-1PL3"
+    },
+    {
+        "Info": "Global Questions in Sustainability",
+        "Text": "INSPIRE-2GS3"
+    },
+    {
+        "Info": "Integrated Science I",
+        "Text": "ISCI-1A24B"
+    },
+    {
+        "Info": "Integrated Science II",
+        "Text": "ISCI-2A18B"
+    },
+    {
+        "Info": "Integrated Science III",
+        "Text": "ISCI-3A12B"
+    },
+    {
+        "Info": "Integrated Science III for Exchange Students",
+        "Text": "ISCI-3Z09"
+    },
+    {
+        "Info": "Beginner's Intensive Italian",
+        "Text": "ITALIAN-1Z06B"
+    },
+    {
+        "Info": "Beginner's Intensive Japanese",
+        "Text": "JAPANESE-1Z06B"
+    },
+    {
+        "Info": "Japanese Anime (Taught in English)",
+        "Text": "JAPANESE-2X03"
+    },
+    {
+        "Info": "Human Anatomy and Physiology II",
+        "Text": "KINESIOL-1AA3"
+    },
+    {
+        "Info": "Equity, Diversity, and Inclusion in Physical Activity",
+        "Text": "KINESIOL-1ED3"
+    },
+    {
+        "Info": "Human Nutrition and Health",
+        "Text": "KINESIOL-1F03"
+    },
+    {
+        "Info": "Human Anatomy and Physiology II",
+        "Text": "KINESIOL-1YY3"
+    },
+    {
+        "Info": "Biomechanics",
+        "Text": "KINESIOL-2A03"
+    },
+    {
+        "Info": "Cardiorespiratory and Metabolic Exercise Physiology",
+        "Text": "KINESIOL-2CC3"
+    },
+    {
+        "Info": "Health Psychology",
+        "Text": "KINESIOL-2G03"
+    },
+    {
+        "Info": "Human Anatomy and Physiology II",
+        "Text": "KINESIOL-2YY3"
+    },
+    {
+        "Info": "Adapted Physical Activity",
+        "Text": "KINESIOL-3B03"
+    },
+    {
+        "Info": "Human Neurophysiology",
+        "Text": "KINESIOL-3HN3"
+    },
+    {
+        "Info": "Exercise Testing and Prescription",
+        "Text": "KINESIOL-3L03"
+    },
+    {
+        "Info": "Ergonomics I: Workplace Injury Risk Assessment",
+        "Text": "KINESIOL-3N03"
+    },
+    {
+        "Info": "Motor Development Across the Lifespan",
+        "Text": "KINESIOL-3Q03"
+    },
+    {
+        "Info": "Sport Psychology",
+        "Text": "KINESIOL-3V03"
+    },
+    {
+        "Info": "Human Nutrition and Metabolism",
+        "Text": "KINESIOL-3Y03"
+    },
+    {
+        "Info": "Applied Biomechanics",
+        "Text": "KINESIOL-4AA3"
+    },
+    {
+        "Info": "Applied Neurophysiology",
+        "Text": "KINESIOL-4AN3"
+    },
+    {
+        "Info": "Cardiovascular Disease: Pathophysiology and Rehabilitation",
+        "Text": "KINESIOL-4B03"
+    },
+    {
+        "Info": "Psychophysiology of Healthy, Active Living",
+        "Text": "KINESIOL-4D03"
+    },
+    {
+        "Info": "Physical Activity Behaviour Change",
+        "Text": "KINESIOL-4H03"
+    },
+    {
+        "Info": "Functional Anatomy",
+        "Text": "KINESIOL-4J03"
+    },
+    {
+        "Info": "Fundamentals of Rehabilitation",
+        "Text": "KINESIOL-4KK3"
+    },
+    {
+        "Info": "Selected Topics in Kinesiology II",
+        "Text": "KINESIOL-4VV3"
+    },
+    {
+        "Info": "Scientific Computing and Wearable Technology",
+        "Text": "KINESIOL-4Z03"
+    },
+    {
+        "Info": "Introductory Korean II",
+        "Text": "KOREAN-1ZZ3"
+    },
+    {
+        "Info": "Korean Pop-Culture (Taught in English)",
+        "Text": "KOREAN-2X03"
+    },
+    {
+        "Info": "Critical Contemporary Issues in Latin American and Latinx Studies",
+        "Text": "LATAM-3A03"
+    },
+    {
+        "Info": "Beginner's Intensive Latin II",
+        "Text": "LATIN-1ZZ3"
+    },
+    {
+        "Info": "Intermediate Latin II",
+        "Text": "LATIN-2AA3"
+    },
+    {
+        "Info": "Topics in Latin Poetry",
+        "Text": "LATIN-3H03"
+    },
+    {
+        "Info": "Medical Imaging Physics",
+        "Text": "LIFESCI-1D03"
+    },
+    {
+        "Info": "Research Methods in Life Sciences",
+        "Text": "LIFESCI-2A03"
+    },
+    {
+        "Info": "Fundamentals of Neuroscience",
+        "Text": "LIFESCI-2CC3"
+    },
+    {
+        "Info": "Living Systems Laboratory",
+        "Text": "LIFESCI-2L03"
+    },
+    {
+        "Info": "Environmental Change and Human Health",
+        "Text": "LIFESCI-2X03"
+    },
+    {
+        "Info": "Human Pathophysiology",
+        "Text": "LIFESCI-3AA3"
+    },
+    {
+        "Info": "Modelling Life",
+        "Text": "LIFESCI-3BP3"
+    },
+    {
+        "Info": "Reproductive Endocrinology",
+        "Text": "LIFESCI-3E03"
+    },
+    {
+        "Info": "Laboratory Methods in Life Sciences",
+        "Text": "LIFESCI-3L03"
+    },
+    {
+        "Info": "Introduction to Data Science",
+        "Text": "LIFESCI-3LA3"
+    },
+    {
+        "Info": "Human Nutritional Toxicology",
+        "Text": "LIFESCI-3N03"
+    },
+    {
+        "Info": "Communicating Science for Public Audiences",
+        "Text": "LIFESCI-3P03"
+    },
+    {
+        "Info": "Communicating Science for Professional Audiences",
+        "Text": "LIFESCI-3PP3"
+    },
+    {
+        "Info": "Global Human Health and Disease",
+        "Text": "LIFESCI-3Q03"
+    },
+    {
+        "Info": "Radioisotopes in Medicine",
+        "Text": "LIFESCI-3RC3"
+    },
+    {
+        "Info": "Genetic and Epigenetic Determinants of Health: Role in Health Disparity",
+        "Text": "LIFESCI-3W03"
+    },
+    {
+        "Info": "Peer Mentoring in the Life Sciences",
+        "Text": "LIFESCI-3XX3"
+    },
+    {
+        "Info": "Life Sciences Inquiry",
+        "Text": "LIFESCI-3Z03"
+    },
+    {
+        "Info": "Foundations of Disease States Inquiry Lab",
+        "Text": "LIFESCI-4CM3"
+    },
+    {
+        "Info": "Research Seminar",
+        "Text": "LIFESCI-4P03"
+    },
+    {
+        "Info": "The Synapse",
+        "Text": "LIFESCI-4XX3"
+    },
+    {
+        "Info": "Introduction to Linguistics: Words, Sentences and Meaning",
+        "Text": "LINGUIST-1AA3"
+    },
+    {
+        "Info": "Introduction to English Linguistics II",
+        "Text": "LINGUIST-1EE3"
+    },
+    {
+        "Info": "Structure of Modern English II",
+        "Text": "LINGUIST-1ZZ3"
+    },
+    {
+        "Info": "Statistics for Language Research",
+        "Text": "LINGUIST-2DD3"
+    },
+    {
+        "Info": "The Nature of Texts: From Slang to Formal Discourse",
+        "Text": "LINGUIST-2E03"
+    },
+    {
+        "Info": "Phonology",
+        "Text": "LINGUIST-2PH3"
+    },
+    {
+        "Info": "Introduction to American Sign Language",
+        "Text": "LINGUIST-2SL3"
+    },
+    {
+        "Info": "Syntax",
+        "Text": "LINGUIST-2SY3"
+    },
+    {
+        "Info": "Anatomy and Physiology for Speech, Language and Hearing",
+        "Text": "LINGUIST-3F03"
+    },
+    {
+        "Info": "Introduction to Second Language Acquisition",
+        "Text": "LINGUIST-3LA3"
+    },
+    {
+        "Info": "Cognitive Neuroscience of Language",
+        "Text": "LINGUIST-3NL3"
+    },
+    {
+        "Info": "Intermediate American Sign Language",
+        "Text": "LINGUIST-3SL3"
+    },
+    {
+        "Info": "The Structure of X",
+        "Text": "LINGUIST-4LX3"
+    },
+    {
+        "Info": "Cognitive Neurolinguistics Laboratory",
+        "Text": "LINGUIST-4NN3"
+    },
+    {
+        "Info": "Seminar in Sociolinguistics",
+        "Text": "LINGUIST-4SS3"
+    },
+    {
+        "Info": "Quality Control and Assurance Methods",
+        "Text": "MANTECH-3LS3"
+    },
+    {
+        "Info": "CIM and Flexible Manufacturing",
+        "Text": "MANTECH-4FM3"
+    },
+    {
+        "Info": "Robot Mechanics and Mechatronics",
+        "Text": "MANTECH-4RM3"
+    },
+    {
+        "Info": "Calculus For Science II",
+        "Text": "MATH-1AA3"
+    },
+    {
+        "Info": "Linear Algebra I",
+        "Text": "MATH-1B03"
+    },
+    {
+        "Info": "Introduction to Mathematical Reasoning",
+        "Text": "MATH-1C03"
+    },
+    {
+        "Info": "Calculus for the Life Sciences I",
+        "Text": "MATH-1LS3"
+    },
+    {
+        "Info": "Calculus for the Life Sciences II",
+        "Text": "MATH-1LT3"
+    },
+    {
+        "Info": "Applied Calculus",
+        "Text": "MATH-1MM3"
+    },
+    {
+        "Info": "Introduction to Mathematical Scientific Computation",
+        "Text": "MATH-1MP3"
+    },
+    {
+        "Info": "Proofs in Calculus",
+        "Text": "MATH-1XA3"
+    },
+    {
+        "Info": "Calculus for Math and Stats II",
+        "Text": "MATH-1XX3"
+    },
+    {
+        "Info": "Engineering Mathematics II-A",
+        "Text": "MATH-1ZB3"
+    },
+    {
+        "Info": "Introduction to Differential Equations",
+        "Text": "MATH-2C03"
+    },
+    {
+        "Info": "Introduction To Mathematical Finance",
+        "Text": "MATH-2FM3"
+    },
+    {
+        "Info": "Applications of Linear Algebra",
+        "Text": "MATH-2LA3"
+    },
+    {
+        "Info": "Theory of Linear Algebra",
+        "Text": "MATH-2R03"
+    },
+    {
+        "Info": "Advanced Calculus II",
+        "Text": "MATH-2XX3"
+    },
+    {
+        "Info": "Engineering Mathematics IV",
+        "Text": "MATH-2ZZ3"
+    },
+    {
+        "Info": "Real Analysis I",
+        "Text": "MATH-3A03"
+    },
+    {
+        "Info": "Mathematical Physics II",
+        "Text": "MATH-3D03"
+    },
+    {
+        "Info": "Partial Differential Equations",
+        "Text": "MATH-3FF3"
+    },
+    {
+        "Info": "Problem Solving",
+        "Text": "MATH-3G03"
+    },
+    {
+        "Info": "Number Theory",
+        "Text": "MATH-3H03"
+    },
+    {
+        "Info": "Introduction to Analysis",
+        "Text": "MATH-3IA3"
+    },
+    {
+        "Info": "Introduction to Modelling",
+        "Text": "MATH-3MB3"
+    },
+    {
+        "Info": "Truth and Provability",
+        "Text": "MATH-3TP3"
+    },
+    {
+        "Info": "Graph Theory",
+        "Text": "MATH-3V03"
+    },
+    {
+        "Info": "Complex Analysis I",
+        "Text": "MATH-3X03"
+    },
+    {
+        "Info": "Topics in Analysis",
+        "Text": "MATH-4AT3"
+    },
+    {
+        "Info": "Financial Markets and Derivatives",
+        "Text": "MATH-4FM3"
+    },
+    {
+        "Info": "Groups and Rings",
+        "Text": "MATH-4GR3"
+    },
+    {
+        "Info": "Numerical Methods for Differential Equations",
+        "Text": "MATH-4NA3"
+    },
+    {
+        "Info": "Senior Research Project",
+        "Text": "MATH-4P06B"
+    },
+    {
+        "Info": "Reading in Mathematics",
+        "Text": "MATH-4W03"
+    },
+    {
+        "Info": "Reading in Mathematics II",
+        "Text": "MATH-4WW3"
+    },
+    {
+        "Info": "Graduate Level Topics in Mathematics",
+        "Text": "MATH-5GT3"
+    },
+    {
+        "Info": "Thermodynamics of Alloys and Phase Diagrams",
+        "Text": "MATLS-2D03"
+    },
+    {
+        "Info": "Electronic Properties of Materials",
+        "Text": "MATLS-2Q03"
+    },
+    {
+        "Info": "Manufacturing Engineering of Multifunctional and Biomedical Materials",
+        "Text": "MATLS-3B03"
+    },
+    {
+        "Info": "High-Temperature Materials Production",
+        "Text": "MATLS-3F03"
+    },
+    {
+        "Info": "Mechanical Behaviour of Materials",
+        "Text": "MATLS-3M03"
+    },
+    {
+        "Info": "Materials Fabrication",
+        "Text": "MATLS-3MF3"
+    },
+    {
+        "Info": "Materials for Electronic Applications",
+        "Text": "MATLS-3Q03"
+    },
+    {
+        "Info": "Phase Transformations",
+        "Text": "MATLS-3T04"
+    },
+    {
+        "Info": "Biomaterials and Tissue Engineering",
+        "Text": "MATLS-4B03"
+    },
+    {
+        "Info": "Synthesis, Applications and Environmental Impact of Nanomaterials",
+        "Text": "MATLS-4FF3"
+    },
+    {
+        "Info": "Sustainable Manufacturing Processes",
+        "Text": "MATLS-4I03"
+    },
+    {
+        "Info": "Heat-Treatable Al Alloys",
+        "Text": "MATLS-4LA2"
+    },
+    {
+        "Info": "Synthesis, Properties and Application of Thin Films",
+        "Text": "MATLS-4LF2"
+    },
+    {
+        "Info": "Properties of Polymeric Materials",
+        "Text": "MATLS-4P03"
+    },
+    {
+        "Info": "Advanced Biomaterials: Applications and Characterization",
+        "Text": "MATLS-4Y03"
+    },
+    {
+        "Info": "Materials Engineering Capstone",
+        "Text": "MATLS-4Z06B"
+    },
+    {
+        "Info": "Integrated Materials & Biomedical Engineering Capstone Design Project",
+        "Text": "MATLSBME-5P06B"
+    },
+    {
+        "Info": "Integrated Mechanical & Biomedical Engineering Capstone Design Project",
+        "Text": "MECHBME-5P06B"
+    },
+    {
+        "Info": "Mechanical Engineering Measurements",
+        "Text": "MECHENG-2B03"
+    },
+    {
+        "Info": "Mechanical Engineering Measurements",
+        "Text": "MECHENG-2BA3"
+    },
+    {
+        "Info": "Mechanical Engineering Design Elements",
+        "Text": "MECHENG-2DA3"
+    },
+    {
+        "Info": "Thermodynamics",
+        "Text": "MECHENG-2W04"
+    },
+    {
+        "Info": "Engineering Mechanics",
+        "Text": "MECHENG-3A03"
+    },
+    {
+        "Info": "Modelling and Numerical Solutions",
+        "Text": "MECHENG-3F04"
+    },
+    {
+        "Info": "Composite Laboratory I",
+        "Text": "MECHENG-3M03B"
+    },
+    {
+        "Info": "Heat Transfer",
+        "Text": "MECHENG-3R03"
+    },
+    {
+        "Info": "Aerodynamics",
+        "Text": "MECHENG-4AA3"
+    },
+    {
+        "Info": "Biofluid Mechanics",
+        "Text": "MECHENG-4BF3"
+    },
+    {
+        "Info": "Experimental and Computational Biomechanics",
+        "Text": "MECHENG-4CC3"
+    },
+    {
+        "Info": "Manufacturing Processes (Metal Removal)",
+        "Text": "MECHENG-4D03"
+    },
+    {
+        "Info": "Energy Storage",
+        "Text": "MECHENG-4ES3"
+    },
+    {
+        "Info": "Advanced Instrumentation and Sensing for Thermo-Fluids",
+        "Text": "MECHENG-4FM3"
+    },
+    {
+        "Info": "Mechatronics",
+        "Text": "MECHENG-4H03"
+    },
+    {
+        "Info": "Introduction to Computational Fluid Mechanics and Heat Transfer",
+        "Text": "MECHENG-4J03"
+    },
+    {
+        "Info": "Mechanical Engineering Capstone Design Project",
+        "Text": "MECHENG-4M06B"
+    },
+    {
+        "Info": "Sustainable Energy Systems",
+        "Text": "MECHENG-4O04"
+    },
+    {
+        "Info": "Composite Laboratory II",
+        "Text": "MECHENG-4P03B"
+    },
+    {
+        "Info": "Control Systems",
+        "Text": "MECHENG-4R03"
+    },
+    {
+        "Info": "Finite Element Applications",
+        "Text": "MECHENG-4T03"
+    },
+    {
+        "Info": "CAD/CAM/CAE",
+        "Text": "MECHENG-4Z03"
+    },
+    {
+        "Info": "Data Structures and Algorithms for Mechatronics",
+        "Text": "MECHTRON-2MD3"
+    },
+    {
+        "Info": "Embedded Systems Design I",
+        "Text": "MECHTRON-2TA4"
+    },
+    {
+        "Info": "Dynamic Models and Control of Physical Systems",
+        "Text": "MECHTRON-3DX4"
+    },
+    {
+        "Info": "Embedded Systems Design II",
+        "Text": "MECHTRON-3TB4"
+    },
+    {
+        "Info": "Mechatronics Capstone Design Project",
+        "Text": "MECHTRON-4TB6B"
+    },
+    {
+        "Info": "Media Arts",
+        "Text": "MEDIAART-1A03"
+    },
+    {
+        "Info": "Time-Based Media",
+        "Text": "MEDIAART-2B06"
+    },
+    {
+        "Info": "Digital Cultures",
+        "Text": "MEDIAART-3B03"
+    },
+    {
+        "Info": "Interactive and Spatial Audio",
+        "Text": "MEDIAART-3C03"
+    },
+    {
+        "Info": "Graphic Design",
+        "Text": "MEDIAART-3EE3"
+    },
+    {
+        "Info": "Narrative Strategies",
+        "Text": "MEDIAART-3I03"
+    },
+    {
+        "Info": "Sound and Image",
+        "Text": "MEDIAART-3S03"
+    },
+    {
+        "Info": "Video Art and Digital Cinema",
+        "Text": "MEDIAART-3VA3"
+    },
+    {
+        "Info": "Production and Critique",
+        "Text": "MEDIAART-3Z03"
+    },
+    {
+        "Info": "Imaging in Medicine and Biology",
+        "Text": "MEDPHYS-4D03"
+    },
+    {
+        "Info": "Introduction to Biophotonics",
+        "Text": "MEDPHYS-4I03"
+    },
+    {
+        "Info": "Radiation and Radioisotope Methodology II",
+        "Text": "MEDPHYS-4RB3"
+    },
+    {
+        "Info": "Clinical Applications of Physics in Medicine",
+        "Text": "MEDPHYS-4T03"
+    },
+    {
+        "Info": "Radiation Biology",
+        "Text": "MEDPHYS-4U03"
+    },
+    {
+        "Info": "Introduction to Pathology",
+        "Text": "MEDRADSC-1B03"
+    },
+    {
+        "Info": "Patient Care",
+        "Text": "MEDRADSC-2A03"
+    },
+    {
+        "Info": "Imaging Procedures in Health Care",
+        "Text": "MEDRADSC-2AA3"
+    },
+    {
+        "Info": "Radiographic Skills II",
+        "Text": "MEDRADSC-2H03"
+    },
+    {
+        "Info": "Abdominal Ultrasonography II",
+        "Text": "MEDRADSC-2O03"
+    },
+    {
+        "Info": "Obstetrical and Gynecological Ultrasonography II",
+        "Text": "MEDRADSC-2P03"
+    },
+    {
+        "Info": "Sonographic Skills II",
+        "Text": "MEDRADSC-2Q03"
+    },
+    {
+        "Info": "Relational Anatomy II",
+        "Text": "MEDRADSC-2RA3"
+    },
+    {
+        "Info": "Clinical Oncology II",
+        "Text": "MEDRADSC-2T03"
+    },
+    {
+        "Info": "Radiobiology and Protection",
+        "Text": "MEDRADSC-2X03"
+    },
+    {
+        "Info": "Pre-Clinical Professional Skills Reassessment I",
+        "Text": "MEDRADSC-2ZZ0"
+    },
+    {
+        "Info": "Advanced Studies in Computed Tomography",
+        "Text": "MEDRADSC-3DA3"
+    },
+    {
+        "Info": "Quality Control in Radiography",
+        "Text": "MEDRADSC-3H03"
+    },
+    {
+        "Info": "Radiation Therapy Skills II",
+        "Text": "MEDRADSC-3LA3"
+    },
+    {
+        "Info": "Sonographic Skills III",
+        "Text": "MEDRADSC-3O03"
+    },
+    {
+        "Info": "Obstetrical and Gynecologic Ultrasonography III",
+        "Text": "MEDRADSC-3P03"
+    },
+    {
+        "Info": "Applied Sonographic Physics and Instrumentation II",
+        "Text": "MEDRADSC-3Q03"
+    },
+    {
+        "Info": "Treatment Planning II",
+        "Text": "MEDRADSC-3V03"
+    },
+    {
+        "Info": "Research Methods in Medical Radiation Sciences",
+        "Text": "MEDRADSC-3X03"
+    },
+    {
+        "Info": "Ultrasonography Clinical Practicum III",
+        "Text": "MEDRADSC-4D15"
+    },
+    {
+        "Info": "Pre-Clinical Professional Skills Reassessment II",
+        "Text": "MEDRADSC-4ZZ0"
+    },
+    {
+        "Info": "Mentorship Lab 2",
+        "Text": "MELD-1MM0"
+    },
+    {
+        "Info": "Critical Reading, Research and Academic Vocabulary",
+        "Text": "MELD-1S03"
+    },
+    {
+        "Info": "Academic Writing, Reporting and Research",
+        "Text": "MELD-1SS3"
+    },
+    {
+        "Info": "Cross-Cultural Perspectives on Language and Language Learning",
+        "Text": "MELD-1T03"
+    },
+    {
+        "Info": "Oral Communication for Academic Discourse",
+        "Text": "MELD-1TT3"
+    },
+    {
+        "Info": "Midwifery Issues",
+        "Text": "MIDWIF-3F03"
+    },
+    {
+        "Info": "Preparation for Primary Maternity Care",
+        "Text": "MIDWIF-3J06"
+    },
+    {
+        "Info": "Genetics",
+        "Text": "MOLBIOL-2C03"
+    },
+    {
+        "Info": "Experimental Approaches in Cell Biology",
+        "Text": "MOLBIOL-3D03"
+    },
+    {
+        "Info": "Molecular Genetics of Eukaryotes",
+        "Text": "MOLBIOL-3II3"
+    },
+    {
+        "Info": "Fundamental Concepts of Development",
+        "Text": "MOLBIOL-3M03"
+    },
+    {
+        "Info": "Plant Responses to the Environment",
+        "Text": "MOLBIOL-3Y03"
+    },
+    {
+        "Info": "Molecular Evolution",
+        "Text": "MOLBIOL-4DD3"
+    },
+    {
+        "Info": "Molecular Biology of Cancer",
+        "Text": "MOLBIOL-4H03"
+    },
+    {
+        "Info": "Medical Microbiology",
+        "Text": "MOLBIOL-4P03"
+    },
+    {
+        "Info": "Introduction to the History Western of Music II",
+        "Text": "MUSIC-1AA3"
+    },
+    {
+        "Info": "Theory and Analysis I",
+        "Text": "MUSIC-1CB3"
+    },
+    {
+        "Info": "Practical Musicianship II",
+        "Text": "MUSIC-1DB3"
+    },
+    {
+        "Info": "Solo Performance",
+        "Text": "MUSIC-1E06B"
+    },
+    {
+        "Info": "Solo Performance",
+        "Text": "MUSIC-1EE6B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Concert Band",
+        "Text": "MUSIC-1GB3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster University Choir",
+        "Text": "MUSIC-1GC3B"
+    },
+    {
+        "Info": "Ensemble Performance: David Gerry Flute Ensemble",
+        "Text": "MUSIC-1GF3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Percussion Ensemble",
+        "Text": "MUSIC-1GP3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Symphony Orchestra",
+        "Text": "MUSIC-1GR3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Cantemus Vocal Ensemble",
+        "Text": "MUSIC-1GW3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Concert Band",
+        "Text": "MUSIC-1HB0B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster University Choir",
+        "Text": "MUSIC-1HC0B"
+    },
+    {
+        "Info": "Ensemble Performance: David Gerry Flute Ensemble",
+        "Text": "MUSIC-1HF0B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Percussion Ensemble",
+        "Text": "MUSIC-1HP0B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Symphony Orchestra",
+        "Text": "MUSIC-1HR0B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Cantemus Vocal Ensemble",
+        "Text": "MUSIC-1HW0B"
+    },
+    {
+        "Info": "Theory and Analysis III",
+        "Text": "MUSIC-2CB3"
+    },
+    {
+        "Info": "Solo Performance",
+        "Text": "MUSIC-2E06B"
+    },
+    {
+        "Info": "Solo Performance",
+        "Text": "MUSIC-2EE6B"
+    },
+    {
+        "Info": "Music for Film and Television",
+        "Text": "MUSIC-2F03"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Concert Band",
+        "Text": "MUSIC-2GB3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster University Choir",
+        "Text": "MUSIC-2GC3B"
+    },
+    {
+        "Info": "Ensemble Performance: David Gerry Flute Ensemble",
+        "Text": "MUSIC-2GF3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Percussion Ensemble",
+        "Text": "MUSIC-2GP3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Symphony Orchestra",
+        "Text": "MUSIC-2GR3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Cantemus Vocal Ensemble",
+        "Text": "MUSIC-2GW3B"
+    },
+    {
+        "Info": "Introduction to the Practice of Music Therapy",
+        "Text": "MUSIC-2MT3"
+    },
+    {
+        "Info": "Introduction to Music Therapy Research",
+        "Text": "MUSIC-2MU3"
+    },
+    {
+        "Info": "Broadway and the Popular Song",
+        "Text": "MUSIC-2TT3"
+    },
+    {
+        "Info": "Woodwinds",
+        "Text": "MUSIC-2WW3"
+    },
+    {
+        "Info": "Solo Performance",
+        "Text": "MUSIC-3E03"
+    },
+    {
+        "Info": "Solo Performance",
+        "Text": "MUSIC-3E06B"
+    },
+    {
+        "Info": "Solo Performance",
+        "Text": "MUSIC-3EE3S"
+    },
+    {
+        "Info": "Solo Performance",
+        "Text": "MUSIC-3EE6B"
+    },
+    {
+        "Info": "Ensemble Performance: Accompanying",
+        "Text": "MUSIC-3GA3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Concert Band",
+        "Text": "MUSIC-3GB3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster University Choir",
+        "Text": "MUSIC-3GC3B"
+    },
+    {
+        "Info": "Ensemble Performance: David Gerry Flute Ensemble",
+        "Text": "MUSIC-3GF3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Percussion Ensemble",
+        "Text": "MUSIC-3GP3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Symphony Orchestra",
+        "Text": "MUSIC-3GR3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Cantemus Vocal Ensemble",
+        "Text": "MUSIC-3GW3B"
+    },
+    {
+        "Info": "Topics in Music History: Music from c. 1750-c. 1900",
+        "Text": "MUSIC-3KK3"
+    },
+    {
+        "Info": "Special Studies in Chamber Music or Accompanying I",
+        "Text": "MUSIC-3SS3"
+    },
+    {
+        "Info": "Woodwind Pedagogy",
+        "Text": "MUSIC-3WW3"
+    },
+    {
+        "Info": "Solo Performance",
+        "Text": "MUSIC-4E03"
+    },
+    {
+        "Info": "Solo Performance",
+        "Text": "MUSIC-4E06B"
+    },
+    {
+        "Info": "Solo Performance, Diploma",
+        "Text": "MUSIC-4E09B"
+    },
+    {
+        "Info": "Solo Performance",
+        "Text": "MUSIC-4EE3S"
+    },
+    {
+        "Info": "Solo Performance",
+        "Text": "MUSIC-4EE6B"
+    },
+    {
+        "Info": "Solo Performance, Diploma",
+        "Text": "MUSIC-4EE9B"
+    },
+    {
+        "Info": "Ensemble Performance: Accompanying",
+        "Text": "MUSIC-4GA3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Concert Band",
+        "Text": "MUSIC-4GB3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster University Choir",
+        "Text": "MUSIC-4GC3B"
+    },
+    {
+        "Info": "Ensemble Performance: David Gerry Flute Ensemble",
+        "Text": "MUSIC-4GF3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Percussion Ensemble",
+        "Text": "MUSIC-4GP3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Symphony Orchestra",
+        "Text": "MUSIC-4GR3B"
+    },
+    {
+        "Info": "Ensemble Performance: McMaster Cantemus Vocal Ensemble",
+        "Text": "MUSIC-4GW3B"
+    },
+    {
+        "Info": "Investigating Music",
+        "Text": "MUSIC-4H03"
+    },
+    {
+        "Info": "String Methods",
+        "Text": "MUSIC-4M03B"
+    },
+    {
+        "Info": "Special Studies in Chamber Music or Accompanying II",
+        "Text": "MUSIC-4SS3"
+    },
+    {
+        "Info": "Introduction to Music Cognition",
+        "Text": "MUSICCOG-2MP3"
+    },
+    {
+        "Info": "Experimental Laboratory in Music Cognition I",
+        "Text": "MUSICCOG-3QQ3B"
+    },
+    {
+        "Info": "Experimental Laboratory in Music Cognition I",
+        "Text": "MUSICCOG-3QQ3S"
+    },
+    {
+        "Info": "The Science of Performance",
+        "Text": "MUSICCOG-3SP3"
+    },
+    {
+        "Info": "Experimental Laboratory in Music Cognition II",
+        "Text": "MUSICCOG-4QQ3B"
+    },
+    {
+        "Info": "Lab In Music Cognition II",
+        "Text": "MUSICCOG-4QQ3S"
+    },
+    {
+        "Info": "Neuroscience Tutorial",
+        "Text": "NEUROSCI-2XN0B"
+    },
+    {
+        "Info": "Visual Neuroscience",
+        "Text": "NEUROSCI-3J03"
+    },
+    {
+        "Info": "Computational Models in Neuroscience",
+        "Text": "NEUROSCI-3MN3"
+    },
+    {
+        "Info": "Neural Circuits",
+        "Text": "NEUROSCI-3SN3"
+    },
+    {
+        "Info": "Impact of Infectious Disease on Individuals and Society",
+        "Text": "NEXUS-2A03"
+    },
+    {
+        "Info": "Introduction to Nursing and Health II for Basic Stream",
+        "Text": "NURSING-1G03"
+    },
+    {
+        "Info": "Professional Nursing Practice I for Basic Stream",
+        "Text": "NURSING-1J02"
+    },
+    {
+        "Info": "Reintegration Course",
+        "Text": "NURSING-1RP0"
+    },
+    {
+        "Info": "Professional RN Practice II for Post Diploma RPN Stream",
+        "Text": "NURSING-2AA3"
+    },
+    {
+        "Info": "Professional Nursing Practice II for Accelerated Stream",
+        "Text": "NURSING-2J04"
+    },
+    {
+        "Info": "Nursing Concepts in Health and Illness II for Basic Stream",
+        "Text": "NURSING-2NN3"
+    },
+    {
+        "Info": "Professional Nursing Practice III for Basic Stream",
+        "Text": "NURSING-2P03"
+    },
+    {
+        "Info": "Nursing Concepts in Health & Illness for Accelerated Stream I",
+        "Text": "NURSING-2V04"
+    },
+    {
+        "Info": "Clinical Reasoning in RN Practice for Post Diploma RPN Stream",
+        "Text": "NURSING-3A04"
+    },
+    {
+        "Info": "Nursing Practice with the Community: Populations, Partnerships, Politics and Power",
+        "Text": "NURSING-3CN3"
+    },
+    {
+        "Info": "Introduction to Indigenous Health Policy and Practice for Nursing",
+        "Text": "NURSING-3IH3"
+    },
+    {
+        "Info": "Nursing Concepts in Health and Illness IV for Post Diploma RPN Stream",
+        "Text": "NURSING-3RT3"
+    },
+    {
+        "Info": "Nursing Concepts in Health and Illness IV for Basic Stream",
+        "Text": "NURSING-3TT3"
+    },
+    {
+        "Info": "Introduction to Concepts in Global Health",
+        "Text": "NURSING-4H03"
+    },
+    {
+        "Info": "Advanced Nursing Concepts II",
+        "Text": "NURSING-4Q03"
+    },
+    {
+        "Info": "Introduction to Ojibwe Language and Culture",
+        "Text": "OJIBWE-1Z03"
+    },
+    {
+        "Info": "Peace, Justice, Human Rights",
+        "Text": "PEACJUST-1A03"
+    },
+    {
+        "Info": "Peace, Justice, and Popular Culture",
+        "Text": "PEACJUST-2C03"
+    },
+    {
+        "Info": "Decolonization and Activism: Creating Social Change",
+        "Text": "PEACJUST-2CS3"
+    },
+    {
+        "Info": "Theories of Decolonization and Resistance",
+        "Text": "PEACJUST-3GG3"
+    },
+    {
+        "Info": "Race, Religion and Media",
+        "Text": "PEACJUST-3RR3"
+    },
+    {
+        "Info": "Special Topics in Peace and Justice",
+        "Text": "PEACJUST-3Y03"
+    },
+    {
+        "Info": "Introduction to Pharmacology",
+        "Text": "PHARMAC-3A06B"
+    },
+    {
+        "Info": "Methods in Pharmacology",
+        "Text": "PHARMAC-3B06B"
+    },
+    {
+        "Info": "Receptor-Drug Interactions",
+        "Text": "PHARMAC-4A03"
+    },
+    {
+        "Info": "Advanced Topics in Pharmacology",
+        "Text": "PHARMAC-4AA3"
+    },
+    {
+        "Info": "Principles of Toxicology",
+        "Text": "PHARMAC-4C03"
+    },
+    {
+        "Info": "Drug Design",
+        "Text": "PHARMAC-4D03"
+    },
+    {
+        "Info": "Social Pharmacology",
+        "Text": "PHARMAC-4E03"
+    },
+    {
+        "Info": "Philosophy, Law and Society",
+        "Text": "PHILOS-1B03"
+    },
+    {
+        "Info": "Meaning in Life",
+        "Text": "PHILOS-1F03"
+    },
+    {
+        "Info": "Introductory Logic",
+        "Text": "PHILOS-2B03"
+    },
+    {
+        "Info": "Bioethics",
+        "Text": "PHILOS-2D03"
+    },
+    {
+        "Info": "Social and Political Issues",
+        "Text": "PHILOS-2G03"
+    },
+    {
+        "Info": "History of Political Philosophy",
+        "Text": "PHILOS-2S03"
+    },
+    {
+        "Info": "Philosophy of Love and Sex",
+        "Text": "PHILOS-2ZZ3"
+    },
+    {
+        "Info": "Advanced Bioethics",
+        "Text": "PHILOS-3C03"
+    },
+    {
+        "Info": "Contemporary Continental Philosophy",
+        "Text": "PHILOS-3EE3"
+    },
+    {
+        "Info": "Philosophy and Feminism",
+        "Text": "PHILOS-3I03"
+    },
+    {
+        "Info": "Philosophy of Mind",
+        "Text": "PHILOS-3MI3"
+    },
+    {
+        "Info": "Political Philosophy",
+        "Text": "PHILOS-3N03"
+    },
+    {
+        "Info": "Metaphysics of Social Reality",
+        "Text": "PHILOS-3SR3"
+    },
+    {
+        "Info": "Philosophy and Race",
+        "Text": "PHILOS-3T03"
+    },
+    {
+        "Info": "History of Analytic Philosophy",
+        "Text": "PHILOS-4D03"
+    },
+    {
+        "Info": "Human Rights and Global Justice",
+        "Text": "PHILOS-4S03"
+    },
+    {
+        "Info": "Law And Community",
+        "Text": "PHILOS-4XP3B"
+    },
+    {
+        "Info": "Introductory Physics",
+        "Text": "PHYSICS-1A03"
+    },
+    {
+        "Info": "Introduction To Modern Physics",
+        "Text": "PHYSICS-1AA3"
+    },
+    {
+        "Info": "Modern Physics for the Chemical and Physical Sciences",
+        "Text": "PHYSICS-1CC3"
+    },
+    {
+        "Info": "Waves, Electricity and Magnetic Fields",
+        "Text": "PHYSICS-1E03"
+    },
+    {
+        "Info": "Electricity and Magnetism II",
+        "Text": "PHYSICS-2BB3"
+    },
+    {
+        "Info": "Mechanics",
+        "Text": "PHYSICS-2E03"
+    },
+    {
+        "Info": "Introductory Laboratory",
+        "Text": "PHYSICS-2P03"
+    },
+    {
+        "Info": "Analytical Mechanics",
+        "Text": "PHYSICS-3C03"
+    },
+    {
+        "Info": "Inquiry in Physics",
+        "Text": "PHYSICS-3D03"
+    },
+    {
+        "Info": "Thermodynamics and Statistical Mechanics",
+        "Text": "PHYSICS-3K03"
+    },
+    {
+        "Info": "Introduction to Quantum Information",
+        "Text": "PHYSICS-3QI3"
+    },
+    {
+        "Info": "Particle and Nuclear Physics",
+        "Text": "PHYSICS-4E03"
+    },
+    {
+        "Info": "Quantum Mechanics II",
+        "Text": "PHYSICS-4F03"
+    },
+    {
+        "Info": "Solid State Physics",
+        "Text": "PHYSICS-4K03"
+    },
+    {
+        "Info": "Graduate Topics in Physics",
+        "Text": "PHYSICS-5GT3"
+    },
+    {
+        "Info": "Python for PNB",
+        "Text": "PNB-2A03"
+    },
+    {
+        "Info": "Integrative PNB Through Scientific Writing",
+        "Text": "PNB-2XD3"
+    },
+    {
+        "Info": "Descriptive Statistics and Research Methods",
+        "Text": "PNB-2XE3"
+    },
+    {
+        "Info": "Perspectives in PNB",
+        "Text": "PNB-2XF3"
+    },
+    {
+        "Info": "Perception Laboratory",
+        "Text": "PNB-3EE3"
+    },
+    {
+        "Info": "History of Psychology",
+        "Text": "PNB-3HP3"
+    },
+    {
+        "Info": "Cognitive Neuroscience Lab",
+        "Text": "PNB-3MM3"
+    },
+    {
+        "Info": "Independent Library Study",
+        "Text": "PNB-3Q03B"
+    },
+    {
+        "Info": "Independent Library Study",
+        "Text": "PNB-3Q03S"
+    },
+    {
+        "Info": "Intermediate Independent Research",
+        "Text": "PNB-3QQ3B"
+    },
+    {
+        "Info": "Intermediate Independent Research",
+        "Text": "PNB-3QQ3S"
+    },
+    {
+        "Info": "Animal Behaviour Lab",
+        "Text": "PNB-3S03"
+    },
+    {
+        "Info": "Human Memory Lab",
+        "Text": "PNB-3V03"
+    },
+    {
+        "Info": "Integrative Mentor: Learning to Write through Student Editing",
+        "Text": "PNB-3XD3B"
+    },
+    {
+        "Info": "Assessment in Children",
+        "Text": "PNB-4A03"
+    },
+    {
+        "Info": "Social Diversity through the Lens of Cognitive Neuroscience and Psychology",
+        "Text": "PNB-4E03"
+    },
+    {
+        "Info": "Inquiry in Psychology, Neuroscience & Behaviour",
+        "Text": "PNB-4J03"
+    },
+    {
+        "Info": "Senior Independent Library Study",
+        "Text": "PNB-4Q03B"
+    },
+    {
+        "Info": "Senior Independent Library Study",
+        "Text": "PNB-4Q03S"
+    },
+    {
+        "Info": "Senior Independent Research",
+        "Text": "PNB-4QQ3B"
+    },
+    {
+        "Info": "Senior Independent Research",
+        "Text": "PNB-4QQ3S"
+    },
+    {
+        "Info": "Science Communication in the Behavioural Sciences",
+        "Text": "PNB-4SC6B"
+    },
+    {
+        "Info": "Politics and Power in a Globalizing World",
+        "Text": "POLSCI-1AB3"
+    },
+    {
+        "Info": "Canadian Democracy",
+        "Text": "POLSCI-2D03"
+    },
+    {
+        "Info": "Politics, Power and Influence in Canada",
+        "Text": "POLSCI-2F03"
+    },
+    {
+        "Info": "Global Political Economy",
+        "Text": "POLSCI-2J03"
+    },
+    {
+        "Info": "Governance, Representation, and Participation in Democracies",
+        "Text": "POLSCI-2M03"
+    },
+    {
+        "Info": "Political Theory",
+        "Text": "POLSCI-2O06B"
+    },
+    {
+        "Info": "Public Policy and Administration",
+        "Text": "POLSCI-2U03"
+    },
+    {
+        "Info": "Political Authority: 20th-Century Political Theory",
+        "Text": "POLSCI-3CC3"
+    },
+    {
+        "Info": "Public Service Leadership",
+        "Text": "POLSCI-3FG3"
+    },
+    {
+        "Info": "Honours Issues in Canadian Politics and Canadian Public Policy",
+        "Text": "POLSCI-3J03"
+    },
+    {
+        "Info": "Provincial Politics in Canada",
+        "Text": "POLSCI-3JJ3"
+    },
+    {
+        "Info": "Migration and Citizenship: Canadian, Comparative and Global Perspectives",
+        "Text": "POLSCI-3K03"
+    },
+    {
+        "Info": "Globalization and the World Order",
+        "Text": "POLSCI-3LB3"
+    },
+    {
+        "Info": "Southeast Asian Politics",
+        "Text": "POLSCI-3LC3"
+    },
+    {
+        "Info": "Statistical Analysis of Primary Data",
+        "Text": "POLSCI-3NN3"
+    },
+    {
+        "Info": "The Causes of War",
+        "Text": "POLSCI-3Q03"
+    },
+    {
+        "Info": "The Charter of Rights and Freedoms",
+        "Text": "POLSCI-3RF3"
+    },
+    {
+        "Info": "Democratization and Human Rights",
+        "Text": "POLSCI-3Y03"
+    },
+    {
+        "Info": "Contemporary Politics",
+        "Text": "POLSCI-4AA6B"
+    },
+    {
+        "Info": "Chemical Engineering II: Energy Balance",
+        "Text": "PROCTECH-2EC3"
+    },
+    {
+        "Info": "PLC Programming",
+        "Text": "PROCTECH-2PL3"
+    },
+    {
+        "Info": "Systems Engineering Fundamentals",
+        "Text": "PROCTECH-2SE3"
+    },
+    {
+        "Info": "Advanced Control Theory II",
+        "Text": "PROCTECH-4CT3"
+    },
+    {
+        "Info": "Industrial Networks and Controllers",
+        "Text": "PROCTECH-4IC3"
+    },
+    {
+        "Info": "Internet Technologies and Databases",
+        "Text": "PROCTECH-4IT3"
+    },
+    {
+        "Info": "Survey of Psychology",
+        "Text": "PSYCH-1F03"
+    },
+    {
+        "Info": "Foundations of Psychology, Neuroscience & Behaviour",
+        "Text": "PSYCH-1NN3"
+    },
+    {
+        "Info": "Foundations of Psychology, Neuroscience & Behaviour",
+        "Text": "PSYCH-1XX3"
+    },
+    {
+        "Info": "Child Development",
+        "Text": "PSYCH-2AA3"
+    },
+    {
+        "Info": "Abnormal Psychology: Fundamentals and Major Disorders",
+        "Text": "PSYCH-2AP3"
+    },
+    {
+        "Info": "Personality",
+        "Text": "PSYCH-2B03"
+    },
+    {
+        "Info": "Sensory Processes",
+        "Text": "PSYCH-2E03"
+    },
+    {
+        "Info": "Human Learning and Cognition",
+        "Text": "PSYCH-2H03"
+    },
+    {
+        "Info": "Introduction to Music Cognition",
+        "Text": "PSYCH-2MP3"
+    },
+    {
+        "Info": "Clinical Neuropsychology",
+        "Text": "PSYCH-2NF3"
+    },
+    {
+        "Info": "Human Sexuality",
+        "Text": "PSYCH-3AC3"
+    },
+    {
+        "Info": "Aging",
+        "Text": "PSYCH-3AG3"
+    },
+    {
+        "Info": "Positive Psychology",
+        "Text": "PSYCH-3BA3"
+    },
+    {
+        "Info": "Cognitive Neuroscience",
+        "Text": "PSYCH-3BN3"
+    },
+    {
+        "Info": "Forensic Psychology",
+        "Text": "PSYCH-3CC3"
+    },
+    {
+        "Info": "The Multisensory Mind",
+        "Text": "PSYCH-3D03"
+    },
+    {
+        "Info": "Essentials of Developmental Psychology",
+        "Text": "PSYCH-3GG3"
+    },
+    {
+        "Info": "Psychometrics",
+        "Text": "PSYCH-3MT3"
+    },
+    {
+        "Info": "Cognitive Neuroscience of Language",
+        "Text": "PSYCH-3NL3"
+    },
+    {
+        "Info": "The Science of Performance",
+        "Text": "PSYCH-3SP3"
+    },
+    {
+        "Info": "Intensive Beginner's Russian II",
+        "Text": "RUSSIAN-1ZZ3"
+    },
+    {
+        "Info": "Introduction to Sanskrit II",
+        "Text": "SANSKRIT-2B03"
+    },
+    {
+        "Info": "The Big Questions: Introduction to Society, Culture & Religion",
+        "Text": "SCAR-1SC3"
+    },
+    {
+        "Info": "Apocalypse, Then and Now",
+        "Text": "SCAR-2AP3"
+    },
+    {
+        "Info": "Introduction to Modern Standard Arabic II",
+        "Text": "SCAR-2AR3"
+    },
+    {
+        "Info": "Images of the Divine Feminine",
+        "Text": "SCAR-2BB3"
+    },
+    {
+        "Info": "Religion and the Arts",
+        "Text": "SCAR-2CA3"
+    },
+    {
+        "Info": "Pirates, Pilgrims and Enslaved in the Mediterranean, 1450-1750",
+        "Text": "SCAR-2FF3"
+    },
+    {
+        "Info": "Introduction to Biblical Hebrew II",
+        "Text": "SCAR-2HD3"
+    },
+    {
+        "Info": "God and Philosophy",
+        "Text": "SCAR-2LL3"
+    },
+    {
+        "Info": "Asian Meditation Traditions",
+        "Text": "SCAR-2MT3"
+    },
+    {
+        "Info": "Religion, Magic and Witchcraft",
+        "Text": "SCAR-2MW3"
+    },
+    {
+        "Info": "Death and Dying: The Western Experience",
+        "Text": "SCAR-2N03"
+    },
+    {
+        "Info": "Cults, Conspiracies and Close Encounters",
+        "Text": "SCAR-2QQ3"
+    },
+    {
+        "Info": "Introduction to Sanskrit II",
+        "Text": "SCAR-2SB3"
+    },
+    {
+        "Info": "Sport and/as Religion",
+        "Text": "SCAR-2SP3"
+    },
+    {
+        "Info": "Culture and Religion",
+        "Text": "SCAR-3AR3"
+    },
+    {
+        "Info": "Islam in the Modern World",
+        "Text": "SCAR-3C03"
+    },
+    {
+        "Info": "Gender and Religion",
+        "Text": "SCAR-3FF3"
+    },
+    {
+        "Info": "Social Justice",
+        "Text": "SCAR-3JJ3"
+    },
+    {
+        "Info": "The Birth of Christianity",
+        "Text": "SCAR-3PA3"
+    },
+    {
+        "Info": "Religion and Law",
+        "Text": "SCAR-3RL3"
+    },
+    {
+        "Info": "Mysticism",
+        "Text": "SCAR-3X03"
+    },
+    {
+        "Info": "Foundations in Science Communication",
+        "Text": "SCICOMM-2A03"
+    },
+    {
+        "Info": "Science Communication in Life Sciences",
+        "Text": "SCICOMM-3P03"
+    },
+    {
+        "Info": "Communicating Science for Professional Audiences",
+        "Text": "SCICOMM-3PP3"
+    },
+    {
+        "Info": "Foundations of Science: Equity, Justice and Anti-Racism in Science",
+        "Text": "SCIENCE-2AR3"
+    },
+    {
+        "Info": "Skills for Career Success in Science",
+        "Text": "SCIENCE-2C00"
+    },
+    {
+        "Info": "Skills for Career Success in Biochemistry",
+        "Text": "SCIENCE-2D00"
+    },
+    {
+        "Info": "Impactful Initiatives in Health",
+        "Text": "SCIENCE-2P03"
+    },
+    {
+        "Info": "Creativity, Innovation and Technology",
+        "Text": "SFGNTECH-3DM3"
+    },
+    {
+        "Info": "Engineering Economics",
+        "Text": "SFGNTECH-3EE3"
+    },
+    {
+        "Info": "Financial Systems",
+        "Text": "SFGNTECH-3FS3"
+    },
+    {
+        "Info": "Management Principles",
+        "Text": "SFGNTECH-3MP3"
+    },
+    {
+        "Info": "Legal and Regulatory Issues",
+        "Text": "SFGNTECH-4EM3"
+    },
+    {
+        "Info": "Entrepreneurial Thinking and Innovation",
+        "Text": "SFGNTECH-4EN3"
+    },
+    {
+        "Info": "Lean Thinking and Practices",
+        "Text": "SFGNTECH-4LM3"
+    },
+    {
+        "Info": "Project Management",
+        "Text": "SFGNTECH-4PM3"
+    },
+    {
+        "Info": "Technology Ethics and Sustainability",
+        "Text": "SFGNTECH-4SE3"
+    },
+    {
+        "Info": "Technical Communications",
+        "Text": "SFGNTECH-4TC3"
+    },
+    {
+        "Info": "Integrated Software & Biomedical Engineering Capstone Design Project",
+        "Text": "SFWRBME-5P06B"
+    },
+    {
+        "Info": "Software Design I - Introduction to Software Development",
+        "Text": "SFWRENG-2AA4"
+    },
+    {
+        "Info": "Data Structures and Algorithms",
+        "Text": "SFWRENG-2C03"
+    },
+    {
+        "Info": "Discrete Mathematics and Applications II",
+        "Text": "SFWRENG-2FA3"
+    },
+    {
+        "Info": "Computer Architecture",
+        "Text": "SFWRENG-2GA3"
+    },
+    {
+        "Info": "Software Design III - Large System Design",
+        "Text": "SFWRENG-3A04"
+    },
+    {
+        "Info": "Dynamic Systems and Control",
+        "Text": "SFWRENG-3DX4"
+    },
+    {
+        "Info": "Safe Software-Intensive Medical Devices",
+        "Text": "SFWRENG-3MD4"
+    },
+    {
+        "Info": "Software Testing",
+        "Text": "SFWRENG-3S03"
+    },
+    {
+        "Info": "Operating Systems",
+        "Text": "SFWRENG-3SH3"
+    },
+    {
+        "Info": "Advanced Databases",
+        "Text": "SFWRENG-4AD3"
+    },
+    {
+        "Info": "Computer Networks and Security",
+        "Text": "SFWRENG-4C03"
+    },
+    {
+        "Info": "Performance Analysis of Computer Systems",
+        "Text": "SFWRENG-4E03"
+    },
+    {
+        "Info": "Software Design IV - Capstone Design Project",
+        "Text": "SFWRENG-4G06B"
+    },
+    {
+        "Info": "Computer Security",
+        "Text": "SFWRTECH-3CS3"
+    },
+    {
+        "Info": "Fundamentals of Networking",
+        "Text": "SFWRTECH-3IT3"
+    },
+    {
+        "Info": "Contemporary Math for Software Development",
+        "Text": "SFWRTECH-3MA3"
+    },
+    {
+        "Info": "Operating Systems",
+        "Text": "SFWRTECH-3OS3"
+    },
+    {
+        "Info": "Procedural and Object Oriented Programming Concepts",
+        "Text": "SFWRTECH-3PR3"
+    },
+    {
+        "Info": "Software Requirements and Specification",
+        "Text": "SFWRTECH-3RQ3"
+    },
+    {
+        "Info": "Probability and Statistics",
+        "Text": "SFWRTECH-3ST3"
+    },
+    {
+        "Info": "Artificial Intelligence",
+        "Text": "SFWRTECH-4AI3"
+    },
+    {
+        "Info": "Parallel Programming",
+        "Text": "SFWRTECH-4CC3"
+    },
+    {
+        "Info": "Data Mining",
+        "Text": "SFWRTECH-4DM3"
+    },
+    {
+        "Info": "Real-Time Systems",
+        "Text": "SFWRTECH-4ES3"
+    },
+    {
+        "Info": "Numerical Linear Algebra and Numerical Optimization",
+        "Text": "SFWRTECH-4MA3"
+    },
+    {
+        "Info": "Software Architecture",
+        "Text": "SFWRTECH-4SA3"
+    },
+    {
+        "Info": "Software Security",
+        "Text": "SFWRTECH-4SS3"
+    },
+    {
+        "Info": "Visual Effects and Technology for Animated Production",
+        "Text": "SFWRTECH-4VE3"
+    },
+    {
+        "Info": "Advanced Web Programming",
+        "Text": "SFWRTECH-4WP3"
+    },
+    {
+        "Info": "Embedded Systems",
+        "Text": "SMRTTECH-4ES3"
+    },
+    {
+        "Info": "IoT Devices and Networks",
+        "Text": "SMRTTECH-4ID3"
+    },
+    {
+        "Info": "Canadian Society: Social Problems, Social Policy, and the Law",
+        "Text": "SOCIOL-1C03"
+    },
+    {
+        "Info": "An Introduction to Sociology",
+        "Text": "SOCIOL-1Z03"
+    },
+    {
+        "Info": "Sociology of Deviance",
+        "Text": "SOCIOL-2BB3"
+    },
+    {
+        "Info": "Constructing Deviance",
+        "Text": "SOCIOL-2CC3"
+    },
+    {
+        "Info": "Introduction to Indigenous-Settler Relations in Canada",
+        "Text": "SOCIOL-2EE3"
+    },
+    {
+        "Info": "Sociology of Education",
+        "Text": "SOCIOL-2GG3"
+    },
+    {
+        "Info": "Race, Class, Gender, and Sexuality",
+        "Text": "SOCIOL-2JJ3"
+    },
+    {
+        "Info": "Introduction to Contemporary Sociological Theory",
+        "Text": "SOCIOL-2LL3"
+    },
+    {
+        "Info": "Dynamics and Transitions in Intimate Relationships and Families",
+        "Text": "SOCIOL-2QQ3"
+    },
+    {
+        "Info": "Case Studies of Social Inequality",
+        "Text": "SOCIOL-2RR3"
+    },
+    {
+        "Info": "Introduction to Sociological Research",
+        "Text": "SOCIOL-2Z03"
+    },
+    {
+        "Info": "Sociology of Health Care",
+        "Text": "SOCIOL-3G03"
+    },
+    {
+        "Info": "Sociology of Stress and Mental Health",
+        "Text": "SOCIOL-3MH3"
+    },
+    {
+        "Info": "Advanced Analysis of Contemporary Sociological Theory",
+        "Text": "SOCIOL-3P03"
+    },
+    {
+        "Info": "Racism and Racial Inequality",
+        "Text": "SOCIOL-3RI3"
+    },
+    {
+        "Info": "Imprisonment",
+        "Text": "SOCIOL-3RR3"
+    },
+    {
+        "Info": "Power, Conflict, and the Law",
+        "Text": "SOCIOL-3UU3"
+    },
+    {
+        "Info": "The Indian Act: A Social Problem",
+        "Text": "SOCIOL-3VV3"
+    },
+    {
+        "Info": "Applications of Quantitative Methods in the Social Sciences",
+        "Text": "SOCIOL-4FF3"
+    },
+    {
+        "Info": "Social Problems",
+        "Text": "SOCIOL-4W03"
+    },
+    {
+        "Info": "Feminism and Social Policy",
+        "Text": "SOCIOL-4YY3"
+    },
+    {
+        "Info": "An Introduction to Social Psychology",
+        "Text": "SOCPSY-1Z03"
+    },
+    {
+        "Info": "Social Psychology of Popular Culture",
+        "Text": "SOCPSY-2C03"
+    },
+    {
+        "Info": "Making and Breaking Rules",
+        "Text": "SOCPSY-2D03"
+    },
+    {
+        "Info": "Psychology of Close Relationships",
+        "Text": "SOCPSY-2F03"
+    },
+    {
+        "Info": "Research Methods in Social Psychology",
+        "Text": "SOCPSY-2K03"
+    },
+    {
+        "Info": "Mental Health",
+        "Text": "SOCPSY-3A03"
+    },
+    {
+        "Info": "Who Am I? Self and Identity",
+        "Text": "SOCPSY-3F03"
+    },
+    {
+        "Info": "Advanced Research Methods",
+        "Text": "SOCPSY-3L03"
+    },
+    {
+        "Info": "Counselling & Psychotherapy",
+        "Text": "SOCPSY-3M03"
+    },
+    {
+        "Info": "Imprisonment",
+        "Text": "SOCPSY-3RR3"
+    },
+    {
+        "Info": "Social Psychology in Action",
+        "Text": "SOCPSY-3Y03"
+    },
+    {
+        "Info": "Small Worlds: Children and Childhood",
+        "Text": "SOCPSY-3ZZ3"
+    },
+    {
+        "Info": "Special Topics in Social Psychology",
+        "Text": "SOCPSY-4B03"
+    },
+    {
+        "Info": "Special Topics in Social Psychology",
+        "Text": "SOCPSY-4E03"
+    },
+    {
+        "Info": "How do we Know? Doing Social Sciences Research",
+        "Text": "SOCSCI-1RM3"
+    },
+    {
+        "Info": "Inquiry in the Social Sciences",
+        "Text": "SOCSCI-1SS3"
+    },
+    {
+        "Info": "Board and Staff Responsibilities for the Not-for-Profit Sector",
+        "Text": "SOCSCI-2BR3"
+    },
+    {
+        "Info": "Introduction to Business for Social Sciences",
+        "Text": "SOCSCI-2BU3"
+    },
+    {
+        "Info": "Career Preparation in the Social Sciences",
+        "Text": "SOCSCI-2EL0"
+    },
+    {
+        "Info": "Foundations of Disabilities",
+        "Text": "SOCSCI-2FD3"
+    },
+    {
+        "Info": "Human Resources Management for Social Sciences",
+        "Text": "SOCSCI-2HR3"
+    },
+    {
+        "Info": "Intervention Strategies Working with Disabilities",
+        "Text": "SOCSCI-2IS3"
+    },
+    {
+        "Info": "Introduction to Statistics",
+        "Text": "SOCSCI-2J03"
+    },
+    {
+        "Info": "Co-Op Job Search 1",
+        "Text": "SOCSCI-2JS1"
+    },
+    {
+        "Info": "Introduction to Marketing for Social Sciences",
+        "Text": "SOCSCI-2MR3"
+    },
+    {
+        "Info": "Resource Development for the Not-For-Profit Sector",
+        "Text": "SOCSCI-2RD3"
+    },
+    {
+        "Info": "Strategic and Long Range Planning for the Not-for-Profit Sector",
+        "Text": "SOCSCI-2SP3"
+    },
+    {
+        "Info": "Working with Families with Disabilities",
+        "Text": "SOCSCI-2WF3"
+    },
+    {
+        "Info": "Re-Imagining Help: Introduction to Social Work II",
+        "Text": "SOCWORK-1BB3"
+    },
+    {
+        "Info": "Theory, Process and Communication Skills for Social Work",
+        "Text": "SOCWORK-2A06B"
+    },
+    {
+        "Info": "Anti-Oppressive Social Work",
+        "Text": "SOCWORK-2BB3"
+    },
+    {
+        "Info": "General Social Work I",
+        "Text": "SOCWORK-3D06B"
+    },
+    {
+        "Info": "Social Work with Groups",
+        "Text": "SOCWORK-3F03"
+    },
+    {
+        "Info": "Social Work and Indigenous Peoples",
+        "Text": "SOCWORK-3I03"
+    },
+    {
+        "Info": "Critical Perspectives on Race, Racialization, Racism and Colonialism in Canadian Society",
+        "Text": "SOCWORK-4C03"
+    },
+    {
+        "Info": "General Social Work II",
+        "Text": "SOCWORK-4D06B"
+    },
+    {
+        "Info": "Social Change: Social Movements and Advocacy",
+        "Text": "SOCWORK-4J03"
+    },
+    {
+        "Info": "Child Welfare",
+        "Text": "SOCWORK-4W03"
+    },
+    {
+        "Info": "Social Work with Families",
+        "Text": "SOCWORK-4X03"
+    },
+    {
+        "Info": "Intermediate Spanish II",
+        "Text": "SPANISH-1AA3"
+    },
+    {
+        "Info": "Beginner's Intensive Spanish",
+        "Text": "SPANISH-1Z06B"
+    },
+    {
+        "Info": "Intermediate Spanish II",
+        "Text": "SPANISH-2ZZ3"
+    },
+    {
+        "Info": "Statistical Methods for Science",
+        "Text": "STATS-2B03"
+    },
+    {
+        "Info": "Statistical Methods and Applications",
+        "Text": "STATS-2MB3"
+    },
+    {
+        "Info": "Data Science Methods",
+        "Text": "STATS-3DA3"
+    },
+    {
+        "Info": "Survey Sampling",
+        "Text": "STATS-3S03"
+    },
+    {
+        "Info": "Actuarial Models in Non-Life Insurance",
+        "Text": "STATS-3ST3"
+    },
+    {
+        "Info": "Probability and Statistics for Engineering",
+        "Text": "STATS-3Y03"
+    },
+    {
+        "Info": "Time Series",
+        "Text": "STATS-4A03"
+    },
+    {
+        "Info": "Generalized Linear Models",
+        "Text": "STATS-4C03"
+    },
+    {
+        "Info": "Advanced Topics in Actuarial Science",
+        "Text": "STATS-4G03"
+    },
+    {
+        "Info": "Reading in Statistics",
+        "Text": "STATS-4W03"
+    },
+    {
+        "Info": "Graduate Level Topics in Statistics",
+        "Text": "STATS-5GT3"
+    },
+    {
+        "Info": "Introduction to Sustainability",
+        "Text": "SUSTAIN-1S03"
+    },
+    {
+        "Info": "Global Questions in Sustainability",
+        "Text": "SUSTAIN-2GS3"
+    },
+    {
+        "Info": "Evaluating Problems & Sustainable Solutions",
+        "Text": "SUSTAIN-2S03"
+    },
+    {
+        "Info": "Exploring the United Nations Sustainable Development Goals",
+        "Text": "SUSTAIN-2SD3"
+    },
+    {
+        "Info": "Advocating for Sustainability",
+        "Text": "SUSTAIN-2SS3"
+    },
+    {
+        "Info": "Leadership in Sustainability",
+        "Text": "SUSTAIN-4S06B"
+    },
+    {
+        "Info": "Devised Performance Processes",
+        "Text": "THTRFLM-2DP3"
+    },
+    {
+        "Info": "Film Analysis",
+        "Text": "THTRFLM-2FA3"
+    },
+    {
+        "Info": "Movies and Me",
+        "Text": "THTRFLM-2MM3"
+    },
+    {
+        "Info": "Cinema History from WWII",
+        "Text": "THTRFLM-3L03"
+    },
+    {
+        "Info": "Organizing the Performance Space",
+        "Text": "THTRFLM-3OP6B"
+    },
+    {
+        "Info": "Documentary, Politics, and Social Change",
+        "Text": "THTRFLM-3QA3"
+    },
+    {
+        "Info": "Scripting the Devised Performance",
+        "Text": "THTRFLM-3SD3"
+    },
+    {
+        "Info": "Acting and the Body: Devising Physical Theatre",
+        "Text": "THTRFLM-3XX3"
+    },
+    {
+        "Info": "Theatre and Society: A Performance Project",
+        "Text": "THTRFLM-4A06B"
+    },
+    {
+        "Info": "Performance and Society",
+        "Text": "THTRFLM-4C03"
+    },
+    {
+        "Info": "Integrated Mechatronics & Biomedical Engineering Capstone Design Project",
+        "Text": "TRONBME-5P06B"
+    },
+    {
+        "Info": "Introduction to Health and Safety",
+        "Text": "WHMIS-1A00"
+    },
+    {
+        "Info": "An Introduction to Work and Labour in Canada",
+        "Text": "WORKLABR-1A03"
+    },
+    {
+        "Info": "Labour and Globalization",
+        "Text": "WORKLABR-2G03"
+    },
+    {
+        "Info": "Sports, Work and Labour",
+        "Text": "WORKLABR-2H03"
+    },
+    {
+        "Info": "Work and Racism",
+        "Text": "WORKLABR-2J03"
+    },
+    {
+        "Info": "Labour and Employment Law",
+        "Text": "WORKLABR-3C03"
+    },
+    {
+        "Info": "Work: Dangerous to your Health?",
+        "Text": "WORKLABR-3D03"
+    },
+    {
+        "Info": "Public Sector Collective Bargaining",
+        "Text": "WORKLABR-4C03"
+    }
+]

@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./App.css";
-import courses from "./scraped.json";
+import courses3202330 from "./3202330.json";
+import courses3202340 from "./3202340.json";
 import {
   TextField,
   Button,
@@ -39,7 +40,7 @@ const isValidPhone = (phone) => {
 
 function App() {
   const [courseCode, setCourseCode] = useState("");
-  const [term, setTerm] = useState("");
+  const [term, setTerm] = useState("3202330");
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(false);
   const [selectedOption, setSelectedOption] = useState(null);
@@ -129,9 +130,33 @@ function App() {
       <div className="startby">Start By Searching Your Course:</div>
       <div className="formcontainer">
         <form onSubmit={handleSubmit} className="mainForm">
+          <FormControl component="fieldset">
+            <Box display="flex" justifyContent="center" alignItems="center">
+              <RadioGroup
+                value={term}
+                onChange={(event) => setTerm(event.target.value)}
+                flexDirection="row"
+              >
+                <FormControlLabel
+                  value="3202330"
+                  control={<Radio />}
+                  label="Fall 2023"
+                />
+
+                <FormControlLabel
+                  value="3202340"
+                  control={<Radio />}
+                  label="Winter 2024"
+                />
+              </RadioGroup>
+            </Box>
+          </FormControl>
+
+          <br />
+
           <Autocomplete
             filterOptions={filterOptions}
-            options={courses}
+            options={term === "3202330" ? courses3202330 : courses3202340}
             getOptionLabel={(option) => option.Text}
             renderOption={(props, option) => (
               <li {...props}>
@@ -150,31 +175,9 @@ function App() {
             renderInput={(params) => (
               <TextField {...params} label="Course Code" />
             )}
-            sx={{ marginBottom: "1em" }}
+            sx={{ marginBottom: "1em", marginTop: "1em" }}
           />
 
-          <br />
-          <FormControl component="fieldset">
-            <Box display="flex" justifyContent="center" alignItems="center">
-              <RadioGroup
-                value={term}
-                onChange={(event) => setTerm(event.target.value)}
-              >
-                <FormControlLabel
-                  value="3202330"
-                  control={<Radio />}
-                  label="Fall 2023"
-                />
-
-                <FormControlLabel
-                  value="3202340"
-                  control={<Radio />}
-                  label="Winter 2024"
-                />
-              </RadioGroup>
-            </Box>
-          </FormControl>
-          <br />
           <div className="submitcontainer">
             <Button
               type="submit"

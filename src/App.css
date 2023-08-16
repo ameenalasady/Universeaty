@@ -31,10 +31,16 @@ html {
 
 .startby {
   font-size: 1.2em;
+  text-align: center;
 }
 .mainForm {
   display: flex;
   flex-direction: column;
+}
+
+.css-dmmspl-MuiFormGroup-root {
+  display: flex;
+  flex-direction: row !important;
 }
 
 .submitcontainer {
@@ -52,7 +58,7 @@ html {
   width: 40vw;
   min-width: 250px;
   align-items: center;
-  margin-top: 1.5em;
+  margin-top: 0.5em;
 }
 
 form {
