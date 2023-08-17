@@ -411,7 +411,7 @@ function App() {
             <a href="https://github.com/ameenalasady" target="_blank">
               Ameen
             </a>
-            .
+            and Mohammed Al-Asadi.
           </p>
           <p className="footer-paragraph3">
             Check out the{" "}
