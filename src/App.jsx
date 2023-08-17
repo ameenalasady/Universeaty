@@ -215,7 +215,12 @@ function App() {
                 Now Pick Which Section You Want To Track:
               </div>
               <div className="bottomleft">
-                <Table style={{ tableLayout: "fixed", width: "100%" }}>
+                <Table
+                  style={{
+                    tableLayout: "fixed",
+                    width: "100%",
+                  }}
+                >
                   <TableHead>
                     <TableRow>
                       <TableCell align="center" style={{ fontSize: "1.2em" }}>
@@ -357,7 +362,7 @@ function App() {
                     onClick={handleButtonClick}
                     disabled={buttonLoading}
                   >
-                    {buttonLoading ? <CircularProgress size={24} /> : "Track"}
+                    {buttonLoading ? <CircularProgress size={20} /> : "Track"}
                   </Button>
 
                   <Modal open={open} onClose={handleClose}>
@@ -403,7 +408,7 @@ function App() {
         </div>
       </div>
 
-      <footer className="footer">
+      <footer className={`footer ${!data ? "fixed-footer" : ""}`}>
         <div className="footercontainer">
           <p className="footer-paragraph1">© 2023 universeaty.ca</p>
           <p className="footer-paragraph2">
