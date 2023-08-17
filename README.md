@@ -4,7 +4,7 @@ Universeaty is a web app built with React and Vite that helps students stay info
 
 ## Features
 
-- Real-time notifications: Get notified as soon as a seat becomes available in your desired course.
+- Real-time notifications: Get notified as soon as a seat becomes available in your desired course. Choose to receive notifications via email or text message (coming soon).
 - Easy to use: Simply select the courses you're interested in and let Universeaty do the rest.
 - Reliable: Built with the latest web technologies to ensure fast and reliable performance.
 
