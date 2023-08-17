@@ -146,9 +146,9 @@ h2 {
   flex-direction: column;
   text-align: center;
   color: gray;
-  position: fixed;
+  /* position: fixed;
 
-  bottom: 0;
+  bottom: 0; */
 }
 
 .footer a {
