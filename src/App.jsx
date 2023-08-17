@@ -410,7 +410,6 @@ function App() {
 
       <footer className={`footer ${!data ? "fixed-footer" : ""}`}>
         <div className="footercontainer">
-          <p className="footer-paragraph1">© 2023 universeaty.ca</p>
           <p className="footer-paragraph2">
             This open source tool was made by{" "}
             <a href="https://github.com/ameenalasady" target="_blank">
@@ -432,6 +431,8 @@ function App() {
             </a>{" "}
             for more information.
           </p>
+
+          <p className="footer-paragraph1">© 2023 universeaty.ca</p>
         </div>
       </footer>
     </ThemeProvider>

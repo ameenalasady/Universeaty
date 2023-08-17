@@ -166,6 +166,7 @@ h2 {
 
 .footer-paragraph1 {
   margin: 0.1em;
+  margin-bottom: 1em;
 }
 
 .footer-paragraph2 {
@@ -174,5 +175,4 @@ h2 {
 
 .footer-paragraph3 {
   margin: 0.1em;
-  margin-bottom: 1em;
 }
