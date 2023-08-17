@@ -402,6 +402,29 @@ function App() {
           )}
         </div>
       </div>
+
+      <footer className="footer">
+        <div className="footercontainer">
+          <p className="footer-paragraph1">© 2023 universeaty.ca</p>
+          <p className="footer-paragraph2">
+            This open source tool was made by{" "}
+            <a href="https://github.com/ameenalasady" target="_blank">
+              Ameen
+            </a>
+            .
+          </p>
+          <p className="footer-paragraph3">
+            Check out the{" "}
+            <a
+              href="https://github.com/ameenalasady/Universeaty"
+              target="_blank"
+            >
+              GitHub repository
+            </a>{" "}
+            for more information.
+          </p>
+        </div>
+      </footer>
     </ThemeProvider>
   );
 }

@@ -138,3 +138,39 @@ h2 {
   border-radius: 1em;
   border-color: white !important;
 }
+
+.footer {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  color: gray;
+  position: fixed;
+
+  bottom: 0;
+}
+
+.footer a {
+  color: #b8004d;
+}
+
+.footercontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+}
+
+.footer-paragraph1 {
+  margin: 0.1em;
+}
+
+.footer-paragraph2 {
+  margin: 0.1em;
+}
+
+.footer-paragraph3 {
+  margin: 0.1em;
+  margin-bottom: 1em;
+}
