@@ -410,11 +410,12 @@ function App() {
             This open source tool was made by{" "}
             <a href="https://github.com/ameenalasady" target="_blank">
               Ameen
-            </a>
-            and {" "}
+            </a>{" "}
+            and{" "}
             <a href="https://github.com/malasadi" target="_blank">
-              Mohammed Al-Asadi.
+              Mohammed Al-Asadi
             </a>
+            .
           </p>
           <p className="footer-paragraph3">
             Check out the{" "}
