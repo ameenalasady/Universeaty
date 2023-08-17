@@ -1,12 +1,13 @@
 # Universeaty
 
-Universeaty is a web app built with React and Vite that helps students stay informed about open seats in their desired courses. With Universeaty, you'll never miss an opportunity to enroll in the classes you want!
+Universeaty is a web app built with React and Vite that helps McMaster University (for now) students stay informed about open seats in their desired courses. With Universeaty, you'll never miss an opportunity to enroll in the classes you want!
 
 ## Features
 
 - Real-time notifications: Get notified as soon as a seat becomes available in your desired course. Choose to receive notifications via email or text message (coming soon).
 - Easy to use: Simply select the courses you're interested in and let Universeaty do the rest.
 - Reliable: Built with the latest web technologies to ensure fast and reliable performance.
+- Completely free to use!
 
 ## Backend
 
