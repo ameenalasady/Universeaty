@@ -17,6 +17,11 @@ html {
   align-items: center;
 }
 
+.logosvg {
+  width: 30vw;
+  min-width: 300px;
+}
+
 .welcometo {
   font-size: 1.2em;
   margin-top: 1.5em;
