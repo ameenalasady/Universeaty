@@ -132,7 +132,7 @@ function App() {
       <div className="maincontainer">
         <div className="titlecontainer">
           <div className="titletext">
-            <a href="universeaty.ca" className="logolink">
+            <a href="https://www.universeaty.ca/" className="logolink">
               <Logo className="logosvg" />
             </a>
           </div>
