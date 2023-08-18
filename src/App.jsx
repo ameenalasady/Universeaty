@@ -135,7 +135,30 @@ function App() {
             <Logo className="logosvg" />
           </div>
         </div>
-        <div className="startby">Start By Searching Your Course:</div>
+        <div className="modivcontainer">
+          <div className="modiv">
+            <div className="moimgcontainer">
+              <img
+                className="moimg"
+                src="public/template.png"
+                alt="templateimg"
+              />
+            </div>
+
+            <div className="motext">
+              <h1 class="heading">
+                Get instant notifications when a seat opens in full classes,{" "}
+                <span class="highlighted_word">for free</span>
+              </h1>
+              <p class="paragraph">
+                Receive instant notifications in your email whenever a seat is
+                available in your classes.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        {/* <div className="startby">Start By Searching Your Course:</div> */}
         <div className="formcontainer">
           <form onSubmit={handleSubmit} className="mainForm">
             <FormControl component="fieldset">
@@ -156,14 +179,14 @@ function App() {
                     value="3202330"
                     control={<Radio />}
                     label="Fall 2023"
-                    sx={{ margin: "0" }}
+                    // sx={{ margin: "0" }}
                   />
 
                   <FormControlLabel
                     value="3202340"
                     control={<Radio />}
                     label="Winter 2024"
-                    sx={{ margin: "0" }}
+                    // sx={{ margin: "0" }}
                   />
                 </RadioGroup>
               </Box>
@@ -188,9 +211,27 @@ function App() {
                 setCourseCode(newInputValue);
               }}
               renderInput={(params) => (
-                <TextField {...params} label="Course Code" />
+                <TextField
+                  {...params}
+                  label="Course Code"
+                  InputProps={{ sx: { borderRadius: "0.75em" } }}
+                />
               )}
               sx={{ marginBottom: "1em", marginTop: "1em" }}
+              componentsProps={{
+                popper: {
+                  modifiers: [
+                    {
+                      name: "flip",
+                      enabled: false,
+                    },
+                    {
+                      name: "preventOverflow",
+                      enabled: false,
+                    },
+                  ],
+                },
+              }}
             />
 
             <div className="submitcontainer">
@@ -200,7 +241,7 @@ function App() {
                 color="primary"
                 disabled={loading}
                 startIcon={loading ? <CircularProgress size={20} /> : null}
-                sx={{ minWidth: "30%" }}
+                sx={{ minWidth: "30%", borderRadius: "0.75em" }}
               >
                 Search
               </Button>
@@ -212,7 +253,7 @@ function App() {
           {data && (
             <>
               <div className="explain">
-                Now Pick Which Section You Want To Track:
+                Pick which section you want to track:
               </div>
               <div className="bottomleft">
                 <Table
@@ -309,7 +350,7 @@ function App() {
           {selectedSection && (
             <>
               <div className="howcontact">
-                How Would You Like To Be Contacted?
+                How would you like to be contacted?
               </div>
 
               <h2>Track Section: {selectedSection}</h2>
@@ -322,6 +363,7 @@ function App() {
                   marginLeft: "auto",
                   marginRight: "auto",
                   marginBottom: "1em",
+                  borderRadius: "0.75em",
                 }}
               >
                 <MenuItem value="email">Email</MenuItem>
@@ -344,7 +386,11 @@ function App() {
                         ? "example@example.com"
                         : "1234567890"
                     }
-                    sx={{ width: "80%", maxWidth: "400px" }}
+                    sx={{
+                      width: "80%",
+                      maxWidth: "400px",
+                    }}
+                    InputProps={{ sx: { borderRadius: "0.75em" } }}
                     error={error}
                     helperText={error && `Invalid ${contactMethod}`}
                   />
@@ -358,6 +404,7 @@ function App() {
                       maxWidth: "100px",
                       marginLeft: "auto",
                       marginRight: "auto",
+                      borderRadius: "0.75em",
                     }}
                     onClick={handleButtonClick}
                     disabled={buttonLoading}
@@ -435,6 +482,10 @@ function App() {
           <p className="footer-paragraph1">© 2023 universeaty.ca</p>
         </div>
       </footer>
+
+      <div className="backgroundblob">
+        <img src="public/blob.png" alt="background" />
+      </div>
     </ThemeProvider>
   );
 }

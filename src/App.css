@@ -2,6 +2,8 @@
 
 html {
   font-family: "Montserrat", sans-serif;
+  overflow-x: hidden;
+  color: #333;
 }
 
 .maincontainer {
@@ -18,8 +20,95 @@ html {
 }
 
 .logosvg {
-  width: 30vw;
+  width: 20vw;
   min-width: 300px;
+}
+
+.modivcontainer {
+  width: 1920px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.modiv {
+  display: flex;
+  width: 40%;
+  align-items: center;
+}
+
+.moimgcontainer {
+  width: 80%;
+  margin-right: 0.5em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.moimg {
+  width: 350px;
+}
+
+.motext {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-left: 0.5em;
+}
+
+.heading {
+  font-size: 2.5em;
+  margin: 0;
+}
+
+.highlighted_word {
+  color: #b8004d;
+}
+
+.paragraph {
+  font-size: 1.5em;
+}
+
+@media screen and (max-width: 864px) {
+  .modiv {
+    flex-direction: column;
+  }
+
+  .moimgcontainer {
+    margin-right: 0em;
+  }
+
+  .motext {
+    margin-left: 0em;
+    width: 80%;
+  }
+
+  .heading {
+    text-align: center;
+  }
+  .paragraph {
+    text-align: center;
+  }
+
+  .moimg {
+    width: 80vw;
+    max-width: 350px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .motext {
+    width: 80vw;
+  }
+
+  .heading {
+    font-size: 1.75em;
+  }
+
+  .paragraph {
+    font-size: 1.25em;
+  }
 }
 
 .welcometo {
@@ -148,10 +237,10 @@ h2 {
   color: gray;
 }
 
-.fixed-footer {
+/* .fixed-footer {
   position: fixed;
   bottom: 0;
-}
+} */
 
 .footer a {
   color: #b8004d;
@@ -162,6 +251,8 @@ h2 {
   flex-direction: column;
   align-items: center;
   width: 90%;
+  /* position: fixed;
+  bottom: 0; */
 }
 
 .footer-paragraph1 {
@@ -175,4 +266,13 @@ h2 {
 
 .footer-paragraph3 {
   margin: 0.1em;
+}
+
+.backgroundblob {
+  position: absolute;
+  bottom: 25vh;
+  left: 45vw;
+  display: flex;
+  justify-content: center;
+  z-index: -10;
 }
