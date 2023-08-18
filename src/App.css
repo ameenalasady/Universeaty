@@ -119,6 +119,10 @@ html {
   .paragraph {
     font-size: 1.25em;
   }
+
+  .logolink {
+    margin-bottom: 2em;
+  }
 }
 
 .getstarted {
