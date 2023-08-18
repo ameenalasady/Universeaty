@@ -78,7 +78,7 @@ function App() {
     setLoading(false);
     setTimeout(() => {
       scrollToBottom();
-    }, 200);
+    }, 100);
   };
 
   const scrollToBottom = () => {
@@ -132,7 +132,9 @@ function App() {
       <div className="maincontainer">
         <div className="titlecontainer">
           <div className="titletext">
-            <Logo className="logosvg" />
+            <a href="universeaty.ca" className="logolink">
+              <Logo className="logosvg" />
+            </a>
           </div>
         </div>
         <div className="modivcontainer">
@@ -153,6 +155,8 @@ function App() {
             </div>
           </div>
         </div>
+
+        <h className="getstarted">Get Started</h>
 
         {/* <div className="startby">Start By Searching Your Course:</div> */}
         <div className="formcontainer">
@@ -175,14 +179,12 @@ function App() {
                     value="3202330"
                     control={<Radio />}
                     label="Fall 2023"
-                    // sx={{ margin: "0" }}
                   />
 
                   <FormControlLabel
                     value="3202340"
                     control={<Radio />}
                     label="Winter 2024"
-                    // sx={{ margin: "0" }}
                   />
                 </RadioGroup>
               </Box>
@@ -210,24 +212,13 @@ function App() {
                 <TextField
                   {...params}
                   label="Course Code"
-                  InputProps={{ sx: { borderRadius: "0.75em" } }}
+                  InputProps={{
+                    ...params.InputProps,
+                    sx: { borderRadius: "1.5em" },
+                  }}
                 />
               )}
               sx={{ marginBottom: "1em", marginTop: "1em" }}
-              componentsProps={{
-                popper: {
-                  modifiers: [
-                    {
-                      name: "flip",
-                      enabled: false,
-                    },
-                    {
-                      name: "preventOverflow",
-                      enabled: false,
-                    },
-                  ],
-                },
-              }}
             />
 
             <div className="submitcontainer">
@@ -237,7 +228,11 @@ function App() {
                 color="primary"
                 disabled={loading}
                 startIcon={loading ? <CircularProgress size={20} /> : null}
-                sx={{ minWidth: "30%", borderRadius: "0.75em" }}
+                sx={{
+                  minWidth: "100px",
+                  borderRadius: "1.5em",
+                  fontWeight: "bold",
+                }}
               >
                 Search
               </Button>
@@ -285,7 +280,7 @@ function App() {
                                 setSelectedSection(lec.section);
                                 setTimeout(() => {
                                   scrollToBottom();
-                                }, 200);
+                                }, 100);
                               }}
                             >
                               {lec.section}
@@ -306,7 +301,7 @@ function App() {
                                 setSelectedSection(lab.section);
                                 setTimeout(() => {
                                   scrollToBottom();
-                                }, 200);
+                                }, 100);
                               }}
                             >
                               {lab.section}
@@ -326,7 +321,7 @@ function App() {
                                 setSelectedSection(tut.section);
                                 setTimeout(() => {
                                   scrollToBottom();
-                                }, 200);
+                                }, 100);
                               }}
                             >
                               {tut.section}
@@ -359,7 +354,7 @@ function App() {
                   marginLeft: "auto",
                   marginRight: "auto",
                   marginBottom: "1em",
-                  borderRadius: "0.75em",
+                  borderRadius: "1.5em",
                 }}
               >
                 <MenuItem value="email">Email</MenuItem>
@@ -386,7 +381,7 @@ function App() {
                       width: "80%",
                       maxWidth: "400px",
                     }}
-                    InputProps={{ sx: { borderRadius: "0.75em" } }}
+                    InputProps={{ sx: { borderRadius: "1.5em" } }}
                     error={error}
                     helperText={error && `Invalid ${contactMethod}`}
                   />
@@ -396,11 +391,12 @@ function App() {
                     color="primary"
                     sx={{
                       marginTop: "2em",
-                      width: "30%",
+                      width: "100px",
                       maxWidth: "100px",
                       marginLeft: "auto",
                       marginRight: "auto",
-                      borderRadius: "0.75em",
+                      borderRadius: "1.5em",
+                      fontWeight: "bold",
                     }}
                     onClick={handleButtonClick}
                     disabled={buttonLoading}

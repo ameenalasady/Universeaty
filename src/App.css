@@ -1,9 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Montserrat:wght@100;400&display=swap");
 
 html {
-  font-family: "Montserrat", sans-serif;
   overflow-x: hidden;
   color: #333;
+}
+
+* {
+  font-family: "Lato", sans-serif !important;
 }
 
 .maincontainer {
@@ -13,6 +16,7 @@ html {
   align-items: center;
   flex-direction: column;
 }
+
 .titletext {
   display: flex;
   flex-direction: column;
@@ -20,8 +24,13 @@ html {
 }
 
 .logosvg {
-  width: 20vw;
-  min-width: 300px;
+  width: 12vw;
+  min-width: 200px;
+}
+
+.logolink {
+  margin: 0;
+  margin-bottom: 4em;
 }
 
 .modivcontainer {
@@ -29,6 +38,7 @@ html {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 4.3em;
 }
 
 .modiv {
@@ -39,7 +49,7 @@ html {
 
 .moimgcontainer {
   width: 80%;
-  margin-right: 0.5em;
+  margin-right: 1em;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -54,7 +64,7 @@ html {
   flex-direction: column;
   align-items: center;
   width: 100%;
-  margin-left: 0.5em;
+  margin-left: 1em;
 }
 
 .heading {
@@ -109,6 +119,13 @@ html {
   .paragraph {
     font-size: 1.25em;
   }
+}
+
+.getstarted {
+  font-size: 2em;
+  color: #b8004d;
+  font-weight: bold;
+  margin-top: 1em;
 }
 
 .welcometo {
@@ -170,7 +187,8 @@ form {
   align-items: center;
   padding-top: 1em;
   margin-top: 1em;
-  width: 80%;
+  width: 40%;
+  min-width: 350px;
 }
 
 .MuiTableCell-root {
@@ -201,7 +219,7 @@ h2 {
   flex-direction: column;
   align-items: center;
   width: 80%;
-  margin-bottom: 2em;
+  margin-bottom: 5em;
 }
 
 .howcontact {
