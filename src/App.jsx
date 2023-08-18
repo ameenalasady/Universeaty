@@ -138,11 +138,7 @@ function App() {
         <div className="modivcontainer">
           <div className="modiv">
             <div className="moimgcontainer">
-              <img
-                className="moimg"
-                src="public/template.png"
-                alt="templateimg"
-              />
+              <img className="moimg" src="template.png" alt="templateimg" />
             </div>
 
             <div className="motext">
@@ -484,7 +480,7 @@ function App() {
       </footer>
 
       <div className="backgroundblob">
-        <img src="public/blob.png" alt="background" />
+        <img src="/blob.png" alt="background" />
       </div>
     </ThemeProvider>
   );
