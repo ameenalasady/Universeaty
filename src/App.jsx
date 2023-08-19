@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import "./App.css";
 import courses3202330 from "./3202330.json";
 import courses3202340 from "./3202340.json";
@@ -59,6 +59,7 @@ function App() {
   const [open, setOpen] = useState(false);
   const [reason, setReason] = useState(null);
   const [buttonLoading, setButtonLoading] = useState(false);
+  const [buttonText, setButtonText] = useState("Search");
 
   const handleSubmit = async (event) => {
     event.preventDefault();
@@ -69,6 +70,11 @@ function App() {
     const response = await fetch(
       `https://redirect-to-raspberry-pi.vercel.app/open_seats?course_code=${courseCode}&term=${term}`
     );
+    if (response.status === 400) {
+      setButtonText("Bad Response");
+      setLoading(false);
+      return;
+    }
     const json = await response.json();
 
     // Update the data state variable with the result
@@ -78,6 +84,16 @@ function App() {
       scrollToBottom();
     }, 100);
   };
+
+  useEffect(() => {
+    const timeout = setTimeout(() => {
+      if (loading) {
+        setButtonText("Timeout");
+        setLoading(false);
+      }
+    }, 6000);
+    return () => clearTimeout(timeout);
+  }, [loading]);
 
   const scrollToBottom = () => {
     window.scrollTo({
@@ -107,6 +123,9 @@ function App() {
         const reason = await response.text();
         setReason(reason);
         setOpen(true);
+      } else if (response.status === 429) {
+        setReason("Too Many Requests");
+        setOpen(true);
       }
     }
     setButtonLoading(false);
@@ -135,9 +154,6 @@ function App() {
             </a>
           </div>
         </div>
-      {/* <div class="backgroundblob">
-        <img src="/blob.png"/>
-      </div> */}
         <div className="modivcontainer">
           <div className="modiv">
             <div className="moimgcontainer">
@@ -159,8 +175,12 @@ function App() {
 
         <div class="getstartedcontainer">
           <h className="getstarted">Get Started</h>
-          <img class="startedarrow" src="/arrow-sm-right-svgrepo-com.svg" alt="alternative_text"></img>
-        </div>  
+          <img
+            class="startedarrow"
+            src="/arrow-sm-right-svgrepo-com.svg"
+            alt="alternative_text"
+          ></img>
+        </div>
 
         {/* <div className="startby">Start By Searching Your Course:</div> */}
         <div className="formcontainer">
@@ -239,7 +259,7 @@ function App() {
                   fontWeight: "bold",
                 }}
               >
-                Search
+                {buttonText}
               </Button>
             </div>
           </form>
