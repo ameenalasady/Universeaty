@@ -43,7 +43,7 @@ html {
 
 .modiv {
   display: flex;
-  width: 800px;
+  width: 100vw;
   align-items: center;
 }
 

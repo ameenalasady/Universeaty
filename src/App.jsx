@@ -475,9 +475,9 @@ function App() {
         </div>
       </footer>
 
-      <div className="backgroundblob">
+      {/* <div className="backgroundblob">
         <img src="/blob.png" alt="background" />
-      </div>
+      </div> */}
     </ThemeProvider>
   );
 }
