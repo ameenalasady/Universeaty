@@ -177,6 +177,7 @@ function App() {
                     display: "flex",
                     flexDirection: "row",
                     alignItems: "center",
+                    flexWrap: "nowrap",
                   }}
                 >
                   <FormControlLabel
