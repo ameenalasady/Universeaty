@@ -27,8 +27,6 @@ import {
   Tooltip,
 } from "@mui/material";
 
-document.title = "Universeaty";
-
 const theme = createTheme({
   palette: {
     primary: {
@@ -137,6 +135,9 @@ function App() {
             </a>
           </div>
         </div>
+      {/* <div class="backgroundblob">
+        <img src="/blob.png"/>
+      </div> */}
         <div className="modivcontainer">
           <div className="modiv">
             <div className="moimgcontainer">
@@ -156,7 +157,10 @@ function App() {
           </div>
         </div>
 
-        <h className="getstarted">Get Started</h>
+        <div class="getstartedcontainer">
+          <h className="getstarted">Get Started</h>
+          <img class="startedarrow" src="/arrow-sm-right-svgrepo-com.svg" alt="alternative_text"></img>
+        </div>  
 
         {/* <div className="startby">Start By Searching Your Course:</div> */}
         <div className="formcontainer">
