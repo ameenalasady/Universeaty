@@ -71,8 +71,13 @@ function App() {
       `https://redirect-to-raspberry-pi.vercel.app/open_seats?course_code=${courseCode}&term=${term}`
     );
     if (response.status === 400) {
-      setButtonText("Bad Response");
       setLoading(false);
+      setButtonText("Bad Response");
+      return;
+    }
+    if (response.status === 429) {
+      setLoading(false);
+      setButtonText("Too Many Requests");
       return;
     }
     const json = await response.json();
