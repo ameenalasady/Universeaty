@@ -228,23 +228,23 @@ function App() {
           ></img>
         </div>
 
-        {/* <div className="startby">Start By Searching Your Course:</div> */}
         <div className="formcontainer">
           <form onSubmit={handleSubmit} className="mainForm">
             <FormControl component="fieldset">
               <Box>
                 <RadioGroup
+                  row
                   value={term}
                   onChange={(event) => {
                     setTerm(event.target.value);
                     setSelectedOption(null);
                   }}
-                  sx={{
-                    display: "flex",
-                    flexDirection: "row",
-                    alignItems: "center",
-                    flexWrap: "nowrap",
-                  }}
+                  // sx={{
+                  //   display: "flex",
+                  //   flexDirection: "row",
+                  //   alignItems: "center",
+                  //   flexWrap: "nowrap",
+                  // }}
                 >
                   <FormControlLabel
                     value="3202330"
