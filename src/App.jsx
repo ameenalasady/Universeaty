@@ -256,7 +256,7 @@ function App() {
                 type="submit"
                 variant="contained"
                 color="primary"
-                disabled={loading}
+                disabled={loading || selectedOption === null}
                 startIcon={loading ? <CircularProgress size={20} /> : null}
                 sx={{
                   minWidth: "100px",
