@@ -233,13 +233,15 @@ function App() {
             <FormControl component="fieldset">
               <Box>
                 <RadioGroup
-                  row
                   value={term}
                   onChange={(event) => {
                     setTerm(event.target.value);
                     setSelectedOption(null);
                   }}
                   sx={{
+                    display: "flex",
+                    flexDirection: "row",
+                    alignItems: "center",
                     flexWrap: "nowrap",
                   }}
                 >
