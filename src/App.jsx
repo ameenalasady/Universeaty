@@ -239,12 +239,9 @@ function App() {
                     setTerm(event.target.value);
                     setSelectedOption(null);
                   }}
-                  // sx={{
-                  //   display: "flex",
-                  //   flexDirection: "row",
-                  //   alignItems: "center",
-                  //   flexWrap: "nowrap",
-                  // }}
+                  sx={{
+                    flexWrap: "nowrap",
+                  }}
                 >
                   <FormControlLabel
                     value="3202330"
