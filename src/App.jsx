@@ -75,7 +75,7 @@ function App() {
 
     // Send a request to the Flask API
     const response = await fetch(
-      `http://127.0.0.1:5000/open_seats?course_code=${courseCode}&term=${term}`
+      `https://redirect-to-raspberry-pi.vercel.app/open_seats?course_code=${courseCode}&term=${term}`
     );
     if (response.status === 400) {
       setLoading(false);
@@ -134,7 +134,7 @@ function App() {
         JSON.stringify(selectedSections)
       );
       const response = await fetch(
-        `http://127.0.0.1:5000/notify_open_seats?course_code=${courseCode}&term=${term}&section=${selectedSectionsString}&contact_method=${contactMethod}&contact_info=${inputRef.current.value}`
+        `https://redirect-to-raspberry-pi.vercel.app/notify_open_seats?course_code=${courseCode}&term=${term}&section=${selectedSectionsString}&contact_method=${contactMethod}&contact_info=${inputRef.current.value}`
       );
       if (response.status === 200) {
         setOpen(true);
