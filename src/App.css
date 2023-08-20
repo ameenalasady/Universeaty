@@ -409,3 +409,11 @@ h2 {
   > button:nth-child(1) {
   display: none;
 }
+
+label.MuiFormControlLabel-root:nth-child(1) > span:nth-child(2) {
+  white-space: nowrap;
+}
+
+label.MuiFormControlLabel-root:nth-child(2) > span:nth-child(2) {
+  white-space: nowrap;
+}
