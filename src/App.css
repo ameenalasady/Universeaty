@@ -1,22 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Montserrat:wght@100;400&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap");
 
 html {
   overflow-x: hidden;
   color: #333;
   animation: fadeInAnimation ease 1s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 0;
   }
-  
-  @keyframes fadeInAnimation {
-    0% {
-      opacity: 0;
-    }
-  
-    100% {
-      opacity: 1;
-    }
+
+  100% {
+    opacity: 1;
+  }
 }
 
 * {
@@ -148,7 +148,7 @@ html {
 .getstarted {
   font-size: 2em;
   color: #b8004d;
-  font-weight:bold;
+  font-weight: bold;
 }
 
 .getstartedcontainer {
@@ -158,9 +158,10 @@ html {
   gap: 5px;
 }
 .startedarrow {
-  width:50px;
+  width: 50px;
   margin-top: 4px;
-  filter: invert(9%) sepia(91%) saturate(7372%) hue-rotate(329deg) brightness(81%) contrast(101%);
+  filter: invert(9%) sepia(91%) saturate(7372%) hue-rotate(329deg)
+    brightness(81%) contrast(101%);
 }
 
 .welcometo {
@@ -214,6 +215,7 @@ form {
 .explain {
   font-size: 1.2em;
   text-align: center;
+  margin-bottom: 1em;
 }
 
 .tablecontainer {
@@ -261,6 +263,7 @@ h2 {
   font-size: 1.2em;
   margin-top: 2.5em;
   text-align: center;
+  margin-bottom: 1em;
 }
 
 .css-rqglhn-MuiTable-root {
@@ -328,4 +331,24 @@ h2 {
   display: flex;
   justify-content: center;
   z-index: -10;
+}
+
+.MuiDataGrid-footerContainer {
+  display: none !important;
+}
+
+.MuiDataGrid-columnHeaderCheckbox .MuiDataGrid-columnHeaderTitleContainer {
+  display: none !important;
+}
+
+.MuiAccordion-root {
+  width: 100% !important;
+}
+
+.unselectable {
+  background-color: lightgrey;
+}
+
+.MuiDataGrid-iconButtonContainer {
+  width: 0 !important;
 }

@@ -1,17 +1,14 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import "./App.css";
 import courses3202330 from "./3202330.json";
 import courses3202340 from "./3202340.json";
 import { ReactComponent as Logo } from "./logo.svg";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
+import { DataGrid } from "@mui/x-data-grid";
+import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import {
   TextField,
   Button,
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableRow,
   Radio,
   RadioGroup,
   FormControlLabel,
@@ -25,6 +22,9 @@ import {
   Typography,
   createFilterOptions,
   Tooltip,
+  Accordion,
+  AccordionSummary,
+  AccordionDetails,
 } from "@mui/material";
 
 const theme = createTheme({
@@ -52,23 +52,30 @@ function App() {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(false);
   const [selectedOption, setSelectedOption] = useState(null);
-  const [selectedSection, setSelectedSection] = useState(null);
+  const [selectedSections, setSelectedSections] = useState(null);
   const [contactMethod, setContactMethod] = useState("email");
-  const [contactInfo, setContactInfo] = useState("");
   const [error, setError] = useState(false);
   const [open, setOpen] = useState(false);
   const [reason, setReason] = useState(null);
   const [buttonLoading, setButtonLoading] = useState(false);
   const [buttonText, setButtonText] = useState("Search");
+  const [selectedRows, setSelectedRows] = useState({});
+  const [showContact, setShowContact] = useState(null);
+  const inputRef = useRef(null);
+
+  useEffect(() => {
+    const allSelectedRows = Object.values(selectedRows).flat();
+    setSelectedSections(allSelectedRows);
+  }, [selectedRows]);
 
   const handleSubmit = async (event) => {
     event.preventDefault();
     setLoading(true);
-    setSelectedSection(null);
+    setSelectedSections(null);
 
     // Send a request to the Flask API
     const response = await fetch(
-      `https://redirect-to-raspberry-pi.vercel.app/open_seats?course_code=${courseCode}&term=${term}`
+      `http://127.0.0.1:5000/open_seats?course_code=${courseCode}&term=${term}`
     );
     if (response.status === 400) {
       setLoading(false);
@@ -85,6 +92,8 @@ function App() {
     // Update the data state variable with the result
     setData(json);
     setLoading(false);
+    setSelectedSections(true);
+    setShowContact(true);
     setTimeout(() => {
       scrollToBottom();
     }, 100);
@@ -107,20 +116,25 @@ function App() {
     });
   };
 
-  const handleContactInfoChange = (event) => {
-    setContactInfo(event.target.value);
-    if (contactMethod === "email") {
-      setError(!isValidEmail(event.target.value));
-    } else if (contactMethod === "phone") {
-      setError(!isValidPhone(event.target.value));
+  const handleContactInfoChange = () => {
+    if (inputRef.current) {
+      const value = inputRef.current.value;
+      if (contactMethod === "email") {
+        setError(!isValidEmail(value));
+      } else if (contactMethod === "phone") {
+        setError(!isValidPhone(value));
+      }
     }
   };
 
   const handleButtonClick = async () => {
     setButtonLoading(true);
     if (!error) {
+      const selectedSectionsString = encodeURIComponent(
+        JSON.stringify(selectedSections)
+      );
       const response = await fetch(
-        `https://redirect-to-raspberry-pi.vercel.app/notify_open_seats?course_code=${courseCode}&term=${term}&section=${selectedSection}&contact_method=${contactMethod}&contact_info=${contactInfo}`
+        `http://127.0.0.1:5000/notify_open_seats?course_code=${courseCode}&term=${term}&section=${selectedSectionsString}&contact_method=${contactMethod}&contact_info=${inputRef.current.value}`
       );
       if (response.status === 200) {
         setOpen(true);
@@ -148,6 +162,33 @@ function App() {
     stringify: (option) =>
       option.Text + " " + option.Text.replace("-", " ") + " " + option.Info,
   });
+
+  const columns = React.useMemo(
+    () => [
+      {
+        field: "section",
+        headerName: "Section",
+        flex: 1,
+        align: "center",
+        headerAlign: "center",
+      },
+      {
+        field: "key",
+        headerName: "Key",
+        flex: 1,
+        align: "center",
+        headerAlign: "center",
+      },
+      {
+        field: "open_seats",
+        headerName: "Open Seats",
+        flex: 1,
+        align: "center",
+        headerAlign: "center",
+      },
+    ],
+    []
+  );
 
   return (
     <ThemeProvider theme={theme}>
@@ -274,107 +315,93 @@ function App() {
           {data && (
             <>
               <div className="explain">
-                Pick which section you want to track:
+                Pick which sections you want to track:
               </div>
-              <div className="bottomleft">
-                <Table
-                  style={{
-                    tableLayout: "fixed",
-                    width: "100%",
-                  }}
-                >
-                  <TableHead>
-                    <TableRow>
-                      <TableCell align="center" style={{ fontSize: "1.2em" }}>
-                        Lectures
-                      </TableCell>
-                      <TableCell align="center" style={{ fontSize: "1.2em" }}>
-                        Labs
-                      </TableCell>
-                      <TableCell align="center" style={{ fontSize: "1.2em" }}>
-                        Tutorials
-                      </TableCell>
-                    </TableRow>
-                  </TableHead>
-                  <TableBody>
-                    <TableRow>
-                      <TableCell align="center">
-                        {data.LEC.sort((a, b) =>
-                          a.section.localeCompare(b.section)
-                        ).map((lec) => (
-                          <div key={lec.key}>
-                            <Button
-                              style={{ fontSize: "1.5em" }}
-                              disabled={lec.open_seats !== 0}
-                              onClick={() => {
-                                setSelectedSection(lec.section);
-                                setTimeout(() => {
-                                  scrollToBottom();
-                                }, 100);
-                              }}
-                            >
-                              {lec.section}
-                            </Button>
-                          </div>
-                        ))}
-                      </TableCell>
+              <>
+                {Object.keys(data).map((key) => {
+                  if (data[key].length > 0) {
+                    return (
+                      <Accordion key={key}>
+                        <AccordionSummary expandIcon={<ExpandMoreIcon />}>
+                          <Typography>{key}</Typography>
+                        </AccordionSummary>
 
-                      <TableCell>
-                        {data.LAB.sort((a, b) =>
-                          a.section.localeCompare(b.section)
-                        ).map((lab) => (
-                          <div key={lab.key}>
-                            <Button
-                              style={{ fontSize: "1.5em" }}
-                              disabled={lab.open_seats !== 0}
-                              onClick={() => {
-                                setSelectedSection(lab.section);
-                                setTimeout(() => {
-                                  scrollToBottom();
-                                }, 100);
+                        <AccordionDetails style={{ height: "auto" }}>
+                          <div style={{ height: "auto", width: "100%" }}>
+                            <DataGrid
+                              state={{
+                                keyboard: {
+                                  cell: null,
+                                  columnHeader: null,
+                                  isMultipleKeyPressed: false,
+                                },
                               }}
-                            >
-                              {lab.section}
-                            </Button>
-                          </div>
-                        ))}
-                      </TableCell>
-                      <TableCell>
-                        {data.TUT.sort((a, b) =>
-                          a.section.localeCompare(b.section)
-                        ).map((tut) => (
-                          <div key={tut.key}>
-                            <Button
-                              style={{ fontSize: "1.5em" }}
-                              disabled={tut.open_seats !== 0}
-                              onClick={() => {
-                                setSelectedSection(tut.section);
-                                setTimeout(() => {
-                                  scrollToBottom();
-                                }, 100);
+                              // autoHeight
+                              disableColumnMenu={true}
+                              sx={{
+                                width: "100%",
+                                "& .MuiDataGrid-columnHeaderCheckbox .MuiDataGrid-columnHeaderTitleContainer":
+                                  {
+                                    display: "none",
+                                  },
                               }}
-                            >
-                              {tut.section}
-                            </Button>
+                              rows={data[key]}
+                              columns={columns}
+                              checkboxSelection
+                              getRowId={(row) => row.key}
+                              isRowSelectable={(params) =>
+                                params.row.open_seats === 0
+                              }
+                              headerSelection={false}
+                              getCellClassName={(params) =>
+                                params.row.open_seats !== 0
+                                  ? "unselectable"
+                                  : ""
+                              }
+                              sortModel={[
+                                {
+                                  field: "section",
+                                  sort: "asc",
+                                },
+                              ]}
+                              onRowSelectionModelChange={(newSelection) => {
+                                const selectedRowsForKey = newSelection.map(
+                                  (rowId) => {
+                                    // Find the row data for the selected row ID
+                                    const rowData = data[key].find(
+                                      (row) => row.key === rowId
+                                    );
+                                    // Return an array containing the type, section, and key of the selected row
+                                    return [key, rowData.section, rowData.key];
+                                  }
+                                );
+                                setSelectedRows((prevSelectedRows) => ({
+                                  ...prevSelectedRows,
+                                  [key]: selectedRowsForKey,
+                                }));
+                                // console.log(selectedRows);
+                              }}
+                            />
                           </div>
-                        ))}
-                      </TableCell>
-                    </TableRow>
-                  </TableBody>
-                </Table>
-              </div>
+                        </AccordionDetails>
+                      </Accordion>
+                    );
+                  }
+                  return null;
+                })}
+              </>
             </>
           )}
         </div>
 
         <div className="bottomright">
-          {selectedSection && (
+          {showContact && (
             <>
               <div className="howcontact">
                 How would you like to be contacted?
               </div>
 
-              <h2>Track Section: {selectedSection}</h2>
+              {/* <h2>Track Section: {selectedSections}</h2> */}
               <Select
                 value={contactMethod}
                 onChange={(event) => setContactMethod(event.target.value)}
@@ -400,7 +427,6 @@ function App() {
                 <>
                   <TextField
                     label={contactMethod === "email" ? "Email" : "Phone"}
-                    value={contactInfo}
                     onChange={handleContactInfoChange}
                     placeholder={
                       contactMethod === "email"
@@ -414,6 +440,7 @@ function App() {
                     InputProps={{ sx: { borderRadius: "1.5em" } }}
                     error={error}
                     helperText={error && `Invalid ${contactMethod}`}
+                    inputRef={inputRef}
                   />
 
                   <Button

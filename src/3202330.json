@@ -76,6 +76,18 @@
         "Text": "ANTHROP-4CC3"
     },
     {
+        "Info": "Independent Research I",
+        "Text": "ANTHROP-4G03"
+    },
+    {
+        "Info": "Independent Research II",
+        "Text": "ANTHROP-4GG3"
+    },
+    {
+        "Info": "(2023 Fall only) Critical Global Health",
+        "Text": "ANTHROP-4LL3"
+    },
+    {
         "Info": "(2023 Fall only) Advanced Bioarchaeology and Skeletal Biology",
         "Text": "ANTHROP-4R03"
     },
@@ -124,6 +136,18 @@
         "Text": "ART-3PD3"
     },
     {
+        "Info": "(2023 Fall only) Contemporary Art Practices of Intervention, Performance and Conceptual Art",
+        "Text": "ART-4AP3"
+    },
+    {
+        "Info": "(2023 Fall only) Advanced Studio Production and Critical Discourse",
+        "Text": "ART-4AS6A"
+    },
+    {
+        "Info": "Professional Residency",
+        "Text": "ART-4PR3"
+    },
+    {
         "Info": "(2023 Fall only) Introduction to the Practice of Art Therapy",
         "Text": "ARTHIST-2AA3"
     },
@@ -132,8 +156,20 @@
         "Text": "ARTHIST-2B03"
     },
     {
+        "Info": "Applied Art History: Experiential Learning with Placement as an Intern",
+        "Text": "ARTHIST-3AB3"
+    },
+    {
         "Info": "(2023 Fall only) Early Cinema History",
         "Text": "ARTHIST-3FL3"
+    },
+    {
+        "Info": "(2023 Fall only) Contemporary Art Practices of Intervention, Performance and Conceptual Art",
+        "Text": "ARTHIST-4AP3"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis",
+        "Text": "ARTHIST-4O06A"
     },
     {
         "Info": "(2023 Fall only) Practices of Knowledge",
@@ -180,12 +216,36 @@
         "Text": "ARTSSCI-3CU3"
     },
     {
+        "Info": "Experiential Project in Teaching and Learning",
+        "Text": "ARTSSCI-3F03"
+    },
+    {
         "Info": "(2023 Fall only) The East Asian Religious Tradition",
         "Text": "ARTSSCI-3S03"
     },
     {
         "Info": "(2023 Fall only) Trees and Their Histories",
         "Text": "ARTSSCI-3TR3"
+    },
+    {
+        "Info": "Individual Study",
+        "Text": "ARTSSCI-3X03"
+    },
+    {
+        "Info": "(2023 Fall only) Individual Study",
+        "Text": "ARTSSCI-4A06A"
+    },
+    {
+        "Info": "(2023 Fall only) Individual Study",
+        "Text": "ARTSSCI-4A09A"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis",
+        "Text": "ARTSSCI-4C06A"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis",
+        "Text": "ARTSSCI-4C09A"
     },
     {
         "Info": "(2023 Fall only) How Science Speaks to Power",
@@ -212,6 +272,10 @@
         "Text": "ARTSSCI-4MN2"
     },
     {
+        "Info": "Selected Topics in Inquiry",
+        "Text": "ARTSSCI-4ST3"
+    },
+    {
         "Info": "(2023 Fall only) Introduction to Astronomy and Astrophysics",
         "Text": "ASTRON-1F03"
     },
@@ -222,6 +286,10 @@
     {
         "Info": "The Big Questions",
         "Text": "ASTRON-2B03"
+    },
+    {
+        "Info": "(2023 Fall only) Graduate Topics in Astrophysics",
+        "Text": "ASTRON-5X03A"
     },
     {
         "Info": "(2023 Fall only) Design of Machine Elements",
@@ -276,12 +344,20 @@
         "Text": "AUTOTECH-4DV3"
     },
     {
+        "Info": "(2023 Fall only) Capstone Design II",
+        "Text": "AUTOTECH-4TR3"
+    },
+    {
         "Info": "(2023 Fall only) Nucleic Acid Structure and Function",
         "Text": "BIOCHEM-2B03"
     },
     {
         "Info": "(2023 Fall only) Inquiry in Biochemical Techniques",
         "Text": "BIOCHEM-2L06A"
+    },
+    {
+        "Info": "Biochemical Research Practice",
+        "Text": "BIOCHEM-3A03"
     },
     {
         "Info": "(2023 Fall only) Practical Bioinformatics in the Genomics Era",
@@ -304,8 +380,20 @@
         "Text": "BIOCHEM-3MI3"
     },
     {
+        "Info": "Clinical Research Project",
+        "Text": "BIOCHEM-3R03"
+    },
+    {
+        "Info": "(2023 Fall only) Research Project",
+        "Text": "BIOCHEM-3R06A"
+    },
+    {
         "Info": "(2023 Fall only) Gene Regulation in Stem Cells and Development",
         "Text": "BIOCHEM-4E03"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Thesis",
+        "Text": "BIOCHEM-4F09A"
     },
     {
         "Info": "(2023 Fall only) Biochemical Pharmacology",
@@ -314,6 +402,14 @@
     {
         "Info": "(2023 Fall only) Introduction to Molecular Biophysics",
         "Text": "BIOCHEM-4S03"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Thesis",
+        "Text": "BIOCHEM-4T15A"
+    },
+    {
+        "Info": "Senior Project",
+        "Text": "BIOCHEM-4Z03"
     },
     {
         "Info": "Cellular and Molecular Biology",
@@ -348,6 +444,14 @@
         "Text": "BIOLOGY-3DD3"
     },
     {
+        "Info": "(2023 Fall only) Applied Biology Placement",
+        "Text": "BIOLOGY-3EP3A"
+    },
+    {
+        "Info": "Applied Biology Placement",
+        "Text": "BIOLOGY-3EP3S"
+    },
+    {
         "Info": "(2023 Fall only) Evolution",
         "Text": "BIOLOGY-3FF3"
     },
@@ -356,12 +460,28 @@
         "Text": "BIOLOGY-3HD3"
     },
     {
+        "Info": "(2023 Fall only) Independent Research Project",
+        "Text": "BIOLOGY-3IR3A"
+    },
+    {
+        "Info": "Independent Research Project",
+        "Text": "BIOLOGY-3IR3S"
+    },
+    {
         "Info": "(2023 Fall only) Field Methods In Ecology",
         "Text": "BIOLOGY-3JJ3"
     },
     {
         "Info": "(2023 Fall only) Cell Physiology",
         "Text": "BIOLOGY-3P03"
+    },
+    {
+        "Info": "Field Biology I",
+        "Text": "BIOLOGY-3R03"
+    },
+    {
+        "Info": "Field Work I",
+        "Text": "BIOLOGY-3RF0"
     },
     {
         "Info": "(2023 Fall only) An Introduction to Bioinformatics",
@@ -380,12 +500,40 @@
         "Text": "BIOLOGY-4AE3"
     },
     {
+        "Info": "(2023 Fall only) Senior Thesis",
+        "Text": "BIOLOGY-4C12A"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Project",
+        "Text": "BIOLOGY-4F06A"
+    },
+    {
+        "Info": "Senior Project",
+        "Text": "BIOLOGY-4F06S"
+    },
+    {
+        "Info": "Advanced Independent Research Project",
+        "Text": "BIOLOGY-4IR3"
+    },
+    {
+        "Info": "Field Biology II",
+        "Text": "BIOLOGY-4J03"
+    },
+    {
+        "Info": "Field Work II",
+        "Text": "BIOLOGY-4JF0"
+    },
+    {
         "Info": "(2023 Fall only) Environmental Microbiology and Biotechnology",
         "Text": "BIOLOGY-4PP3"
     },
     {
         "Info": "(2023 Fall only) Environmental Physiology",
         "Text": "BIOLOGY-4X03"
+    },
+    {
+        "Info": "(2023 Fall only) Exploring Careers in Biomedical Sciences",
+        "Text": "BIOMEDDC-2C03"
     },
     {
         "Info": "(2023 Fall only) Ideas to Innovation in Biomedical Sciences",
@@ -404,6 +552,14 @@
         "Text": "BIOMEDDC-3WR3"
     },
     {
+        "Info": "(2023 Fall only) Senior Research Thesis",
+        "Text": "BIOMEDDC-4A15A"
+    },
+    {
+        "Info": "(2023 Fall only) Road to Biomedical Commercialization",
+        "Text": "BIOMEDDC-4B03"
+    },
+    {
         "Info": "(2023 Fall only) Biophysics of Movement and the Senses: From Microbes to Moose",
         "Text": "BIOPHYS-1S03"
     },
@@ -414,6 +570,14 @@
     {
         "Info": "(2023 Fall only) Soft Condensed Matter Physics",
         "Text": "BIOPHYS-3S03"
+    },
+    {
+        "Info": "(2023 Fall only) Literature Review",
+        "Text": "BIOPHYS-4L03A"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Research Project",
+        "Text": "BIOPHYS-4P06A"
     },
     {
         "Info": "(2023 Fall only) Introduction to Molecular Biophysics",
@@ -480,6 +644,10 @@
         "Text": "BIOTECH-4TB3"
     },
     {
+        "Info": "(2023 Fall only) Capstone Project II",
+        "Text": "BIOTECH-4TR3"
+    },
+    {
         "Info": "(2023 Fall only) Engineering and Science for Humanity\u2019s Critical Challenges",
         "Text": "CHALLENG-2CC3"
     },
@@ -520,6 +688,14 @@
         "Text": "CHEM-2SC3"
     },
     {
+        "Info": "(2023 Fall only) Advanced Chemistry Placement",
+        "Text": "CHEM-3EP3A"
+    },
+    {
+        "Info": "Advanced Chemistry Placement",
+        "Text": "CHEM-3EP3S"
+    },
+    {
         "Info": "(2023 Fall only) Experiential Sustainable Chemistry",
         "Text": "CHEM-3EQ3"
     },
@@ -540,6 +716,10 @@
         "Text": "CHEM-3PC3"
     },
     {
+        "Info": "Research Practicum in Chemistry",
+        "Text": "CHEM-3RP3"
+    },
+    {
         "Info": "(2023 Fall only) Sustainable Chemistry: Natural Resources and Energy",
         "Text": "CHEM-3SC3"
     },
@@ -548,12 +728,20 @@
         "Text": "CHEM-4D03"
     },
     {
+        "Info": "(2023 Fall only) Senior Thesis",
+        "Text": "CHEM-4G12A"
+    },
+    {
         "Info": "(2023 Fall only) Polymers and Organic Materials",
         "Text": "CHEM-4OB3"
     },
     {
         "Info": "(2023 Fall only) Peer Tutoring in Chemistry",
         "Text": "CHEM-4Q03"
+    },
+    {
+        "Info": "(2023 Fall only) Research Project in Chemistry",
+        "Text": "CHEM-4RP6A"
     },
     {
         "Info": "(2023 Fall only) Natural and Synthetic Materials",
@@ -572,6 +760,14 @@
         "Text": "CHEMBIO-2Q03"
     },
     {
+        "Info": "(2023 Fall only) Advanced Chemical Biology Placement",
+        "Text": "CHEMBIO-3EP3A"
+    },
+    {
+        "Info": "Advanced Chemical Biology Placement",
+        "Text": "CHEMBIO-3EP3S"
+    },
+    {
         "Info": "(2023 Fall only) Organic Mechanistic Tools for Chemical Biology",
         "Text": "CHEMBIO-3OA3"
     },
@@ -580,8 +776,20 @@
         "Text": "CHEMBIO-3P03"
     },
     {
+        "Info": "Research Practicum in Chemical Biology",
+        "Text": "CHEMBIO-3RP3"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Thesis in Chemical Biology",
+        "Text": "CHEMBIO-4G12A"
+    },
+    {
         "Info": "(2023 Fall only) Peer Tutoring in Chemical Biology",
         "Text": "CHEMBIO-4Q03"
+    },
+    {
+        "Info": "(2023 Fall only) Research Project in Chemical Biology",
+        "Text": "CHEMBIO-4RP6A"
     },
     {
         "Info": "(2023 Fall only) Integrated Chemical & Biomedical Engineering Capstone Design Project",
@@ -642,6 +850,10 @@
     {
         "Info": "(2023 Fall only) Chemical Plant Design and Capstone Project",
         "Text": "CHEMENG-4W06A"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Independent Project",
+        "Text": "CHEMENG-4Y04A"
     },
     {
         "Info": "(2023 Fall only) Mandarin Chinese for Beginners",
@@ -720,6 +932,10 @@
         "Text": "CIVENG-4X06A"
     },
     {
+        "Info": "(2023 Fall only) Independent Study",
+        "Text": "CIVENG-4Z04A"
+    },
+    {
         "Info": "(2023 Fall only) Geotechnical Materials and Analysis",
         "Text": "CIVTECH-3GE3"
     },
@@ -760,6 +976,14 @@
         "Text": "CMST-2TM6"
     },
     {
+        "Info": "(2023 Fall only) Practical Aspects of Media Production",
+        "Text": "CMST-3B03A"
+    },
+    {
+        "Info": "Practical Aspects of Media Production",
+        "Text": "CMST-3B03S"
+    },
+    {
         "Info": "(2023 Fall only) Children, Youth, and Media",
         "Text": "CMST-3CY3"
     },
@@ -774,6 +998,10 @@
     {
         "Info": "(2023 Fall only) Professional Writing",
         "Text": "CMST-3WR3"
+    },
+    {
+        "Info": "Independent Research Project",
+        "Text": "CMST-4A03"
     },
     {
         "Info": "International Communication",
@@ -798,6 +1026,14 @@
     {
         "Info": "(2023 Fall only) Design and Creation of Engaged Learning for Community Youth",
         "Text": "CMTYENGA-2MC3"
+    },
+    {
+        "Info": "(2023 Fall only) Semester at CityLAB: Design and Dialogue Inquiry",
+        "Text": "CMTYENGA-4A06"
+    },
+    {
+        "Info": "(2023 Fall only) Semester at CityLAB: Applied Project Experience",
+        "Text": "CMTYENGA-4A09"
     },
     {
         "Info": "(2023 Fall only) Aging and Society",
@@ -1032,6 +1268,14 @@
         "Text": "COMMERCE-4GR3"
     },
     {
+        "Info": "Internship 1",
+        "Text": "COMMERCE-4IA0"
+    },
+    {
+        "Info": "Internship 2",
+        "Text": "COMMERCE-4IB0"
+    },
+    {
         "Info": "Project Management",
         "Text": "COMMERCE-4KF3"
     },
@@ -1120,6 +1364,14 @@
         "Text": "COMPENG-4DM4"
     },
     {
+        "Info": "Advanced Research Project",
+        "Text": "COMPENG-4OH4"
+    },
+    {
+        "Info": "Research Project",
+        "Text": "COMPENG-4OJ4"
+    },
+    {
         "Info": "(2023 Fall only) Fundamentals of Machine Learning",
         "Text": "COMPENG-4SL4"
     },
@@ -1200,6 +1452,10 @@
         "Text": "COMPSCI-4ZP6A"
     },
     {
+        "Info": "(2023 Fall only) Consent",
+        "Text": "CONSENT-1A00"
+    },
+    {
         "Info": "(2023 Fall only) Scientific Computing",
         "Text": "DATASCI-2G03"
     },
@@ -1228,6 +1484,10 @@
         "Text": "EARTHSC-3E03"
     },
     {
+        "Info": "(2023 Fall only) Field Camp",
+        "Text": "EARTHSC-3FE3"
+    },
+    {
         "Info": "(2023 Fall only) Research Design and Dissemination in Earth and Environmental Sciences",
         "Text": "EARTHSC-3RD3"
     },
@@ -1242,6 +1502,10 @@
     {
         "Info": "(2023 Fall only) Glacial Sediments and Environments",
         "Text": "EARTHSC-4G03"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Thesis",
+        "Text": "EARTHSC-4MT6A"
     },
     {
         "Info": "Introductory Microeconomics",
@@ -1412,8 +1676,16 @@
         "Text": "ELECENG-4FJ4"
     },
     {
+        "Info": "Advanced Research Project",
+        "Text": "ELECENG-4OH4"
+    },
+    {
         "Info": "(2023 Fall only) Engineering Design",
         "Text": "ELECENG-4OI6A"
+    },
+    {
+        "Info": "Research Project",
+        "Text": "ELECENG-4OJ4"
     },
     {
         "Info": "(2023 Fall only) Power Electronics",
@@ -1436,8 +1708,16 @@
         "Text": "ENGINEER-1P13A"
     },
     {
+        "Info": "Engineering Work Term",
+        "Text": "ENGINEER-2EC0"
+    },
+    {
         "Info": "(2023 Fall only) Experiential Learning in Complementary Studies",
         "Text": "ENGINEER-3CX3A"
+    },
+    {
+        "Info": "(2023 Fall only) Full-Time Internship for International Students",
+        "Text": "ENGINEER-3IC0"
     },
     {
         "Info": "Ethics, Equity and Law in Engineering",
@@ -1508,6 +1788,38 @@
         "Text": "ENGLISH-3X03"
     },
     {
+        "Info": "(2023 Fall only) Digital Lives",
+        "Text": "ENGLISH-4DL3"
+    },
+    {
+        "Info": "(2023 Fall only) Windrush Writing/Writing Windrush: Empire, Race and Decolonization",
+        "Text": "ENGLISH-4ED3"
+    },
+    {
+        "Info": "(2023 Fall only) Forms of Creative Writing",
+        "Text": "ENGLISH-4FW3"
+    },
+    {
+        "Info": "(2023 Fall only) Twenty-First Century Indigenous Writing and Film",
+        "Text": "ENGLISH-4IW3"
+    },
+    {
+        "Info": "(2023 Fall only) What is Millennial Literature?",
+        "Text": "ENGLISH-4ML3"
+    },
+    {
+        "Info": "Honours Essay",
+        "Text": "ENGLISH-4X03"
+    },
+    {
+        "Info": "(2023 Fall only) Experiential Practicum I",
+        "Text": "ENGLISH-4Y03"
+    },
+    {
+        "Info": "(2023 Fall only) Research Practicum",
+        "Text": "ENGLISH-4Y06A"
+    },
+    {
         "Info": "(2023 Fall only) Communication Skills",
         "Text": "ENGNMGT-2AA3"
     },
@@ -1552,6 +1864,10 @@
         "Text": "ENGPHYS-3ES3"
     },
     {
+        "Info": "(2023 Fall only) Research Project in Engineering Physics",
+        "Text": "ENGPHYS-3H04A"
+    },
+    {
         "Info": "(2023 Fall only) Numerical Methods for Engineering",
         "Text": "ENGPHYS-3NM4"
     },
@@ -1570,6 +1886,10 @@
     {
         "Info": "(2023 Fall only) Nuclear Reactor Physics",
         "Text": "ENGPHYS-4D04"
+    },
+    {
+        "Info": "(2023 Fall only) Research Project in Engineering Physics",
+        "Text": "ENGPHYS-4H04A"
     },
     {
         "Info": "(2023 Fall only) Plasma Physics Applications",
@@ -1632,8 +1952,16 @@
         "Text": "ENGTECH-1PP3"
     },
     {
+        "Info": "Four Month Co-op Experience I",
+        "Text": "ENGTECH-2EE0"
+    },
+    {
         "Info": "(2023 Spring/Summer, 2023 Fall only) Engineering Statistics",
         "Text": "ENGTECH-2ES3"
+    },
+    {
+        "Info": "Four Month Co-op Experience I",
+        "Text": "ENGTECH-2ET0"
     },
     {
         "Info": "(2023 Spring/Summer, 2023 Fall only) Mathematics III",
@@ -1644,8 +1972,16 @@
         "Text": "ENGTECH-3DM3"
     },
     {
+        "Info": "Four Month Co-op Experience II",
+        "Text": "ENGTECH-3EE0"
+    },
+    {
         "Info": "(2023 Fall only) Engineering Statistics",
         "Text": "ENGTECH-3ES3"
+    },
+    {
+        "Info": "Four Month Co-op Experience II",
+        "Text": "ENGTECH-3ET0"
     },
     {
         "Info": "(2023 Fall only) Finite Element Analysis",
@@ -1682,6 +2018,10 @@
     {
         "Info": "Systems and Control",
         "Text": "ENGTECH-4CT3"
+    },
+    {
+        "Info": "Four Month Co-op Experience III",
+        "Text": "ENGTECH-4EE0"
     },
     {
         "Info": "Senior Engineering Project",
@@ -1740,8 +2080,24 @@
         "Text": "ENVIRSC-3B03"
     },
     {
+        "Info": "Internship in Earth and Environmental Sciences",
+        "Text": "ENVIRSC-3IN3"
+    },
+    {
+        "Info": "(2023 Fall only) Environmental Field Camp",
+        "Text": "ENVIRSC-3ME3"
+    },
+    {
         "Info": "(2023 Fall only) Contaminant Fate and Transport",
         "Text": "ENVIRSC-3O03"
+    },
+    {
+        "Info": "Independent Study in Earth and Environmental Sciences",
+        "Text": "ENVIRSC-4MI3"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Thesis",
+        "Text": "ENVIRSC-4MT6A"
     },
     {
         "Info": "(2023 Fall only) Hydrologic Modelling",
@@ -1796,6 +2152,14 @@
         "Text": "ENVSOCTY-3MB3"
     },
     {
+        "Info": "(2023 Fall only) Urban Field Camp",
+        "Text": "ENVSOCTY-3MF3"
+    },
+    {
+        "Info": "Internship in Environment and Society",
+        "Text": "ENVSOCTY-3MI3"
+    },
+    {
         "Info": "(2023 Fall only) Remote Sensing",
         "Text": "ENVSOCTY-3SR3"
     },
@@ -1824,8 +2188,48 @@
         "Text": "ENVSOCTY-4HH3"
     },
     {
+        "Info": "Independent Study",
+        "Text": "ENVSOCTY-4MS3"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Thesis",
+        "Text": "ENVSOCTY-4MT6A"
+    },
+    {
         "Info": "(2023 Fall only) Integrated Engineering Physics & Biomedical Engineering Capstone Design Project",
         "Text": "EPHYSBME-5P06A"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X01"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X02"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X03"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X06"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X09"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X12"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X15"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X18"
     },
     {
         "Info": "(2023 Fall only) Introductory Farsi I",
@@ -1874,6 +2278,22 @@
     {
         "Info": "(2023 Fall only) Revolutionary Literature Before the Revolution: Voltaire, Rousseau and Beaumarchais",
         "Text": "FRENCH-3KK3"
+    },
+    {
+        "Info": "(2023 Fall only) Animals in French and Francophone Literatures",
+        "Text": "FRENCH-4DD3"
+    },
+    {
+        "Info": "(2023 Fall only) French as a Second Language: From Theory to Practice",
+        "Text": "FRENCH-4P06A"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "FRENCH-4T03"
+    },
+    {
+        "Info": "(2023 Fall only) Topics in 20th-Century French Literature",
+        "Text": "FRENCH-4Y03"
     },
     {
         "Info": "Gender, Race, Culture, Power",
@@ -1968,6 +2388,14 @@
         "Text": "GERMAN-2G03"
     },
     {
+        "Info": "(2023 Fall only) Independent Study",
+        "Text": "GERMAN-4II3A"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "GERMAN-4II3S"
+    },
+    {
         "Info": "Introduction to Greek and Roman Archaeology",
         "Text": "GKROMST-1A03"
     },
@@ -2020,6 +2448,10 @@
         "Text": "GKROMST-4L03"
     },
     {
+        "Info": "Independent Study",
+        "Text": "GKROMST-4T03S"
+    },
+    {
         "Info": "Global Citizenship",
         "Text": "GLOBALZN-1A03"
     },
@@ -2038,6 +2470,10 @@
     {
         "Info": "(2023 Fall only) Topics in Greek Literature",
         "Text": "GREEK-3BB3"
+    },
+    {
+        "Info": "Independent Study in Greek",
+        "Text": "GREEK-4T03"
     },
     {
         "Info": "(2023 Fall only) Introduction to Biblical Hebrew I",
@@ -2104,6 +2540,34 @@
         "Text": "HISTORY-3TR3"
     },
     {
+        "Info": "(2023 Fall only) Indigenous History in a Decolonizing World",
+        "Text": "HISTORY-4DW3"
+    },
+    {
+        "Info": "(2023 Fall only) History of Health and Medicine in the Colonial World",
+        "Text": "HISTORY-4FF3"
+    },
+    {
+        "Info": "(2023 Fall only) China's Great Cultural Revolution",
+        "Text": "HISTORY-4HH3"
+    },
+    {
+        "Info": "(2023 Fall only) U.S. Foreign Relations",
+        "Text": "HISTORY-4JJ3"
+    },
+    {
+        "Info": "(2023 Fall only) Environment and Environmentalism in Modern North America",
+        "Text": "HISTORY-4K03"
+    },
+    {
+        "Info": "Independent Research Project",
+        "Text": "HISTORY-4RP3"
+    },
+    {
+        "Info": "(2023 Fall only) Advanced Independent Research",
+        "Text": "HISTORY-4RP6A"
+    },
+    {
         "Info": "Introduction to Health and Society",
         "Text": "HLTHAGE-1AA3"
     },
@@ -2140,8 +2604,16 @@
         "Text": "HLTHAGE-3D03"
     },
     {
+        "Info": "(2023 Fall only) The Practice of Everyday Life: Observations and Inquiry",
+        "Text": "HLTHAGE-3EE3"
+    },
+    {
         "Info": "(2023 Fall only) Community Based Research",
         "Text": "HLTHAGE-3G03"
+    },
+    {
+        "Info": "Independent Study in Health, Aging and Society",
+        "Text": "HLTHAGE-3I03"
     },
     {
         "Info": "(2023 Fall only) Embodied Aging",
@@ -2182,6 +2654,22 @@
     {
         "Info": "(2023 Fall only) Environment and Health",
         "Text": "HLTHAGE-4M03"
+    },
+    {
+        "Info": "(2023 Fall only) Health and the Unfairly Structured City",
+        "Text": "HLTHAGE-4S03"
+    },
+    {
+        "Info": "(2023 Fall only) Gender, Sex and Health",
+        "Text": "HLTHAGE-4T03"
+    },
+    {
+        "Info": "(2023 Fall only) Professions and Occupations in Health and Aging",
+        "Text": "HLTHAGE-4U03"
+    },
+    {
+        "Info": "(2023 Fall only) Health, Aging and Society Thesis",
+        "Text": "HLTHAGE-4Z06A"
     },
     {
         "Info": "Competencies in Animal Care and Research: Orientation",
@@ -2304,6 +2792,10 @@
         "Text": "HTHSCI-3BE4"
     },
     {
+        "Info": "Nursing Concepts in Continence Care Placement",
+        "Text": "HTHSCI-3BF3"
+    },
+    {
         "Info": "Advanced Nursing Concepts in Continence Care",
         "Text": "HTHSCI-3BG3"
     },
@@ -2314,6 +2806,10 @@
     {
         "Info": "(2023 Fall only) CHS Inquiry Intermediate",
         "Text": "HTHSCI-3CH3"
+    },
+    {
+        "Info": "(2023 Fall only) CHS Research Practicum",
+        "Text": "HTHSCI-3CH6A"
     },
     {
         "Info": "(2023 Fall only) CHS Inquiry Intermediate",
@@ -2354,6 +2850,14 @@
     {
         "Info": "(2023 Fall only) Health Systems and Health Policy",
         "Text": "HTHSCI-3GG3"
+    },
+    {
+        "Info": "(2023 Fall only) Inquiry Project",
+        "Text": "HTHSCI-3H03A"
+    },
+    {
+        "Info": "(2023 Fall only) Inquiry Project",
+        "Text": "HTHSCI-3H06A"
     },
     {
         "Info": "(2023 Fall only) Introductory Immunology",
@@ -2416,8 +2920,28 @@
         "Text": "HTHSCI-3X00A"
     },
     {
+        "Info": "(2023 Fall only) Thesis",
+        "Text": "HTHSCI-4A09A"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis",
+        "Text": "HTHSCI-4A12A"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis",
+        "Text": "HTHSCI-4A15A"
+    },
+    {
         "Info": "(2023 Fall only) Model Systems",
         "Text": "HTHSCI-4AL3"
+    },
+    {
+        "Info": "Nursing Research Project",
+        "Text": "HTHSCI-4AR3"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Projects",
+        "Text": "HTHSCI-4B06A"
     },
     {
         "Info": "(2023 Fall only) Neuroimmunology",
@@ -2428,8 +2952,76 @@
         "Text": "HTHSCI-4BR6A"
     },
     {
+        "Info": "(2023 Fall only) Senior Project in Child Health",
+        "Text": "HTHSCI-4C06A"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis in Child Health",
+        "Text": "HTHSCI-4C09A"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis in Child Health",
+        "Text": "HTHSCI-4C12A"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis in Child Health",
+        "Text": "HTHSCI-4C15A"
+    },
+    {
+        "Info": "(2023 Fall only) CHS Education Practicum",
+        "Text": "HTHSCI-4CH3A"
+    },
+    {
         "Info": "(2023 Fall only) CHS Inquiry Advanced",
         "Text": "HTHSCI-4CH6A"
+    },
+    {
+        "Info": "Special Topics in Health Sciences",
+        "Text": "HTHSCI-4D03"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Project in Engaging the City",
+        "Text": "HTHSCI-4D06A"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis in Engaging the City",
+        "Text": "HTHSCI-4D09A"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis in Engaging the City",
+        "Text": "HTHSCI-4D12A"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis in Engaging the City",
+        "Text": "HTHSCI-4D15A"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Project in Engaging the City",
+        "Text": "HTHSCI-4DE3A"
+    },
+    {
+        "Info": "(2023 Fall only) Education Practicum in Health Sciences - Inquiry",
+        "Text": "HTHSCI-4EE3A"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Project in Global Health",
+        "Text": "HTHSCI-4G06A"
+    },
+    {
+        "Info": "(2023 Spring/Summer only) Senior Project in Global Health",
+        "Text": "HTHSCI-4G06S"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis in Global Health",
+        "Text": "HTHSCI-4G09A"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis in Global Health",
+        "Text": "HTHSCI-4G12A"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis in Global Health",
+        "Text": "HTHSCI-4G15A"
     },
     {
         "Info": "(2023 Fall only) Building Undergraduate Research Capacity",
@@ -2472,12 +3064,28 @@
         "Text": "HTHSCI-4PF3A"
     },
     {
+        "Info": "(2023 Fall only) Communication Skill Practicum",
+        "Text": "HTHSCI-4QQ3A"
+    },
+    {
         "Info": "(2023 Fall only) Social Determinants of Child Health",
         "Text": "HTHSCI-4SC3"
     },
     {
         "Info": "(2023 Fall only) Group Process Practicum",
         "Text": "HTHSCI-4SS6A"
+    },
+    {
+        "Info": "(2023 Fall only) Research Practicum",
+        "Text": "HTHSCI-4TT3A"
+    },
+    {
+        "Info": "Special Topics in Health Sciences II",
+        "Text": "HTHSCI-4W03"
+    },
+    {
+        "Info": "(2023 Fall only) Education Practicum - Community Engagement",
+        "Text": "HTHSCI-4WW3A"
     },
     {
         "Info": "(2023 Fall only) Praxis Pathways 4",
@@ -2498,6 +3106,46 @@
     {
         "Info": "(2023 Fall only) Leadership: Cross-Cultural Mentoring Lab",
         "Text": "HUMAN-3CM3"
+    },
+    {
+        "Info": "Full-time Internship",
+        "Text": "HUMAN-3IF0S"
+    },
+    {
+        "Info": "Full-time Internship",
+        "Text": "HUMAN-3IF1S"
+    },
+    {
+        "Info": "Part-time Internship",
+        "Text": "HUMAN-3IP0S"
+    },
+    {
+        "Info": "Part-time Internship",
+        "Text": "HUMAN-3IP1S"
+    },
+    {
+        "Info": "(2023 Fall only) Applied Humanities I",
+        "Text": "HUMAN-3W03A"
+    },
+    {
+        "Info": "Applied Humanities I",
+        "Text": "HUMAN-3W03"
+    },
+    {
+        "Info": "Major Leadership Project: Theory and Practice",
+        "Text": "HUMAN-4LC3"
+    },
+    {
+        "Info": "(2023 Fall only) Applied Humanities II",
+        "Text": "HUMAN-4W03A"
+    },
+    {
+        "Info": "Applied Humanities II",
+        "Text": "HUMAN-4W03S"
+    },
+    {
+        "Info": "(2023 Fall only) Wilson Leadership Scholar Capstone",
+        "Text": "HUMAN-4WL3A"
     },
     {
         "Info": "(2023 Fall only) Introduction to Autism Spectrum Disorder (ASD)",
@@ -2528,6 +3176,14 @@
         "Text": "HUMBEHV-3G03"
     },
     {
+        "Info": "(2023 Fall only) Inquiry Project",
+        "Text": "HUMBEHV-3IP3A"
+    },
+    {
+        "Info": "Inquiry Project",
+        "Text": "HUMBEHV-3IP3S"
+    },
+    {
         "Info": "(2023 Spring/Summer, 2023 Fall only) Research Methods for Applied Psychology in Human Behaviour",
         "Text": "HUMBEHV-3MD3"
     },
@@ -2548,6 +3204,30 @@
         "Text": "HUMBEHV-4CB3"
     },
     {
+        "Info": "Seminar in Applied Psychology",
+        "Text": "HUMBEHV-4HB3"
+    },
+    {
+        "Info": "(2023 Fall only) Seminar in Applied Psychology",
+        "Text": "HUMBEHV-4HC3"
+    },
+    {
+        "Info": "(2023 Fall only) Advanced Seminar in Applied Lifespan & Developmental Psychology",
+        "Text": "HUMBEHV-4HE3"
+    },
+    {
+        "Info": "(2023 Fall only) Advanced Seminar in Applied Social Psychology",
+        "Text": "HUMBEHV-4HF3"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Inquiry Project",
+        "Text": "HUMBEHV-4IP3A"
+    },
+    {
+        "Info": "Senior Inquiry Project",
+        "Text": "HUMBEHV-4IP3S"
+    },
+    {
         "Info": "(2023 Fall only) Transition Planning and Implementation",
         "Text": "HUMBEHV-4J03"
     },
@@ -2556,8 +3236,16 @@
         "Text": "HUMBEHV-4N03"
     },
     {
+        "Info": "(2023 Fall only) Independent Research Project",
+        "Text": "HUMBEHV-4RP6A"
+    },
+    {
         "Info": "(2023 Fall only) Science Communication in the Behavioural Sciences",
         "Text": "HUMBEHV-4SC6A"
+    },
+    {
+        "Info": "ECS Practicum III",
+        "Text": "HUMBEHV-4V12S"
     },
     {
         "Info": "Theory to Practice III",
@@ -2570,6 +3258,10 @@
     {
         "Info": "(2023 Fall only) 2D Practices in Art",
         "Text": "IARTS-1BD3"
+    },
+    {
+        "Info": "(2023 Fall only) Performance: Body and Voice",
+        "Text": "IARTS-1CR3"
     },
     {
         "Info": "(2023 Fall only) Introduction to Histories of the Arts",
@@ -2586,6 +3278,10 @@
     {
         "Info": "(2023 Fall only) Acting as Devising I",
         "Text": "IARTS-2AD3"
+    },
+    {
+        "Info": "(2023 Fall only) Designing for Devised Performance",
+        "Text": "IARTS-2BB3"
     },
     {
         "Info": "(2023 Fall only) Performance, Art, and Visual Culture in Canada",
@@ -2632,6 +3328,10 @@
         "Text": "IARTS-4AP3"
     },
     {
+        "Info": "(2023 Fall only) Critical Curatorial Studies",
+        "Text": "IARTS-4CS6A"
+    },
+    {
         "Info": "Introduction to the IBEHS Co-op Program",
         "Text": "IBEHS-1EE0"
     },
@@ -2648,6 +3348,10 @@
         "Text": "IBEHS-2E03"
     },
     {
+        "Info": "IBEHS Work Term",
+        "Text": "IBEHS-2EC0"
+    },
+    {
         "Info": "(2023 Fall only) Biomedical Signals and Systems",
         "Text": "IBEHS-3A03"
     },
@@ -2656,16 +3360,44 @@
         "Text": "IBEHS-3E03"
     },
     {
+        "Info": "Research Project",
+        "Text": "IBEHS-3H03"
+    },
+    {
+        "Info": "(2023 Fall only) Research Project",
+        "Text": "IBEHS-3I06A"
+    },
+    {
+        "Info": "(2023 Fall only) Experiential Placement",
+        "Text": "IBEHS-3X03A"
+    },
+    {
+        "Info": "Experiential Placement",
+        "Text": "IBEHS-3X03S"
+    },
+    {
         "Info": "(2023 Fall only) Biomechanics",
         "Text": "IBEHS-4B03"
+    },
+    {
+        "Info": "(2023 Fall only) Health, Engineering Science and Entrepreneurship Thesis",
+        "Text": "IBEHS-4E09A"
     },
     {
         "Info": "(2023 Fall only) Innovators in Scrubs",
         "Text": "IBEHS-4EE6A"
     },
     {
+        "Info": "Unleashing Innovation at The Clinic",
+        "Text": "IBEHS-4EI3"
+    },
+    {
         "Info": "(2023 Fall only) Biomedical Instrumentation and Measurement",
         "Text": "IBEHS-4F04"
+    },
+    {
+        "Info": "Research Project",
+        "Text": "IBEHS-4H03"
     },
     {
         "Info": "(2023 Fall only) Health Solutions Design Projects IV: Economics and Project Management",
@@ -2674,6 +3406,10 @@
     {
         "Info": "(2023 Fall only) Modelling of Biological Systems",
         "Text": "IBEHS-4QZ3"
+    },
+    {
+        "Info": "(2023 Fall only) Health, Engineering Science and Entrepreneurship Thesis",
+        "Text": "IBEHS-5E15A"
     },
     {
         "Info": "(2023 Fall only) Biomedical Capstone Design Project",
@@ -2756,6 +3492,10 @@
         "Text": "INDIGST-1A03"
     },
     {
+        "Info": "(2023 Fall only) Gaodadeihwahni:ya:s Transition",
+        "Text": "INDIGST-1G03"
+    },
+    {
         "Info": "(2023 Fall only) Indigenous Peoples' Spirituality",
         "Text": "INDIGST-2A03"
     },
@@ -2788,8 +3528,24 @@
         "Text": "INDIGST-3H03"
     },
     {
+        "Info": "(2023 Fall only) Indigenous Independent Study",
+        "Text": "INDIGST-3L03"
+    },
+    {
         "Info": "(2023 Fall only) Storytelling and Environmental Conservation",
         "Text": "INDIGST-4A03"
+    },
+    {
+        "Info": "(2023 Fall only) Twenty-First Century Indigenous Writing and Film",
+        "Text": "INDIGST-4IW3"
+    },
+    {
+        "Info": "Indigenous Community Research Experience",
+        "Text": "INDIGST-4L03"
+    },
+    {
+        "Info": "(2023 Fall only) Honours Thesis",
+        "Text": "INDIGST-4T06A"
     },
     {
         "Info": "The World of Entrepreneurship",
@@ -2824,6 +3580,14 @@
         "Text": "INSPIRE-3WW3"
     },
     {
+        "Info": "International Engagement at Home",
+        "Text": "INTENG-2A03S"
+    },
+    {
+        "Info": "International Engagement Capstone",
+        "Text": "INTENG-3A03"
+    },
+    {
         "Info": "(2023 Fall only) Integrated Science I",
         "Text": "ISCI-1A24A"
     },
@@ -2836,8 +3600,20 @@
         "Text": "ISCI-3A12A"
     },
     {
+        "Info": "(2023 Fall only) Integrated Science IV",
+        "Text": "ISCI-4A12A"
+    },
+    {
         "Info": "(2023 Fall only) Beginner's Intensive Italian",
         "Text": "ITALIAN-1Z06A"
+    },
+    {
+        "Info": "(2023 Fall only) Independent Study",
+        "Text": "ITALIAN-4II3A"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "ITALIAN-4II3S"
     },
     {
         "Info": "(2023 Fall only) Beginner's Intensive Japanese",
@@ -2900,6 +3676,10 @@
         "Text": "KINESIOL-3K03"
     },
     {
+        "Info": "Kinesiology Research Practicum",
+        "Text": "KINESIOL-3RP3"
+    },
+    {
         "Info": "(2023 Fall only) Cardiovascular Physiology of Exercise",
         "Text": "KINESIOL-3W03"
     },
@@ -2912,12 +3692,24 @@
         "Text": "KINESIOL-4C03"
     },
     {
+        "Info": "Professional Placement in Kinesiology",
+        "Text": "KINESIOL-4EE3"
+    },
+    {
         "Info": "(2023 Fall only) Clinical Biomechanics",
         "Text": "KINESIOL-4GG3"
     },
     {
         "Info": "(2023 Fall only) Paediatric Exercise Physiology",
         "Text": "KINESIOL-4Q03"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis",
+        "Text": "KINESIOL-4RR6A"
+    },
+    {
+        "Info": "(2023 Fall only) Thesis",
+        "Text": "KINESIOL-4RR9A"
     },
     {
         "Info": "(2023 Fall only) Physical Activity in Chronic Health Impairments",
@@ -2964,6 +3756,10 @@
         "Text": "LATIN-3AA3"
     },
     {
+        "Info": "Independent Study in Latin",
+        "Text": "LATIN-4T03"
+    },
+    {
         "Info": "Research Methods in Life Sciences",
         "Text": "LIFESCI-2A03"
     },
@@ -2990,6 +3786,10 @@
     {
         "Info": "(2023 Fall only) Neurobiology of Disease",
         "Text": "LIFESCI-3BB3"
+    },
+    {
+        "Info": "Life Sciences Applied Placement",
+        "Text": "LIFESCI-3EP3"
     },
     {
         "Info": "(2023 Fall only) Introduction to Epidemiology",
@@ -3024,16 +3824,56 @@
         "Text": "LIFESCI-3P03"
     },
     {
+        "Info": "Life Sciences Research Practicum",
+        "Text": "LIFESCI-3RP3"
+    },
+    {
         "Info": "Peer Mentoring in the Life Sciences",
         "Text": "LIFESCI-3XX3"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "LIFESCI-4A03"
+    },
+    {
+        "Info": "(2023 Fall only) Independent Project",
+        "Text": "LIFESCI-4B09A"
+    },
+    {
+        "Info": "(2023 Fall only) Independent Thesis",
+        "Text": "LIFESCI-4C12A"
+    },
+    {
+        "Info": "(2023 Fall only) Independent Thesis",
+        "Text": "LIFESCI-4D15A"
+    },
+    {
+        "Info": "(2023 Fall only) Science & Storytelling",
+        "Text": "LIFESCI-4E03"
+    },
+    {
+        "Info": "(2023 Fall only) Life Sciences Advanced Placement",
+        "Text": "LIFESCI-4EP6A"
+    },
+    {
+        "Info": "(2023 Fall only) Emerging Paradigms in Environmental Change and Health",
+        "Text": "LIFESCI-4F03"
     },
     {
         "Info": "(2023 Fall only) Regeneration: What Can We Learn From Animal Models?",
         "Text": "LIFESCI-4H03"
     },
     {
+        "Info": "(2023 Fall only) Research Seminar",
+        "Text": "LIFESCI-4I03"
+    },
+    {
         "Info": "(2023 Fall only) Our Invisible Body: Microbes and Human Health",
         "Text": "LIFESCI-4L03"
+    },
+    {
+        "Info": "(2023 Fall only) Extracellular Vesicles in Health and Disease",
+        "Text": "LIFESCI-4V03"
     },
     {
         "Info": "(2023 Fall only) The Biopsychology of Sex",
@@ -3064,6 +3904,14 @@
         "Text": "LINGUIST-2PS3"
     },
     {
+        "Info": "(2023 Fall only) Individual Practicum in Indigenous Language Revitalization",
+        "Text": "LINGUIST-2RP3A"
+    },
+    {
+        "Info": "Individual Practicum in Indigenous Language Revitalization",
+        "Text": "LINGUIST-2RP3S"
+    },
+    {
         "Info": "(2023 Fall only) Language and Society",
         "Text": "LINGUIST-2S03"
     },
@@ -3088,12 +3936,32 @@
         "Text": "LINGUIST-3M03"
     },
     {
+        "Info": "(2023 Fall only) Individual Research Practicum",
+        "Text": "LINGUIST-3RP3A"
+    },
+    {
+        "Info": "Individual Research Practicum",
+        "Text": "LINGUIST-3RP3S"
+    },
+    {
         "Info": "(2023 Fall only) Writing about Science",
         "Text": "LINGUIST-3WC3"
     },
     {
+        "Info": "(2023 Fall only) Bilingual Phonology",
+        "Text": "LINGUIST-4BP3"
+    },
+    {
         "Info": "(2023 Fall only) Laboratory in Experimental Linguistics",
         "Text": "LINGUIST-4EL3"
+    },
+    {
+        "Info": "(2023 Fall only) Independent Study",
+        "Text": "LINGUIST-4II3A"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "LINGUIST-4II3S"
     },
     {
         "Info": "(2023 Fall only) Advanced Phonetics and Phonology",
@@ -3102,6 +3970,10 @@
     {
         "Info": "(2023 Fall only) Topics in Linguistic Theory",
         "Text": "LINGUIST-4XX3"
+    },
+    {
+        "Info": "(2023 Fall only) Honours Thesis",
+        "Text": "LINGUIST-4Y06A"
     },
     {
         "Info": "(2023 Fall only) Micro Manufacturing and Fabrication",
@@ -3192,6 +4064,14 @@
         "Text": "MATH-3C03"
     },
     {
+        "Info": "(2023 Fall only) Mathematics Teaching Placement",
+        "Text": "MATH-3ET3A"
+    },
+    {
+        "Info": "Mathematics Teaching Placement",
+        "Text": "MATH-3ET3S"
+    },
+    {
         "Info": "(2023 Fall only) Ordinary Differential Equations",
         "Text": "MATH-3F03"
     },
@@ -3278,6 +4158,10 @@
     {
         "Info": "(2023 Fall only) Characterization of Nanomaterials",
         "Text": "MATLS-4G03"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Research Project",
+        "Text": "MATLS-4K06A"
     },
     {
         "Info": "(2023 Fall only) Synthesis and Characterization of Biomedical Coatings",
@@ -3396,6 +4280,10 @@
         "Text": "MECHENG-4W03"
     },
     {
+        "Info": "(2023 Fall only) Independent Research Project",
+        "Text": "MECHENG-4X04A"
+    },
+    {
         "Info": "(2023 Fall only) Internal Combustion Engines",
         "Text": "MECHENG-4Y03"
     },
@@ -3468,12 +4356,20 @@
         "Text": "MEDIAART-3Z03"
     },
     {
+        "Info": "(2023 Fall only) Senior Thesis Research and Production",
+        "Text": "MEDIAART-4ST6A"
+    },
+    {
         "Info": "(2023 Fall only) Radioactivity and Radiation Interactions",
         "Text": "MEDPHYS-4B03"
     },
     {
         "Info": "(2023 Fall only) Radiation and Radioisotope Methodology I",
         "Text": "MEDPHYS-4RA3"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Research Project",
+        "Text": "MEDPHYS-4Y06A"
     },
     {
         "Info": "(2023 Fall only) Inquiry in Medical Radiation Sciences",
@@ -3564,8 +4460,28 @@
         "Text": "MEDRADSC-3ZZ0"
     },
     {
+        "Info": "Radiography Clinical Practicum II",
+        "Text": "MEDRADSC-4A15"
+    },
+    {
+        "Info": "Radiography Clinical Practicum III",
+        "Text": "MEDRADSC-4B15"
+    },
+    {
+        "Info": "Ultrasonography Clinical Practicum II",
+        "Text": "MEDRADSC-4C15"
+    },
+    {
         "Info": "Ultrasonography Clinical Practicum III",
         "Text": "MEDRADSC-4D15"
+    },
+    {
+        "Info": "Radiation Therapy Clinical Practicum II",
+        "Text": "MEDRADSC-4E15"
+    },
+    {
+        "Info": "Radiation Therapy Clinical Practicum III",
+        "Text": "MEDRADSC-4F15"
     },
     {
         "Info": "Pre-Clinical Professional Skills Reassessment II",
@@ -3608,12 +4524,28 @@
         "Text": "MIDWIF-2G06"
     },
     {
+        "Info": "Interprofessional Practice I",
+        "Text": "MIDWIF-3A09"
+    },
+    {
         "Info": "Midwifery Issues",
         "Text": "MIDWIF-3F03"
     },
     {
+        "Info": "(2023 Fall only) Advanced Clinical Skills I",
+        "Text": "MIDWIF-3I03"
+    },
+    {
         "Info": "Preparation for Primary Maternity Care",
         "Text": "MIDWIF-3J06"
+    },
+    {
+        "Info": "Interprofessional Practice II",
+        "Text": "MIDWIF-3K06"
+    },
+    {
+        "Info": "(2023 Fall only) Maternal & Newborn Pathology",
+        "Text": "MIDWIF-4A15"
     },
     {
         "Info": "(2023 Fall only) Introduction to Mohawk Language and Culture",
@@ -3632,6 +4564,14 @@
         "Text": "MOLBIOL-3B03"
     },
     {
+        "Info": "(2023 Fall only) Independent Research Project",
+        "Text": "MOLBIOL-3I03A"
+    },
+    {
+        "Info": "Independent Research Project",
+        "Text": "MOLBIOL-3I03S"
+    },
+    {
         "Info": "(2023 Fall only) Microbial Genetics",
         "Text": "MOLBIOL-3O03"
     },
@@ -3642,6 +4582,10 @@
     {
         "Info": "(2023 Fall only) Plant Metabolism and Molecular Biology",
         "Text": "MOLBIOL-4BB3"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Thesis",
+        "Text": "MOLBIOL-4G12A"
     },
     {
         "Info": "(2023 Fall only) Research Advances in Biology of Aging",
@@ -3828,6 +4772,10 @@
         "Text": "MUSIC-3SS3"
     },
     {
+        "Info": "Independent Study",
+        "Text": "MUSIC-3X03"
+    },
+    {
         "Info": "Solo Performance",
         "Text": "MUSIC-4E03"
     },
@@ -3888,6 +4836,10 @@
         "Text": "MUSIC-4SS3"
     },
     {
+        "Info": "Advanced Independent Study",
+        "Text": "MUSIC-4X03"
+    },
+    {
         "Info": "(2023 Fall only) Composing Music",
         "Text": "MUSIC-4Z03"
     },
@@ -3904,6 +4856,10 @@
         "Text": "MUSICCOG-3QQ3S"
     },
     {
+        "Info": "(2023 Fall only) Thesis In Music Cognition",
+        "Text": "MUSICCOG-4D06A"
+    },
+    {
         "Info": "(2023 Fall only) Experimental Laboratory in Music Cognition II",
         "Text": "MUSICCOG-4QQ3A"
     },
@@ -3912,12 +4868,84 @@
         "Text": "MUSICCOG-4QQ3S"
     },
     {
+        "Info": "(2023 Fall only) Research Practicum in Cellular/Molecular Neuroscience",
+        "Text": "NEUROSCI-2BB3A"
+    },
+    {
+        "Info": "Research Practicum in Cellular/Molecular Neuroscience",
+        "Text": "NEUROSCI-2BB3S"
+    },
+    {
+        "Info": "(2023 Fall only) Research Practicum in Systems/Circuits Neuroscience",
+        "Text": "NEUROSCI-2CC3A"
+    },
+    {
+        "Info": "Research Practicum in Systems/Circuits Neuroscience",
+        "Text": "NEUROSCI-2CC3S"
+    },
+    {
+        "Info": "(2023 Fall only) Research Practicum in Behavioural/Cognitive Neuroscience",
+        "Text": "NEUROSCI-2DD3A"
+    },
+    {
+        "Info": "Research Practicum in Behavioural/Cognitive Neuroscience",
+        "Text": "NEUROSCI-2DD3S"
+    },
+    {
         "Info": "(2023 Fall only) Neuroscience Tutorial",
         "Text": "NEUROSCI-2XN0A"
     },
     {
+        "Info": "(2023 Fall only) Individual Lab Study in Cellular/Molecular Neuroscience",
+        "Text": "NEUROSCI-3BB3A"
+    },
+    {
+        "Info": "Individual Lab Study in Cellular/Molecular Neuroscience",
+        "Text": "NEUROSCI-3BB3S"
+    },
+    {
+        "Info": "(2023 Fall only) Individual Lab Study in Cellular/Molecular Neuroscience",
+        "Text": "NEUROSCI-3BB6A"
+    },
+    {
+        "Info": "(2023 Fall only) Individual Lab Study in Systems/Circuits Neuroscience",
+        "Text": "NEUROSCI-3CC3A"
+    },
+    {
+        "Info": "Individual Lab Study in Systems/Circuits Neuroscience",
+        "Text": "NEUROSCI-3CC3S"
+    },
+    {
+        "Info": "(2023 Fall only) Individual Lab Study in Systems/Circuits Neuroscience",
+        "Text": "NEUROSCI-3CC6A"
+    },
+    {
+        "Info": "(2023 Fall only) Individual Lab Study in Behavioural/Cognitive Neuroscience",
+        "Text": "NEUROSCI-3DD3A"
+    },
+    {
+        "Info": "Individual Lab Study in Behavioural/Cognitive Neuroscience",
+        "Text": "NEUROSCI-3DD3S"
+    },
+    {
+        "Info": "(2023 Fall only) Individual Lab Study Behavioural/Cognitive Neuroscience",
+        "Text": "NEUROSCI-3DD6A"
+    },
+    {
         "Info": "(2023 Fall only) Neuroscience Lab",
         "Text": "NEUROSCI-3E03"
+    },
+    {
+        "Info": "(2023 Fall only) Neuroscience Thesis",
+        "Text": "NEUROSCI-4L09A"
+    },
+    {
+        "Info": "(2023 Fall only) Neuroscience Senior Thesis",
+        "Text": "NEUROSCI-4L12A"
+    },
+    {
+        "Info": "(2023 Fall only) Neuroscience Seminar",
+        "Text": "NEUROSCI-4S03A"
     },
     {
         "Info": "(2023 Fall only) Introduction to Nursing and Health I for Basic Stream",
@@ -3968,12 +4996,28 @@
         "Text": "NURSING-3RS3"
     },
     {
+        "Info": "Professional Nursing Practice V for Post Diploma RPN Stream",
+        "Text": "NURSING-3RY4"
+    },
+    {
         "Info": "(2023 Fall only) Nursing Concepts in Health and Illness III for Basic Stream",
         "Text": "NURSING-3SS3"
     },
     {
+        "Info": "(2023 Fall only) Professional Nursing Practice IV",
+        "Text": "NURSING-3X04"
+    },
+    {
         "Info": "Introduction to Concepts in Global Health",
         "Text": "NURSING-4H03"
+    },
+    {
+        "Info": "(2023 Spring/Summer, 2023 Fall only) Professional Nursing Practice VI",
+        "Text": "NURSING-4J07"
+    },
+    {
+        "Info": "Professional Practice and the New Graduate",
+        "Text": "NURSING-4K10"
     },
     {
         "Info": "(2023 Spring/Summer, 2023 Fall only) Advanced Nursing Concepts I",
@@ -4012,6 +5056,10 @@
         "Text": "PEACJUST-3CY3"
     },
     {
+        "Info": "Practicum: Practical Peace Building",
+        "Text": "PEACJUST-3P03"
+    },
+    {
         "Info": "(2023 Fall only) Global Anglophone Literature and Film",
         "Text": "PEACJUST-3V03"
     },
@@ -4020,12 +5068,20 @@
         "Text": "PEACJUST-3X03"
     },
     {
+        "Info": "(2023 Fall only) Independent Research",
+        "Text": "PEACJUST-4B03"
+    },
+    {
         "Info": "(2023 Fall only) Introduction to Pharmacology",
         "Text": "PHARMAC-3A06A"
     },
     {
         "Info": "(2023 Fall only) Methods in Pharmacology",
         "Text": "PHARMAC-3B06A"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Thesis",
+        "Text": "PHARMAC-4T15"
     },
     {
         "Info": "(2023 Fall only) Philosophical Texts",
@@ -4088,6 +5144,10 @@
         "Text": "PHILOS-3VV3"
     },
     {
+        "Info": "Reading Course",
+        "Text": "PHILOS-3W03"
+    },
+    {
         "Info": "(2023 Fall only) Philosophy of Constitutional Law",
         "Text": "PHILOS-4C03"
     },
@@ -4096,12 +5156,28 @@
         "Text": "PHILOS-4D03"
     },
     {
+        "Info": "Topics in Justice, Political Philosophy, and Law",
+        "Text": "PHILOS-4JP3"
+    },
+    {
         "Info": "Human Rights and Global Justice",
         "Text": "PHILOS-4S03"
     },
     {
+        "Info": "Special Topics in Philosophy",
+        "Text": "PHILOS-4T03"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "PHILOS-4W03"
+    },
+    {
         "Info": "(2023 Fall only) Law And Community",
         "Text": "PHILOS-4XP3A"
+    },
+    {
+        "Info": "Topics in Ethics",
+        "Text": "PHILOS-4YY3"
     },
     {
         "Info": "Introductory Physics",
@@ -4128,6 +5204,14 @@
         "Text": "PHYSICS-2C03"
     },
     {
+        "Info": "(2023 Fall only) Physics Teaching Placement",
+        "Text": "PHYSICS-3ET3A"
+    },
+    {
+        "Info": "Physics Teaching Placement",
+        "Text": "PHYSICS-3ET3S"
+    },
+    {
         "Info": "(2023 Fall only) Quantum Mechanics I",
         "Text": "PHYSICS-3MM3"
     },
@@ -4148,8 +5232,28 @@
         "Text": "PHYSICS-4G03"
     },
     {
+        "Info": "Independent Study",
+        "Text": "PHYSICS-4IS3"
+    },
+    {
+        "Info": "(2023 Fall only) Literature Review",
+        "Text": "PHYSICS-4L03A"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Research Project",
+        "Text": "PHYSICS-4P06A"
+    },
+    {
         "Info": "Graduate Topics in Physics",
         "Text": "PHYSICS-5GT3"
+    },
+    {
+        "Info": "(2023 Fall only) Introductory Independent Research",
+        "Text": "PNB-2QQ3A"
+    },
+    {
+        "Info": "Introductory Independent Research",
+        "Text": "PNB-2QQ3S"
     },
     {
         "Info": "(2023 Fall only) Human Perception & Cognition",
@@ -4188,6 +5292,18 @@
         "Text": "PNB-3Q03S"
     },
     {
+        "Info": "(2023 Fall only) Independent Research in Mental Health",
+        "Text": "PNB-3QM3A"
+    },
+    {
+        "Info": "Independent Research in Mental Health",
+        "Text": "PNB-3QM3S"
+    },
+    {
+        "Info": "(2023 Fall only) Independent Research in Mental Health",
+        "Text": "PNB-3QM6A"
+    },
+    {
         "Info": "(2023 Fall only) Intermediate Independent Research",
         "Text": "PNB-3QQ3A"
     },
@@ -4202,6 +5318,14 @@
     {
         "Info": "(2023 Spring/Summer, 2023 Fall only) Inferential Statistics and Research Methods",
         "Text": "PNB-3XE3"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Thesis",
+        "Text": "PNB-4D06A"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Honours Thesis",
+        "Text": "PNB-4D09A"
     },
     {
         "Info": "Inquiry in Psychology, Neuroscience & Behaviour",
@@ -4222,6 +5346,10 @@
     {
         "Info": "Senior Independent Research",
         "Text": "PNB-4QQ3S"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Independent Research",
+        "Text": "PNB-4QQ6A"
     },
     {
         "Info": "(2023 Fall only) Science Communication in the Behavioural Sciences",
@@ -4296,12 +5424,20 @@
         "Text": "POLSCI-3PG3"
     },
     {
+        "Info": "Reading Course",
+        "Text": "POLSCI-3UU3"
+    },
+    {
         "Info": "(2023 Fall only) Gender and Politics",
         "Text": "POLSCI-3V03"
     },
     {
         "Info": "(2023 Fall only) Democratic Theory",
         "Text": "POLSCI-3VV3"
+    },
+    {
+        "Info": "Working in Politics",
+        "Text": "POLSCI-3WP3"
     },
     {
         "Info": "(2023 Fall only) Canadian Public Sector Management",
@@ -4314,6 +5450,50 @@
     {
         "Info": "(2023 Fall only) Pathways: Approaching Life with a Political Science Degree",
         "Text": "POLSCI-4AL3"
+    },
+    {
+        "Info": "(2023 Fall only) Politics of Public Policy",
+        "Text": "POLSCI-4G06A"
+    },
+    {
+        "Info": "(2023 Fall only) Advanced Issues in Global Citizenship",
+        "Text": "POLSCI-4GC3"
+    },
+    {
+        "Info": "(2023 Fall only) Judicial Studies",
+        "Text": "POLSCI-4JS3"
+    },
+    {
+        "Info": "(2023 Fall only) Non-Western International Relations",
+        "Text": "POLSCI-4KB3"
+    },
+    {
+        "Info": "(2023 Fall only) Politics in Latin America",
+        "Text": "POLSCI-4LA3"
+    },
+    {
+        "Info": "(2023 Fall only) Global Political Ecology",
+        "Text": "POLSCI-4PE3"
+    },
+    {
+        "Info": "(2023 Fall only) Health Policy in the Industrialized World",
+        "Text": "POLSCI-4RR3"
+    },
+    {
+        "Info": "(2023 Fall only) Radical Political Theory",
+        "Text": "POLSCI-4RT3"
+    },
+    {
+        "Info": "(2023 Fall only) Honours Essay",
+        "Text": "POLSCI-4Z06A"
+    },
+    {
+        "Info": "Experiential Learning in Research",
+        "Text": "POLSCI-4ZZ3"
+    },
+    {
+        "Info": "(2023 Fall only) Experiential Learning in Research",
+        "Text": "POLSCI-4ZZ6A"
     },
     {
         "Info": "(2023 Fall only) CAD for Design",
@@ -4362,6 +5542,10 @@
     {
         "Info": "(2023 Fall only) System Specification and Design",
         "Text": "PROCTECH-4SS3"
+    },
+    {
+        "Info": "(2023 Fall only) Capstone Design Project II",
+        "Text": "PROCTECH-4TR3"
     },
     {
         "Info": "(2023 Spring/Summer, 2023 Fall only) Survey of Biological Basis of Psychology",
@@ -4544,12 +5728,32 @@
         "Text": "SCAR-3Y03"
     },
     {
+        "Info": "(2023 Fall only) Academic Engagement in Society, Culture & Religion",
+        "Text": "SCAR-4AE3"
+    },
+    {
+        "Info": "Advanced Readings in Society, Culture and Religion",
+        "Text": "SCAR-4Q03"
+    },
+    {
+        "Info": "(2023 Fall only) Honours Thesis",
+        "Text": "SCAR-4R06A"
+    },
+    {
+        "Info": "(2023 Fall only) Society, Culture & Religion Seminar",
+        "Text": "SCAR-4SC3"
+    },
+    {
         "Info": "Foundations in Science Communication",
         "Text": "SCICOMM-2A03"
     },
     {
         "Info": "Science Communication in Life Sciences",
         "Text": "SCICOMM-3P03"
+    },
+    {
+        "Info": "Independent Project in Science Communication",
+        "Text": "SCICOMM-4A03"
     },
     {
         "Info": "(2023 Fall only) Investigating Science: Opportunities & Experiences",
@@ -4562,6 +5766,74 @@
     {
         "Info": "Skills for Career Success in Biochemistry",
         "Text": "SCIENCE-2D00"
+    },
+    {
+        "Info": "(2023 Fall only) Advanced Job Search Skills For Science Co-op Students",
+        "Text": "SCIENCE-3C00"
+    },
+    {
+        "Info": "(2023 Fall only) Advanced Job Search Skills For Co-op Students",
+        "Text": "SCIENCE-3D00"
+    },
+    {
+        "Info": "(2023 Fall only) Applied Science Placement",
+        "Text": "SCIENCE-3EP3A"
+    },
+    {
+        "Info": "Applied Science Placement",
+        "Text": "SCIENCE-3EP3S"
+    },
+    {
+        "Info": "(2023 Fall only) Applied Science Placement",
+        "Text": "SCIENCE-3EX6A"
+    },
+    {
+        "Info": "Undergraduate Science Internship",
+        "Text": "SCIENCE-3IE0"
+    },
+    {
+        "Info": "Undergraduate Science Internship",
+        "Text": "SCIENCE-3IF0"
+    },
+    {
+        "Info": "Undergraduate Science Internship",
+        "Text": "SCIENCE-3IG0"
+    },
+    {
+        "Info": "Undergraduate Science Internship",
+        "Text": "SCIENCE-3IH0"
+    },
+    {
+        "Info": "(2023 Fall only) Research Practicum",
+        "Text": "SCIENCE-3RP3A"
+    },
+    {
+        "Info": "Research Practicum",
+        "Text": "SCIENCE-3RP3S"
+    },
+    {
+        "Info": "Science Co-op Work Term",
+        "Text": "SCIENCE-3WT0"
+    },
+    {
+        "Info": "Science Co-op Work Term",
+        "Text": "SCIENCE-3WW0"
+    },
+    {
+        "Info": "Science Co-op Work Term",
+        "Text": "SCIENCE-4WT0"
+    },
+    {
+        "Info": "Science Co-op Work Term",
+        "Text": "SCIENCE-4WW0"
+    },
+    {
+        "Info": "Science Co-op Work Term",
+        "Text": "SCIENCE-5WT0"
+    },
+    {
+        "Info": "(2023 Spring/Summer, 2023 Fall only) Science Co-op Work Term",
+        "Text": "SCIENCE-5WW0"
     },
     {
         "Info": "Engineering Economics",
@@ -4728,6 +6000,10 @@
         "Text": "SFWRTECH-4NN3"
     },
     {
+        "Info": "Software Architecture",
+        "Text": "SFWRTECH-4SA3"
+    },
+    {
         "Info": "(2023 Fall only) Videogame Development Technology",
         "Text": "SFWRTECH-4VD3"
     },
@@ -4820,12 +6096,44 @@
         "Text": "SOCIOL-3U03"
     },
     {
+        "Info": "(2023 Fall only) Ethnic/Racial Tensions",
+        "Text": "SOCIOL-4A03"
+    },
+    {
+        "Info": "(2023 Fall only) Advanced Topics in the Sociology of Health and Illness",
+        "Text": "SOCIOL-4G03"
+    },
+    {
+        "Info": "(2023 Fall only) Selected Topics in the Sociology of Immigration",
+        "Text": "SOCIOL-4LL3"
+    },
+    {
+        "Info": "(2023 Spring/Summer, 2023 Fall only) Directed Research I for Honours Students",
+        "Text": "SOCIOL-4M03"
+    },
+    {
         "Info": "(2023 Fall only) Public Social Psychology",
         "Text": "SOCIOL-4MM3"
     },
     {
+        "Info": "(2023 Fall only) Directed Research for Honours Students",
+        "Text": "SOCIOL-4MM6A"
+    },
+    {
+        "Info": "(2023 Fall only) Women, Sexuality and the Welfare State",
+        "Text": "SOCIOL-4QQ3"
+    },
+    {
         "Info": "(2023 Fall only) Individual and Society",
         "Text": "SOCIOL-4R03"
+    },
+    {
+        "Info": "(2023 Fall only) Special Topics in the Sociology of Women",
+        "Text": "SOCIOL-4U03"
+    },
+    {
+        "Info": "(2023 Fall only) Issues in the Sociology of Occupations and the Professions",
+        "Text": "SOCIOL-4V03"
     },
     {
         "Info": "An Introduction to Social Psychology",
@@ -4852,6 +6160,14 @@
         "Text": "SOCPSY-3C03"
     },
     {
+        "Info": "Research Experience",
+        "Text": "SOCPSY-3K03"
+    },
+    {
+        "Info": "Advanced Research Experience",
+        "Text": "SOCPSY-4A03"
+    },
+    {
         "Info": "Special Topics in Social Psychology",
         "Text": "SOCPSY-4B03"
     },
@@ -4860,8 +6176,20 @@
         "Text": "SOCPSY-4G03"
     },
     {
+        "Info": "Independent Research",
+        "Text": "SOCPSY-4IS3"
+    },
+    {
+        "Info": "(2023 Fall only) Independent Research",
+        "Text": "SOCPSY-4IS6A"
+    },
+    {
         "Info": "(2023 Fall only) Public Social Psychology",
         "Text": "SOCPSY-4MM3"
+    },
+    {
+        "Info": "(2023 Fall only) Social Psychology Research Project",
+        "Text": "SOCPSY-4ZZ6A"
     },
     {
         "Info": "Inquiry in the Social Sciences",
@@ -4924,6 +6252,26 @@
         "Text": "SOCSCI-2SS3"
     },
     {
+        "Info": "(2023 Fall only) Leadership for Social Innovation",
+        "Text": "SOCSCI-3EL3"
+    },
+    {
+        "Info": "(2023 Fall only) Full-Time Internship",
+        "Text": "SOCSCI-3IF0A"
+    },
+    {
+        "Info": "Full-Time Internship",
+        "Text": "SOCSCI-3IF0S"
+    },
+    {
+        "Info": "(2023 Fall only) Part-Time Internship",
+        "Text": "SOCSCI-3IP0A"
+    },
+    {
+        "Info": "Part-Time Internship",
+        "Text": "SOCSCI-3IP0S"
+    },
+    {
         "Info": "(2023 Fall only) So You Think You Can Help? Introduction to Social Work I",
         "Text": "SOCWORK-1AA3"
     },
@@ -4940,6 +6288,10 @@
         "Text": "SOCWORK-3D06A"
     },
     {
+        "Info": "(2023 Fall only) Field Practicum I",
+        "Text": "SOCWORK-3DD6A"
+    },
+    {
         "Info": "(2023 Fall only) Individual Practice Across the Lifespan",
         "Text": "SOCWORK-3E03"
     },
@@ -4954,6 +6306,14 @@
     {
         "Info": "(2023 Fall only) General Social Work II",
         "Text": "SOCWORK-4D06S"
+    },
+    {
+        "Info": "(2023 Fall only) Field Practicum II",
+        "Text": "SOCWORK-4DD6A"
+    },
+    {
+        "Info": "(2023 Fall only) Field Practicum II",
+        "Text": "SOCWORK-4DD6S"
     },
     {
         "Info": "(2023 Fall only) Selected Topics",
@@ -4992,6 +6352,10 @@
         "Text": "STATS-2D03"
     },
     {
+        "Info": "(2023 Fall only) An Introduction to Data Science Methods",
+        "Text": "STATS-2DA3"
+    },
+    {
         "Info": "(2023 Fall only) Applied Regression Analysis with SAS",
         "Text": "STATS-3A03"
     },
@@ -5026,6 +6390,10 @@
     {
         "Info": "(2023 Fall only) Multivariate Analysis",
         "Text": "STATS-4M03"
+    },
+    {
+        "Info": "(2023 Fall only) Senior Research Project",
+        "Text": "STATS-4T06A"
     },
     {
         "Info": "Reading in Statistics",
@@ -5146,6 +6514,10 @@
     {
         "Info": "(2023 Fall only) Community Engaged Research",
         "Text": "WORKLABR-3Q03"
+    },
+    {
+        "Info": "(2023 Fall only) Work and Labour Studies Practicum",
+        "Text": "WORKLABR-4A06A"
     },
     {
         "Info": "(2023 Fall only) Working Precariously: Labour Strategies, Labour Renewal",

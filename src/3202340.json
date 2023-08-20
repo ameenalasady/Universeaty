@@ -68,6 +68,10 @@
         "Text": "ANTHROP-3CA3"
     },
     {
+        "Info": "Anthropology of Ethics",
+        "Text": "ANTHROP-3ET3"
+    },
+    {
         "Info": "Forensic Anthropology",
         "Text": "ANTHROP-3FA3"
     },
@@ -80,6 +84,10 @@
         "Text": "ANTHROP-3TR3"
     },
     {
+        "Info": "Archaeology and Heritage: Ethics, Politics, and Practice",
+        "Text": "ANTHROP-4AH3"
+    },
+    {
         "Info": "Current Problems in Sociocultural Anthropology II",
         "Text": "ANTHROP-4BB3"
     },
@@ -90,6 +98,14 @@
     {
         "Info": "Diet & Nutrition: Biocultural and Bioarchaeological Perspectives",
         "Text": "ANTHROP-4DN3"
+    },
+    {
+        "Info": "Independent Research I",
+        "Text": "ANTHROP-4G03"
+    },
+    {
+        "Info": "Independent Research II",
+        "Text": "ANTHROP-4GG3"
     },
     {
         "Info": "Advanced Topics in Biological Anthropology I",
@@ -128,12 +144,20 @@
         "Text": "ART-4AR3"
     },
     {
+        "Info": "Advanced Studio Production and Critical Discourse",
+        "Text": "ART-4AS6B"
+    },
+    {
         "Info": "Concentrated Study - Intaglio",
         "Text": "ART-4CI3"
     },
     {
         "Info": "Exhibition Preparation and Documentation",
         "Text": "ART-4EP3"
+    },
+    {
+        "Info": "Professional Residency",
+        "Text": "ART-4PR3"
     },
     {
         "Info": "Roman Art",
@@ -150,6 +174,10 @@
     {
         "Info": "Performance, Art and Visual Culture in East and South Asia",
         "Text": "ARTHIST-2Z03"
+    },
+    {
+        "Info": "Applied Art History: Experiential Learning with Placement as an Intern",
+        "Text": "ARTHIST-3AB3"
     },
     {
         "Info": "Indigenous Art and Visual Culture in Canada, 1960 to the Present",
@@ -170,6 +198,10 @@
     {
         "Info": "The Cultural History of Paris, 1789-1914",
         "Text": "ARTHIST-4LP3"
+    },
+    {
+        "Info": "Thesis",
+        "Text": "ARTHIST-4O06B"
     },
     {
         "Info": "Contemporary Indigenous Studies",
@@ -208,12 +240,36 @@
         "Text": "ARTSSCI-3C03"
     },
     {
+        "Info": "Experiential Project in Teaching and Learning",
+        "Text": "ARTSSCI-3F03"
+    },
+    {
         "Info": "Global Justice Inquiry",
         "Text": "ARTSSCI-3GJ3"
     },
     {
         "Info": "Religion and Law",
         "Text": "ARTSSCI-3RL3"
+    },
+    {
+        "Info": "Individual Study",
+        "Text": "ARTSSCI-3X03"
+    },
+    {
+        "Info": "Individual Study",
+        "Text": "ARTSSCI-4A06B"
+    },
+    {
+        "Info": "Individual Study",
+        "Text": "ARTSSCI-4A09B"
+    },
+    {
+        "Info": "Thesis",
+        "Text": "ARTSSCI-4C06B"
+    },
+    {
+        "Info": "Thesis",
+        "Text": "ARTSSCI-4C09B"
     },
     {
         "Info": "Medical Humanities Inquiry",
@@ -226,6 +282,10 @@
     {
         "Info": "Local Explorations",
         "Text": "ARTSSCI-4MN1"
+    },
+    {
+        "Info": "Selected Topics in Inquiry",
+        "Text": "ARTSSCI-4ST3"
     },
     {
         "Info": "Visual Culture Inquiry",
@@ -242,6 +302,10 @@
     {
         "Info": "Galaxies and Cosmology",
         "Text": "ASTRON-3X03"
+    },
+    {
+        "Info": "Graduate Topics in Astrophysics",
+        "Text": "ASTRON-5X03B"
     },
     {
         "Info": "Advanced CAD",
@@ -264,6 +328,10 @@
         "Text": "AUTOTECH-4MS3"
     },
     {
+        "Info": "Capstone Design I",
+        "Text": "AUTOTECH-4TR1"
+    },
+    {
         "Info": "Protein Structure and Enzyme Function",
         "Text": "BIOCHEM-2BB3"
     },
@@ -274,6 +342,10 @@
     {
         "Info": "Inquiry in Biochemical Techniques",
         "Text": "BIOCHEM-2L06B"
+    },
+    {
+        "Info": "Biochemical Research Practice",
+        "Text": "BIOCHEM-3A03"
     },
     {
         "Info": "Antibiotics are the Cornerstone of Medicine",
@@ -292,12 +364,24 @@
         "Text": "BIOCHEM-3LT3"
     },
     {
+        "Info": "Clinical Research Project",
+        "Text": "BIOCHEM-3R03"
+    },
+    {
+        "Info": "Research Project",
+        "Text": "BIOCHEM-3R06B"
+    },
+    {
         "Info": "Structural Determination and Analysis of Macromolecules",
         "Text": "BIOCHEM-3Z03"
     },
     {
         "Info": "Inquiry in Biochemistry",
         "Text": "BIOCHEM-4C03"
+    },
+    {
+        "Info": "Senior Thesis",
+        "Text": "BIOCHEM-4F09B"
     },
     {
         "Info": "Biotechnology and Drug Discovery",
@@ -314,6 +398,14 @@
     {
         "Info": "Molecular Membrane Biology",
         "Text": "BIOCHEM-4N03"
+    },
+    {
+        "Info": "Senior Thesis",
+        "Text": "BIOCHEM-4T15B"
+    },
+    {
+        "Info": "Senior Project",
+        "Text": "BIOCHEM-4Z03"
     },
     {
         "Info": "Cellular and Molecular Biology",
@@ -348,12 +440,36 @@
         "Text": "BIOLOGY-3B03"
     },
     {
+        "Info": "Applied Biology Placement",
+        "Text": "BIOLOGY-3EP3B"
+    },
+    {
+        "Info": "Applied Biology Placement",
+        "Text": "BIOLOGY-3EP3S"
+    },
+    {
         "Info": "Ecotoxicology",
         "Text": "BIOLOGY-3ET3"
     },
     {
+        "Info": "Independent Research Project",
+        "Text": "BIOLOGY-3IR3B"
+    },
+    {
+        "Info": "Independent Research Project",
+        "Text": "BIOLOGY-3IR3S"
+    },
+    {
         "Info": "Population Genetics",
         "Text": "BIOLOGY-3PG3"
+    },
+    {
+        "Info": "Field Biology I",
+        "Text": "BIOLOGY-3R03"
+    },
+    {
+        "Info": "Field Work I",
+        "Text": "BIOLOGY-3RF0"
     },
     {
         "Info": "Applied Statistics for Biology",
@@ -380,6 +496,30 @@
         "Text": "BIOLOGY-4AA3"
     },
     {
+        "Info": "Senior Thesis",
+        "Text": "BIOLOGY-4C12B"
+    },
+    {
+        "Info": "Senior Project",
+        "Text": "BIOLOGY-4F06B"
+    },
+    {
+        "Info": "Senior Project",
+        "Text": "BIOLOGY-4F06S"
+    },
+    {
+        "Info": "Advanced Independent Research Project",
+        "Text": "BIOLOGY-4IR3"
+    },
+    {
+        "Info": "Field Biology II",
+        "Text": "BIOLOGY-4J03"
+    },
+    {
+        "Info": "Field Work II",
+        "Text": "BIOLOGY-4JF0"
+    },
+    {
         "Info": "Molecular and Cellular Neuroscience",
         "Text": "BIOLOGY-4T03"
     },
@@ -392,6 +532,10 @@
         "Text": "BIOMEDDC-3WR3"
     },
     {
+        "Info": "Senior Research Thesis",
+        "Text": "BIOMEDDC-4A15B"
+    },
+    {
         "Info": "Explorations in Medical and Biological Physics",
         "Text": "BIOPHYS-2S03"
     },
@@ -402,6 +546,14 @@
     {
         "Info": "Modelling Life",
         "Text": "BIOPHYS-3G03"
+    },
+    {
+        "Info": "Literature Review",
+        "Text": "BIOPHYS-4L03B"
+    },
+    {
+        "Info": "Senior Research Project",
+        "Text": "BIOPHYS-4P06B"
     },
     {
         "Info": "Biosafety Training",
@@ -436,6 +588,10 @@
         "Text": "BIOTECH-4GP3"
     },
     {
+        "Info": "Capstone Project I",
+        "Text": "BIOTECH-4TR1"
+    },
+    {
         "Info": "Introductory Chemistry II",
         "Text": "CHEM-1AA3"
     },
@@ -468,6 +624,14 @@
         "Text": "CHEM-3AA3"
     },
     {
+        "Info": "Advanced Chemistry Placement",
+        "Text": "CHEM-3EP3B"
+    },
+    {
+        "Info": "Advanced Chemistry Placement",
+        "Text": "CHEM-3EP3S"
+    },
+    {
         "Info": "Industrial Chemistry",
         "Text": "CHEM-3I03"
     },
@@ -478,6 +642,14 @@
     {
         "Info": "Radioisotopes in Medicine",
         "Text": "CHEM-3RC3"
+    },
+    {
+        "Info": "Research Practicum in Chemistry",
+        "Text": "CHEM-3RP3"
+    },
+    {
+        "Info": "Senior Thesis",
+        "Text": "CHEM-4G12B"
     },
     {
         "Info": "Physical Methods of Inorganic Structure Determination",
@@ -494,6 +666,10 @@
     {
         "Info": "Computational Models for Electronic Structure and Chemical Bonding",
         "Text": "CHEM-4PB3"
+    },
+    {
+        "Info": "Research Project in Chemistry",
+        "Text": "CHEM-4RP6B"
     },
     {
         "Info": "Sustainable Chemistry \u2013 Analysis and Regulation",
@@ -516,6 +692,14 @@
         "Text": "CHEMBIO-3AA3"
     },
     {
+        "Info": "Advanced Chemical Biology Placement",
+        "Text": "CHEMBIO-3EP3B"
+    },
+    {
+        "Info": "Advanced Chemical Biology Placement",
+        "Text": "CHEMBIO-3EP3S"
+    },
+    {
         "Info": "Chemical Biology Laboratory II",
         "Text": "CHEMBIO-3L03"
     },
@@ -524,8 +708,16 @@
         "Text": "CHEMBIO-3OB3"
     },
     {
+        "Info": "Research Practicum in Chemical Biology",
+        "Text": "CHEMBIO-3RP3"
+    },
+    {
         "Info": "Bio-Analytical Chemistry and Assay Development",
         "Text": "CHEMBIO-4A03"
+    },
+    {
+        "Info": "Senior Thesis in Chemical Biology",
+        "Text": "CHEMBIO-4G12B"
     },
     {
         "Info": "Bio-Inorganic Chemistry",
@@ -538,6 +730,10 @@
     {
         "Info": "Medicinal Chemistry: Drug Design and Development",
         "Text": "CHEMBIO-4OB3"
+    },
+    {
+        "Info": "Research Project in Chemical Biology",
+        "Text": "CHEMBIO-4RP6B"
     },
     {
         "Info": "Integrated Chemical & Biomedical Engineering Capstone Design Project",
@@ -598,6 +794,10 @@
     {
         "Info": "Polymer Processing",
         "Text": "CHEMENG-4X03"
+    },
+    {
+        "Info": "Senior Independent Project",
+        "Text": "CHEMENG-4Y04B"
     },
     {
         "Info": "Interfacial Engineering",
@@ -676,6 +876,10 @@
         "Text": "CIVENG-4Y04"
     },
     {
+        "Info": "Independent Study",
+        "Text": "CIVENG-4Z04B"
+    },
+    {
         "Info": "Geotechnical Design",
         "Text": "CIVTECH-3GT3"
     },
@@ -716,6 +920,14 @@
         "Text": "CMST-2RA3"
     },
     {
+        "Info": "Practical Aspects of Media Production",
+        "Text": "CMST-3B03B"
+    },
+    {
+        "Info": "Practical Aspects of Media Production",
+        "Text": "CMST-3B03S"
+    },
+    {
         "Info": "Digital Storytelling",
         "Text": "CMST-3DG3"
     },
@@ -740,6 +952,10 @@
         "Text": "CMST-3SM3"
     },
     {
+        "Info": "Independent Research Project",
+        "Text": "CMST-4A03"
+    },
+    {
         "Info": "International Communication",
         "Text": "CMST-4D03"
     },
@@ -762,6 +978,14 @@
     {
         "Info": "Community-Based Learning with McMaster Children and Youth University",
         "Text": "CMTYENGA-2MD3"
+    },
+    {
+        "Info": "The Art of Change",
+        "Text": "CMTYENGA-3A03"
+    },
+    {
+        "Info": "Collaborative Learning with Young People: An Applied Approach",
+        "Text": "CMTYENGA-4MM3"
     },
     {
         "Info": "Epidemiology in Public Health",
@@ -936,6 +1160,10 @@
         "Text": "COMMERCE-4BX3"
     },
     {
+        "Info": "Experiential Learning in Business",
+        "Text": "COMMERCE-4EL3"
+    },
+    {
         "Info": "Applied Corporate Finance",
         "Text": "COMMERCE-4FA3"
     },
@@ -982,6 +1210,22 @@
     {
         "Info": "DeGroote Student Experience and Development IV",
         "Text": "COMMERCE-4GR3"
+    },
+    {
+        "Info": "Internship 1",
+        "Text": "COMMERCE-4IA0"
+    },
+    {
+        "Info": "Internship 2",
+        "Text": "COMMERCE-4IB0"
+    },
+    {
+        "Info": "Internship 3",
+        "Text": "COMMERCE-4IC0"
+    },
+    {
+        "Info": "Internship Final Term",
+        "Text": "COMMERCE-4ID0"
     },
     {
         "Info": "Project Management",
@@ -1060,6 +1304,10 @@
         "Text": "COMMERCE-4SM3"
     },
     {
+        "Info": "Independent Study in Business",
+        "Text": "COMMERCE-4SY3"
+    },
+    {
         "Info": "Microprocessor Systems Project",
         "Text": "COMPENG-2DX3"
     },
@@ -1086,6 +1334,14 @@
     {
         "Info": "Embedded Systems",
         "Text": "COMPENG-4DS4"
+    },
+    {
+        "Info": "Advanced Research Project",
+        "Text": "COMPENG-4OH4"
+    },
+    {
+        "Info": "Research Project",
+        "Text": "COMPENG-4OJ4"
     },
     {
         "Info": "Image Processing",
@@ -1208,6 +1464,10 @@
         "Text": "EARTHSC-4FF3"
     },
     {
+        "Info": "Senior Thesis",
+        "Text": "EARTHSC-4MT6B"
+    },
+    {
         "Info": "Exploration Geophysics",
         "Text": "EARTHSC-4V03"
     },
@@ -1308,6 +1568,10 @@
         "Text": "ECON-4A03"
     },
     {
+        "Info": "Economic Specialist Seminar",
+        "Text": "ECON-4AA3"
+    },
+    {
         "Info": "Advanced Economic Theory II",
         "Text": "ECON-4TT3"
     },
@@ -1364,8 +1628,16 @@
         "Text": "ELECENG-4EM4"
     },
     {
+        "Info": "Advanced Research Project",
+        "Text": "ELECENG-4OH4"
+    },
+    {
         "Info": "Engineering Design",
         "Text": "ELECENG-4OI6B"
+    },
+    {
+        "Info": "Research Project",
+        "Text": "ELECENG-4OJ4"
     },
     {
         "Info": "Electric Motor Drives",
@@ -1382,6 +1654,10 @@
     {
         "Info": "Integrated Cornerstone Design Projects in Engineering",
         "Text": "ENGINEER-1P13B"
+    },
+    {
+        "Info": "Engineering Work Term",
+        "Text": "ENGINEER-2EC0"
     },
     {
         "Info": "Inclusion in the Engineering Workplace",
@@ -1460,12 +1736,48 @@
         "Text": "ENGLISH-3NH3"
     },
     {
+        "Info": "Reading and Writing in the Field: Experiential Learning in Theory and Practice",
+        "Text": "ENGLISH-3RW3"
+    },
+    {
         "Info": "'We Other Victorians': Victorian Literature and Culture and Its Afterlives",
         "Text": "ENGLISH-3VC3"
     },
     {
         "Info": "British Romantic Literature and Culture: Revolution, War, Empire",
         "Text": "ENGLISH-3WE3"
+    },
+    {
+        "Info": "Under the Gaze of the Nonhuman: Critical Animal Studies",
+        "Text": "ENGLISH-4CA3"
+    },
+    {
+        "Info": "Creative Writing Capstone",
+        "Text": "ENGLISH-4CC3"
+    },
+    {
+        "Info": "Contemporary Fiction",
+        "Text": "ENGLISH-4CF3"
+    },
+    {
+        "Info": "Graphic Narrative in Canada",
+        "Text": "ENGLISH-4GN3"
+    },
+    {
+        "Info": "Renaissance Drama, Excluding Shakespeare",
+        "Text": "ENGLISH-4RD3"
+    },
+    {
+        "Info": "Honours Essay",
+        "Text": "ENGLISH-4X03"
+    },
+    {
+        "Info": "Research Practicum",
+        "Text": "ENGLISH-4Y06B"
+    },
+    {
+        "Info": "Experiential Practicum II",
+        "Text": "ENGLISH-4YY3"
     },
     {
         "Info": "Electricity and Magnetism",
@@ -1482,6 +1794,10 @@
     {
         "Info": "Embedding and Programming a Micro-Controller",
         "Text": "ENGPHYS-3BB3"
+    },
+    {
+        "Info": "Research Project in Engineering Physics",
+        "Text": "ENGPHYS-3H04B"
     },
     {
         "Info": "Engineering Metrology",
@@ -1510,6 +1826,10 @@
     {
         "Info": "Biosensors - Fundamentals and Applications",
         "Text": "ENGPHYS-4B03"
+    },
+    {
+        "Info": "Research Project in Engineering Physics",
+        "Text": "ENGPHYS-4H04B"
     },
     {
         "Info": "Introduction to Biophotonics",
@@ -1572,6 +1892,14 @@
         "Text": "ENGTECH-1PR3"
     },
     {
+        "Info": "Four Month Co-op Experience I",
+        "Text": "ENGTECH-2EE0"
+    },
+    {
+        "Info": "Four Month Co-op Experience I",
+        "Text": "ENGTECH-2ET0"
+    },
+    {
         "Info": "Modelling and Numerical Solutions",
         "Text": "ENGTECH-2MS3"
     },
@@ -1582,6 +1910,14 @@
     {
         "Info": "Discrete Mathematics",
         "Text": "ENGTECH-3DM3"
+    },
+    {
+        "Info": "Four Month Co-op Experience II",
+        "Text": "ENGTECH-3EE0"
+    },
+    {
+        "Info": "Four Month Co-op Experience II",
+        "Text": "ENGTECH-3ET0"
     },
     {
         "Info": "Mathematics V",
@@ -1618,6 +1954,10 @@
     {
         "Info": "Senior Engineering Design Project",
         "Text": "ENGTECH-4ED3"
+    },
+    {
+        "Info": "Four Month Co-op Experience III",
+        "Text": "ENGTECH-4EE0"
     },
     {
         "Info": "Senior Engineering Project",
@@ -1676,12 +2016,24 @@
         "Text": "ENVIRSC-2WW3"
     },
     {
+        "Info": "Internship in Earth and Environmental Sciences",
+        "Text": "ENVIRSC-3IN3"
+    },
+    {
         "Info": "Advanced Physical Climatology",
         "Text": "ENVIRSC-4C03"
     },
     {
         "Info": "Environmental Assessment",
         "Text": "ENVIRSC-4EA3"
+    },
+    {
+        "Info": "Independent Study in Earth and Environmental Sciences",
+        "Text": "ENVIRSC-4MI3"
+    },
+    {
+        "Info": "Senior Thesis",
+        "Text": "ENVIRSC-4MT6B"
     },
     {
         "Info": "Society, Culture and Environment",
@@ -1724,6 +2076,10 @@
         "Text": "ENVSOCTY-3MA3"
     },
     {
+        "Info": "Internship in Environment and Society",
+        "Text": "ENVSOCTY-3MI3"
+    },
+    {
         "Info": "Human Geographies of Africa",
         "Text": "ENVSOCTY-3RA3"
     },
@@ -1732,12 +2088,40 @@
         "Text": "ENVSOCTY-4EA3"
     },
     {
+        "Info": "Environmental Policy, Ethics and Risk",
+        "Text": "ENVSOCTY-4ET3"
+    },
+    {
         "Info": "Applied Spatial Statistics",
         "Text": "ENVSOCTY-4GA3"
     },
     {
+        "Info": "Transport Policy",
+        "Text": "ENVSOCTY-4LP3"
+    },
+    {
+        "Info": "Work and the Environment",
+        "Text": "ENVSOCTY-4LW3"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "ENVSOCTY-4MS3"
+    },
+    {
+        "Info": "Senior Thesis",
+        "Text": "ENVSOCTY-4MT6B"
+    },
+    {
         "Info": "Advanced Remote Sensing",
         "Text": "ENVSOCTY-4SR3"
+    },
+    {
+        "Info": "Special Topics in Urban Planning",
+        "Text": "ENVSOCTY-4UD3"
+    },
+    {
+        "Info": "The Geography of Gender",
+        "Text": "ENVSOCTY-4UF3"
     },
     {
         "Info": "Sustainable Cities",
@@ -1746,6 +2130,38 @@
     {
         "Info": "Integrated Engineering Physics & Biomedical Engineering Capstone Design Project",
         "Text": "EPHYSBME-5P06B"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X01"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X02"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X03"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X06"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X09"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X12"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X15"
+    },
+    {
+        "Info": "Exchange",
+        "Text": "EXCHANGE-3X18"
     },
     {
         "Info": "Introductory Farsi II",
@@ -1798,6 +2214,18 @@
     {
         "Info": "French Language Practice IV",
         "Text": "FRENCH-4A03"
+    },
+    {
+        "Info": "Sex, Violence and Elegance: The 18th-Century Novel",
+        "Text": "FRENCH-4MM3"
+    },
+    {
+        "Info": "French as a Second Language: From Theory to Practice",
+        "Text": "FRENCH-4P06B"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "FRENCH-4T03"
     },
     {
         "Info": "Gender, Race, Culture, Power",
@@ -1892,6 +2320,14 @@
         "Text": "GERMAN-2Q03"
     },
     {
+        "Info": "Independent Study",
+        "Text": "GERMAN-4II3B"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "GERMAN-4II3S"
+    },
+    {
         "Info": "Introduction to Greek and Roman Archaeology",
         "Text": "GKROMST-1A03"
     },
@@ -1944,6 +2380,10 @@
         "Text": "GKROMST-4MR3"
     },
     {
+        "Info": "Independent Study",
+        "Text": "GKROMST-4T03S"
+    },
+    {
         "Info": "Global Citizenship",
         "Text": "GLOBALZN-1A03"
     },
@@ -1958,6 +2398,10 @@
     {
         "Info": "Greek Prose",
         "Text": "GREEK-3AA3"
+    },
+    {
+        "Info": "Independent Study in Greek",
+        "Text": "GREEK-4T03"
     },
     {
         "Info": "Introduction to Biblical Hebrew II",
@@ -2048,8 +2492,32 @@
         "Text": "HISTORY-3YB3"
     },
     {
+        "Info": "Modern Canadian History",
+        "Text": "HISTORY-4CM3"
+    },
+    {
+        "Info": "Nation and Genocide in the Modern World",
+        "Text": "HISTORY-4G03"
+    },
+    {
+        "Info": "The History Practicum",
+        "Text": "HISTORY-4HP3"
+    },
+    {
         "Info": "The Cultural History of Paris, 1789-1914",
         "Text": "HISTORY-4LP3"
+    },
+    {
+        "Info": "Independent Research Project",
+        "Text": "HISTORY-4RP3"
+    },
+    {
+        "Info": "Advanced Independent Research",
+        "Text": "HISTORY-4RP6B"
+    },
+    {
+        "Info": "Interwar Europe, 1918-1939",
+        "Text": "HISTORY-4TT3"
     },
     {
         "Info": "Introduction to Health and Society",
@@ -2104,6 +2572,14 @@
         "Text": "HLTHAGE-3B03"
     },
     {
+        "Info": "Field Experience",
+        "Text": "HLTHAGE-3BB3"
+    },
+    {
+        "Info": "Independent Study in Health, Aging and Society",
+        "Text": "HLTHAGE-3I03"
+    },
+    {
         "Info": "Aging and Mental Health",
         "Text": "HLTHAGE-3N03"
     },
@@ -2130,6 +2606,26 @@
     {
         "Info": "Aging and Wellbeing",
         "Text": "HLTHAGE-4N03"
+    },
+    {
+        "Info": "Soundscapes of Wellbeing in Popular Music",
+        "Text": "HLTHAGE-4O03"
+    },
+    {
+        "Info": "Leisure and Recreation in Later Life",
+        "Text": "HLTHAGE-4P03"
+    },
+    {
+        "Info": "Representations of Mental Illness",
+        "Text": "HLTHAGE-4Q03"
+    },
+    {
+        "Info": "Selected Issues in Aging and Society",
+        "Text": "HLTHAGE-4W03"
+    },
+    {
+        "Info": "Health, Aging and Society Thesis",
+        "Text": "HLTHAGE-4Z06B"
     },
     {
         "Info": "Competencies in Animal Care and Research: Orientation",
@@ -2260,6 +2756,10 @@
         "Text": "HTHSCI-3BE4"
     },
     {
+        "Info": "Nursing Concepts in Continence Care Placement",
+        "Text": "HTHSCI-3BF3"
+    },
+    {
         "Info": "Advanced Nursing Concepts in Continence Care",
         "Text": "HTHSCI-3BG3"
     },
@@ -2270,6 +2770,10 @@
     {
         "Info": "Theatre for Development",
         "Text": "HTHSCI-3CC3"
+    },
+    {
+        "Info": "CHS Research Practicum",
+        "Text": "HTHSCI-3CH6B"
     },
     {
         "Info": "CHS Inquiry Intermediate",
@@ -2306,6 +2810,18 @@
     {
         "Info": "Critical Appraisal of the Health Literature",
         "Text": "HTHSCI-3G03"
+    },
+    {
+        "Info": "Inquiry Project",
+        "Text": "HTHSCI-3H03B"
+    },
+    {
+        "Info": "Inquiry Project",
+        "Text": "HTHSCI-3H03S"
+    },
+    {
+        "Info": "Inquiry Project",
+        "Text": "HTHSCI-3H06B"
     },
     {
         "Info": "Deceptions in Decision Making",
@@ -2404,12 +2920,60 @@
         "Text": "HTHSCI-3X00B"
     },
     {
+        "Info": "Thesis",
+        "Text": "HTHSCI-4A09B"
+    },
+    {
+        "Info": "Thesis",
+        "Text": "HTHSCI-4A12B"
+    },
+    {
+        "Info": "Thesis",
+        "Text": "HTHSCI-4A15B"
+    },
+    {
         "Info": "Advanced Communication Skills",
         "Text": "HTHSCI-4AC3"
     },
     {
+        "Info": "Nursing Research Project",
+        "Text": "HTHSCI-4AR3"
+    },
+    {
+        "Info": "Senior Projects",
+        "Text": "HTHSCI-4B06B"
+    },
+    {
+        "Info": "(2023 Spring/Summer only) Senior Projects",
+        "Text": "HTHSCI-4B06S"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "HTHSCI-4BR3"
+    },
+    {
         "Info": "Research Skills and Application",
         "Text": "HTHSCI-4BR6B"
+    },
+    {
+        "Info": "Senior Project in Child Health",
+        "Text": "HTHSCI-4C06B"
+    },
+    {
+        "Info": "Thesis in Child Health",
+        "Text": "HTHSCI-4C09B"
+    },
+    {
+        "Info": "Thesis in Child Health",
+        "Text": "HTHSCI-4C12B"
+    },
+    {
+        "Info": "Thesis in Child Health",
+        "Text": "HTHSCI-4C15B"
+    },
+    {
+        "Info": "CHS Education Practicum",
+        "Text": "HTHSCI-4CH3B"
     },
     {
         "Info": "CHS Inquiry Advanced",
@@ -2420,12 +2984,60 @@
         "Text": "HTHSCI-4CU3"
     },
     {
+        "Info": "Special Topics in Health Sciences",
+        "Text": "HTHSCI-4D03"
+    },
+    {
+        "Info": "Senior Project in Engaging the City",
+        "Text": "HTHSCI-4D06B"
+    },
+    {
+        "Info": "Thesis in Engaging the City",
+        "Text": "HTHSCI-4D09B"
+    },
+    {
+        "Info": "Thesis in Engaging the City",
+        "Text": "HTHSCI-4D12B"
+    },
+    {
+        "Info": "Thesis in Engaging the City",
+        "Text": "HTHSCI-4D15B"
+    },
+    {
+        "Info": "Senior Project in Engaging the City",
+        "Text": "HTHSCI-4DE3B"
+    },
+    {
+        "Info": "Senior Project in Engaging the City",
+        "Text": "HTHSCI-4DE3S"
+    },
+    {
         "Info": "Dance in Health and Wellness",
         "Text": "HTHSCI-4DN3"
     },
     {
+        "Info": "Education Practicum in Health Sciences - Inquiry",
+        "Text": "HTHSCI-4EE3B"
+    },
+    {
         "Info": "Pathoanatomy",
         "Text": "HTHSCI-4G03"
+    },
+    {
+        "Info": "Senior Project in Global Health",
+        "Text": "HTHSCI-4G06B"
+    },
+    {
+        "Info": "Thesis in Global Health",
+        "Text": "HTHSCI-4G09B"
+    },
+    {
+        "Info": "Thesis in Global Health",
+        "Text": "HTHSCI-4G12B"
+    },
+    {
+        "Info": "Thesis in Global Health",
+        "Text": "HTHSCI-4G15B"
     },
     {
         "Info": "Integration of Children\u2019s Physical and Mental Health",
@@ -2476,6 +3088,10 @@
         "Text": "HTHSCI-4PF3B"
     },
     {
+        "Info": "Communication Skills Practicum",
+        "Text": "HTHSCI-4QQ3B"
+    },
+    {
         "Info": "Global Sexual and Reproductive Health and Rights",
         "Text": "HTHSCI-4SR3"
     },
@@ -2486,6 +3102,18 @@
     {
         "Info": "The Teaching Hospital",
         "Text": "HTHSCI-4TE3"
+    },
+    {
+        "Info": "Research Practicum",
+        "Text": "HTHSCI-4TT3B"
+    },
+    {
+        "Info": "Special Topics in Health Sciences II",
+        "Text": "HTHSCI-4W03"
+    },
+    {
+        "Info": "Education Practicum - Community Engagement",
+        "Text": "HTHSCI-4WW3B"
     },
     {
         "Info": "Praxis Pathways 4",
@@ -2516,8 +3144,36 @@
         "Text": "HUMAN-3CL3"
     },
     {
+        "Info": "Full-time Internship",
+        "Text": "HUMAN-3IF0S"
+    },
+    {
+        "Info": "Full-time Internship",
+        "Text": "HUMAN-3IF1S"
+    },
+    {
+        "Info": "Part-time Internship",
+        "Text": "HUMAN-3IP0S"
+    },
+    {
+        "Info": "Part-time Internship",
+        "Text": "HUMAN-3IP1S"
+    },
+    {
         "Info": "Foundations of Ethical Leadership",
         "Text": "HUMAN-3LM3"
+    },
+    {
+        "Info": "Applied Humanities I",
+        "Text": "HUMAN-3W03B"
+    },
+    {
+        "Info": "Applied Humanities I",
+        "Text": "HUMAN-3W03"
+    },
+    {
+        "Info": "Major Leadership Project: Theory and Practice",
+        "Text": "HUMAN-4LC3"
     },
     {
         "Info": "Boundaries and Bridges: Relationship Skills for Effective Leaders",
@@ -2526,6 +3182,14 @@
     {
         "Info": "Applied Humanities II",
         "Text": "HUMAN-4W03B"
+    },
+    {
+        "Info": "Applied Humanities II",
+        "Text": "HUMAN-4W03S"
+    },
+    {
+        "Info": "Wilson Leadership Scholar Capstone",
+        "Text": "HUMAN-4WL3B"
     },
     {
         "Info": "Introduction to Autism Spectrum Disorder (ASD)",
@@ -2564,6 +3228,14 @@
         "Text": "HUMBEHV-3H03"
     },
     {
+        "Info": "Inquiry Project",
+        "Text": "HUMBEHV-3IP3B"
+    },
+    {
+        "Info": "Inquiry Project",
+        "Text": "HUMBEHV-3IP3S"
+    },
+    {
         "Info": "Curriculum Theory and Approaches",
         "Text": "HUMBEHV-3O03"
     },
@@ -2572,8 +3244,32 @@
         "Text": "HUMBEHV-3Q03"
     },
     {
+        "Info": "Seminar in Applied Psychology",
+        "Text": "HUMBEHV-4HB3"
+    },
+    {
+        "Info": "Seminar in Applied Psychology",
+        "Text": "HUMBEHV-4HD3"
+    },
+    {
+        "Info": "Advanced Seminar in Mental Health",
+        "Text": "HUMBEHV-4HG3"
+    },
+    {
         "Info": "Parent and Staff Training",
         "Text": "HUMBEHV-4I03"
+    },
+    {
+        "Info": "Senior Inquiry Project",
+        "Text": "HUMBEHV-4IP3B"
+    },
+    {
+        "Info": "Senior Inquiry Project",
+        "Text": "HUMBEHV-4IP3S"
+    },
+    {
+        "Info": "Independent Research Project",
+        "Text": "HUMBEHV-4RP6B"
     },
     {
         "Info": "Science Communication in the Behavioural Sciences",
@@ -2582,6 +3278,10 @@
     {
         "Info": "Inclusion in the ECE Classroom",
         "Text": "HUMBEHV-4U03"
+    },
+    {
+        "Info": "ECS Practicum III",
+        "Text": "HUMBEHV-4V12S"
     },
     {
         "Info": "Theory to Practice III",
@@ -2612,6 +3312,10 @@
         "Text": "IARTS-2CD3"
     },
     {
+        "Info": "Devised Performance Processes",
+        "Text": "IARTS-2DE3"
+    },
+    {
         "Info": "Film Analysis",
         "Text": "IARTS-2FA3"
     },
@@ -2626,6 +3330,10 @@
     {
         "Info": "Project Production 2",
         "Text": "IARTS-2RP3"
+    },
+    {
+        "Info": "Critical Curatorial Studies",
+        "Text": "IARTS-4CS6B"
     },
     {
         "Info": "Introduction to the IBEHS Co-op Program",
@@ -2644,6 +3352,10 @@
         "Text": "IBEHS-1P10B"
     },
     {
+        "Info": "IBEHS Work Term",
+        "Text": "IBEHS-2EC0"
+    },
+    {
         "Info": "From Idea to Innovation",
         "Text": "IBEHS-2EE3"
     },
@@ -2656,8 +3368,24 @@
         "Text": "IBEHS-3EE3"
     },
     {
+        "Info": "Research Project",
+        "Text": "IBEHS-3H03"
+    },
+    {
+        "Info": "Research Project",
+        "Text": "IBEHS-3I06B"
+    },
+    {
         "Info": "Health Solutions Design Projects III: Analysis and Decision Making",
         "Text": "IBEHS-3P04"
+    },
+    {
+        "Info": "Experiential Placement",
+        "Text": "IBEHS-3X03B"
+    },
+    {
+        "Info": "Experiential Placement",
+        "Text": "IBEHS-3X03S"
     },
     {
         "Info": "Biomedical Control Systems",
@@ -2672,8 +3400,24 @@
         "Text": "IBEHS-4D03"
     },
     {
+        "Info": "Health, Engineering Science and Entrepreneurship Thesis",
+        "Text": "IBEHS-4E09B"
+    },
+    {
         "Info": "Innovators in Scrubs",
         "Text": "IBEHS-4EE6B"
+    },
+    {
+        "Info": "Unleashing Innovation at The Clinic",
+        "Text": "IBEHS-4EI3"
+    },
+    {
+        "Info": "Research Project",
+        "Text": "IBEHS-4H03"
+    },
+    {
+        "Info": "Health, Engineering Science and Entrepreneurship Thesis",
+        "Text": "IBEHS-5E15B"
     },
     {
         "Info": "Biomedical Capstone Design Project",
@@ -2788,6 +3532,18 @@
         "Text": "INDIGST-3VV3"
     },
     {
+        "Info": "Indigenous Erotics",
+        "Text": "INDIGST-4J03"
+    },
+    {
+        "Info": "Indigenous Community Research Experience",
+        "Text": "INDIGST-4L03"
+    },
+    {
+        "Info": "Honours Thesis",
+        "Text": "INDIGST-4T06B"
+    },
+    {
         "Info": "The World of Entrepreneurship",
         "Text": "INNOVATE-1X03"
     },
@@ -2828,6 +3584,14 @@
         "Text": "INSPIRE-2GS3"
     },
     {
+        "Info": "International Engagement at Home",
+        "Text": "INTENG-2A03S"
+    },
+    {
+        "Info": "International Engagement Capstone",
+        "Text": "INTENG-3A03"
+    },
+    {
         "Info": "Integrated Science I",
         "Text": "ISCI-1A24B"
     },
@@ -2844,8 +3608,20 @@
         "Text": "ISCI-3Z09"
     },
     {
+        "Info": "Integrated Science IV",
+        "Text": "ISCI-4A12B"
+    },
+    {
         "Info": "Beginner's Intensive Italian",
         "Text": "ITALIAN-1Z06B"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "ITALIAN-4II3B"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "ITALIAN-4II3S"
     },
     {
         "Info": "Beginner's Intensive Japanese",
@@ -2908,6 +3684,10 @@
         "Text": "KINESIOL-3Q03"
     },
     {
+        "Info": "Kinesiology Research Practicum",
+        "Text": "KINESIOL-3RP3"
+    },
+    {
         "Info": "Sport Psychology",
         "Text": "KINESIOL-3V03"
     },
@@ -2932,6 +3712,10 @@
         "Text": "KINESIOL-4D03"
     },
     {
+        "Info": "Professional Placement in Kinesiology",
+        "Text": "KINESIOL-4EE3"
+    },
+    {
         "Info": "Physical Activity Behaviour Change",
         "Text": "KINESIOL-4H03"
     },
@@ -2942,6 +3726,10 @@
     {
         "Info": "Fundamentals of Rehabilitation",
         "Text": "KINESIOL-4KK3"
+    },
+    {
+        "Info": "Thesis",
+        "Text": "KINESIOL-4RR6B"
     },
     {
         "Info": "Selected Topics in Kinesiology II",
@@ -2976,6 +3764,10 @@
         "Text": "LATIN-3H03"
     },
     {
+        "Info": "Independent Study in Latin",
+        "Text": "LATIN-4T03"
+    },
+    {
         "Info": "Medical Imaging Physics",
         "Text": "LIFESCI-1D03"
     },
@@ -3008,6 +3800,10 @@
         "Text": "LIFESCI-3E03"
     },
     {
+        "Info": "Life Sciences Applied Placement",
+        "Text": "LIFESCI-3EP3"
+    },
+    {
         "Info": "Laboratory Methods in Life Sciences",
         "Text": "LIFESCI-3L03"
     },
@@ -3036,6 +3832,10 @@
         "Text": "LIFESCI-3RC3"
     },
     {
+        "Info": "Life Sciences Research Practicum",
+        "Text": "LIFESCI-3RP3"
+    },
+    {
         "Info": "Genetic and Epigenetic Determinants of Health: Role in Health Disparity",
         "Text": "LIFESCI-3W03"
     },
@@ -3048,12 +3848,48 @@
         "Text": "LIFESCI-3Z03"
     },
     {
+        "Info": "Independent Study",
+        "Text": "LIFESCI-4A03"
+    },
+    {
+        "Info": "Independent Project",
+        "Text": "LIFESCI-4B09B"
+    },
+    {
+        "Info": "Independent Thesis",
+        "Text": "LIFESCI-4C12B"
+    },
+    {
         "Info": "Foundations of Disease States Inquiry Lab",
         "Text": "LIFESCI-4CM3"
     },
     {
+        "Info": "Independent Thesis",
+        "Text": "LIFESCI-4D15B"
+    },
+    {
+        "Info": "Racism & Health Inequities in Science & Health Care",
+        "Text": "LIFESCI-4DD3"
+    },
+    {
+        "Info": "Life Sciences Advanced Placement",
+        "Text": "LIFESCI-4EP6B"
+    },
+    {
+        "Info": "Science Communication in the Media",
+        "Text": "LIFESCI-4J03"
+    },
+    {
         "Info": "Research Seminar",
         "Text": "LIFESCI-4P03"
+    },
+    {
+        "Info": "Mechanisms of Disease",
+        "Text": "LIFESCI-4U03"
+    },
+    {
+        "Info": "Advanced Topics in Nutrition",
+        "Text": "LIFESCI-4W03"
     },
     {
         "Info": "The Synapse",
@@ -3084,6 +3920,14 @@
         "Text": "LINGUIST-2PH3"
     },
     {
+        "Info": "Individual Practicum in Indigenous Language Revitalization",
+        "Text": "LINGUIST-2RP3B"
+    },
+    {
+        "Info": "Individual Practicum in Indigenous Language Revitalization",
+        "Text": "LINGUIST-2RP3S"
+    },
+    {
         "Info": "Introduction to American Sign Language",
         "Text": "LINGUIST-2SL3"
     },
@@ -3104,8 +3948,28 @@
         "Text": "LINGUIST-3NL3"
     },
     {
+        "Info": "Individual Research Practicum",
+        "Text": "LINGUIST-3RP3B"
+    },
+    {
+        "Info": "Individual Research Practicum",
+        "Text": "LINGUIST-3RP3S"
+    },
+    {
         "Info": "Intermediate American Sign Language",
         "Text": "LINGUIST-3SL3"
+    },
+    {
+        "Info": "Language, Sex and Gender",
+        "Text": "LINGUIST-4G03"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "LINGUIST-4II3B"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "LINGUIST-4II3S"
     },
     {
         "Info": "The Structure of X",
@@ -3118,6 +3982,10 @@
     {
         "Info": "Seminar in Sociolinguistics",
         "Text": "LINGUIST-4SS3"
+    },
+    {
+        "Info": "Honours Thesis",
+        "Text": "LINGUIST-4Y06B"
     },
     {
         "Info": "Quality Control and Assurance Methods",
@@ -3202,6 +4070,14 @@
     {
         "Info": "Mathematical Physics II",
         "Text": "MATH-3D03"
+    },
+    {
+        "Info": "Mathematics Teaching Placement",
+        "Text": "MATH-3ET3B"
+    },
+    {
+        "Info": "Mathematics Teaching Placement",
+        "Text": "MATH-3ET3S"
     },
     {
         "Info": "Partial Differential Equations",
@@ -3310,6 +4186,10 @@
     {
         "Info": "Sustainable Manufacturing Processes",
         "Text": "MATLS-4I03"
+    },
+    {
+        "Info": "Senior Research Project",
+        "Text": "MATLS-4K06B"
     },
     {
         "Info": "Heat-Treatable Al Alloys",
@@ -3424,6 +4304,10 @@
         "Text": "MECHENG-4T03"
     },
     {
+        "Info": "Independent Research Project",
+        "Text": "MECHENG-4X04B"
+    },
+    {
         "Info": "CAD/CAM/CAE",
         "Text": "MECHENG-4Z03"
     },
@@ -3484,6 +4368,10 @@
         "Text": "MEDIAART-3Z03"
     },
     {
+        "Info": "Senior Thesis Research and Production",
+        "Text": "MEDIAART-4ST6B"
+    },
+    {
         "Info": "Imaging in Medicine and Biology",
         "Text": "MEDPHYS-4D03"
     },
@@ -3502,6 +4390,10 @@
     {
         "Info": "Radiation Biology",
         "Text": "MEDPHYS-4U03"
+    },
+    {
+        "Info": "Senior Research Project",
+        "Text": "MEDPHYS-4Y06B"
     },
     {
         "Info": "Introduction to Pathology",
@@ -3580,8 +4472,28 @@
         "Text": "MEDRADSC-3X03"
     },
     {
+        "Info": "Radiography Clinical Practicum II",
+        "Text": "MEDRADSC-4A15"
+    },
+    {
+        "Info": "Radiography Clinical Practicum III",
+        "Text": "MEDRADSC-4B15"
+    },
+    {
+        "Info": "Ultrasonography Clinical Practicum II",
+        "Text": "MEDRADSC-4C15"
+    },
+    {
         "Info": "Ultrasonography Clinical Practicum III",
         "Text": "MEDRADSC-4D15"
+    },
+    {
+        "Info": "Radiation Therapy Clinical Practicum II",
+        "Text": "MEDRADSC-4E15"
+    },
+    {
+        "Info": "Radiation Therapy Clinical Practicum III",
+        "Text": "MEDRADSC-4F15"
     },
     {
         "Info": "Pre-Clinical Professional Skills Reassessment II",
@@ -3608,6 +4520,18 @@
         "Text": "MELD-1TT3"
     },
     {
+        "Info": "Midwifery The Profession II",
+        "Text": "MIDWIF-1G03"
+    },
+    {
+        "Info": "Normal Childbearing",
+        "Text": "MIDWIF-2H15"
+    },
+    {
+        "Info": "Interprofessional Practice I",
+        "Text": "MIDWIF-3A09"
+    },
+    {
         "Info": "Midwifery Issues",
         "Text": "MIDWIF-3F03"
     },
@@ -3616,12 +4540,32 @@
         "Text": "MIDWIF-3J06"
     },
     {
+        "Info": "Interprofessional Practice II",
+        "Text": "MIDWIF-3K06"
+    },
+    {
+        "Info": "Advanced Clinical Skills II",
+        "Text": "MIDWIF-3L03"
+    },
+    {
+        "Info": "Midwifery Clerkship",
+        "Text": "MIDWIF-4B15"
+    },
+    {
         "Info": "Genetics",
         "Text": "MOLBIOL-2C03"
     },
     {
         "Info": "Experimental Approaches in Cell Biology",
         "Text": "MOLBIOL-3D03"
+    },
+    {
+        "Info": "Independent Research Project",
+        "Text": "MOLBIOL-3I03B"
+    },
+    {
+        "Info": "Independent Research Project",
+        "Text": "MOLBIOL-3I03S"
     },
     {
         "Info": "Molecular Genetics of Eukaryotes",
@@ -3638,6 +4582,10 @@
     {
         "Info": "Molecular Evolution",
         "Text": "MOLBIOL-4DD3"
+    },
+    {
+        "Info": "Senior Thesis",
+        "Text": "MOLBIOL-4G12B"
     },
     {
         "Info": "Molecular Biology of Cancer",
@@ -3718,6 +4666,10 @@
     {
         "Info": "Theory and Analysis III",
         "Text": "MUSIC-2CB3"
+    },
+    {
+        "Info": "Music and Culture",
+        "Text": "MUSIC-2CU3"
     },
     {
         "Info": "Solo Performance",
@@ -3828,6 +4780,10 @@
         "Text": "MUSIC-3WW3"
     },
     {
+        "Info": "Independent Study",
+        "Text": "MUSIC-3X03"
+    },
+    {
         "Info": "Solo Performance",
         "Text": "MUSIC-4E03"
     },
@@ -3892,6 +4848,10 @@
         "Text": "MUSIC-4SS3"
     },
     {
+        "Info": "Advanced Independent Study",
+        "Text": "MUSIC-4X03"
+    },
+    {
         "Info": "Introduction to Music Cognition",
         "Text": "MUSICCOG-2MP3"
     },
@@ -3908,6 +4868,14 @@
         "Text": "MUSICCOG-3SP3"
     },
     {
+        "Info": "Thesis in Music Cognition",
+        "Text": "MUSICCOG-4D06B"
+    },
+    {
+        "Info": "Neuroscience of Music",
+        "Text": "MUSICCOG-4MP3"
+    },
+    {
         "Info": "Experimental Laboratory in Music Cognition II",
         "Text": "MUSICCOG-4QQ3B"
     },
@@ -3916,8 +4884,68 @@
         "Text": "MUSICCOG-4QQ3S"
     },
     {
+        "Info": "Research Practicum in Cellular/Molecular Neuroscience",
+        "Text": "NEUROSCI-2BB3B"
+    },
+    {
+        "Info": "Research Practicum in Cellular/Molecular Neuroscience",
+        "Text": "NEUROSCI-2BB3S"
+    },
+    {
+        "Info": "Research Practicum in Systems/Circuits Neuroscience",
+        "Text": "NEUROSCI-2CC3B"
+    },
+    {
+        "Info": "Research Practicum in Systems/Circuits Neuroscience",
+        "Text": "NEUROSCI-2CC3S"
+    },
+    {
+        "Info": "Research Practicum in Behavioural/Cognitive Neuroscience",
+        "Text": "NEUROSCI-2DD3B"
+    },
+    {
+        "Info": "Research Practicum in Behavioural/Cognitive Neuroscience",
+        "Text": "NEUROSCI-2DD3S"
+    },
+    {
         "Info": "Neuroscience Tutorial",
         "Text": "NEUROSCI-2XN0B"
+    },
+    {
+        "Info": "Individual Lab Study in Cellular/Molecular Neuroscience",
+        "Text": "NEUROSCI-3BB3B"
+    },
+    {
+        "Info": "Individual Lab Study in Cellular/Molecular Neuroscience",
+        "Text": "NEUROSCI-3BB3S"
+    },
+    {
+        "Info": "Individual Lab Study in Cellular/Molecular Neuroscience",
+        "Text": "NEUROSCI-3BB6B"
+    },
+    {
+        "Info": "Individual Lab Study in Systems/Circuits Neuroscience",
+        "Text": "NEUROSCI-3CC3B"
+    },
+    {
+        "Info": "Individual Lab Study in Systems/Circuits Neuroscience",
+        "Text": "NEUROSCI-3CC3S"
+    },
+    {
+        "Info": "Individual Lab Study in Systems/Circuits Neuroscience",
+        "Text": "NEUROSCI-3CC6B"
+    },
+    {
+        "Info": "Individual Lab Study in Behavioural/Cognitive Neuroscience",
+        "Text": "NEUROSCI-3DD3B"
+    },
+    {
+        "Info": "Individual Lab Study in Behavioural/Cognitive Neuroscience",
+        "Text": "NEUROSCI-3DD3S"
+    },
+    {
+        "Info": "Individual Lab Study Behavioural/Cognitive Neuroscience",
+        "Text": "NEUROSCI-3DD6B"
     },
     {
         "Info": "Visual Neuroscience",
@@ -3932,6 +4960,18 @@
         "Text": "NEUROSCI-3SN3"
     },
     {
+        "Info": "Neuroscience Thesis",
+        "Text": "NEUROSCI-4L09B"
+    },
+    {
+        "Info": "Neuroscience Senior Thesis",
+        "Text": "NEUROSCI-4L12B"
+    },
+    {
+        "Info": "Neuroscience Seminar",
+        "Text": "NEUROSCI-4S03B"
+    },
+    {
         "Info": "Impact of Infectious Disease on Individuals and Society",
         "Text": "NEXUS-2A03"
     },
@@ -3942,6 +4982,10 @@
     {
         "Info": "Professional Nursing Practice I for Basic Stream",
         "Text": "NURSING-1J02"
+    },
+    {
+        "Info": "Community Engagement and Citizenship for Basic Stream",
+        "Text": "NURSING-1K02"
     },
     {
         "Info": "Reintegration Course",
@@ -3984,12 +5028,24 @@
         "Text": "NURSING-3RT3"
     },
     {
+        "Info": "Professional Nursing Practice V for Post Diploma RPN Stream",
+        "Text": "NURSING-3RY4"
+    },
+    {
         "Info": "Nursing Concepts in Health and Illness IV for Basic Stream",
         "Text": "NURSING-3TT3"
     },
     {
+        "Info": "Professional Nursing Practice V",
+        "Text": "NURSING-3Y04"
+    },
+    {
         "Info": "Introduction to Concepts in Global Health",
         "Text": "NURSING-4H03"
+    },
+    {
+        "Info": "Professional Practice and the New Graduate",
+        "Text": "NURSING-4K10"
     },
     {
         "Info": "Advanced Nursing Concepts II",
@@ -4012,8 +5068,20 @@
         "Text": "PEACJUST-2CS3"
     },
     {
+        "Info": "Researching Global Peace and Social Justice",
+        "Text": "PEACJUST-3C03"
+    },
+    {
+        "Info": "Globalization and Peace",
+        "Text": "PEACJUST-3D03"
+    },
+    {
         "Info": "Theories of Decolonization and Resistance",
         "Text": "PEACJUST-3GG3"
+    },
+    {
+        "Info": "Practicum: Practical Peace Building",
+        "Text": "PEACJUST-3P03"
     },
     {
         "Info": "Race, Religion and Media",
@@ -4022,6 +5090,14 @@
     {
         "Info": "Special Topics in Peace and Justice",
         "Text": "PEACJUST-3Y03"
+    },
+    {
+        "Info": "Nation and Genocide in the Modern World",
+        "Text": "PEACJUST-4GG3"
+    },
+    {
+        "Info": "Peace, Environment and Health",
+        "Text": "PEACJUST-4L03"
     },
     {
         "Info": "Introduction to Pharmacology",
@@ -4072,6 +5148,10 @@
         "Text": "PHILOS-2G03"
     },
     {
+        "Info": "Latin American Philosophy",
+        "Text": "PHILOS-2LA3"
+    },
+    {
         "Info": "History of Political Philosophy",
         "Text": "PHILOS-2S03"
     },
@@ -4108,16 +5188,44 @@
         "Text": "PHILOS-3T03"
     },
     {
+        "Info": "Reading Course",
+        "Text": "PHILOS-3W03"
+    },
+    {
         "Info": "History of Analytic Philosophy",
         "Text": "PHILOS-4D03"
+    },
+    {
+        "Info": "Topics in Justice, Political Philosophy, and Law",
+        "Text": "PHILOS-4JP3"
+    },
+    {
+        "Info": "Seminar in Ancient Philosophy",
+        "Text": "PHILOS-4K03"
     },
     {
         "Info": "Human Rights and Global Justice",
         "Text": "PHILOS-4S03"
     },
     {
+        "Info": "Special Topics in Philosophy",
+        "Text": "PHILOS-4T03"
+    },
+    {
+        "Info": "Multidisciplinary Workshop in Applied Ethics and Policy",
+        "Text": "PHILOS-4V03"
+    },
+    {
+        "Info": "Independent Study",
+        "Text": "PHILOS-4W03"
+    },
+    {
         "Info": "Law And Community",
         "Text": "PHILOS-4XP3B"
+    },
+    {
+        "Info": "Topics in Ethics",
+        "Text": "PHILOS-4YY3"
     },
     {
         "Info": "Introductory Physics",
@@ -4156,6 +5264,14 @@
         "Text": "PHYSICS-3D03"
     },
     {
+        "Info": "Physics Teaching Placement",
+        "Text": "PHYSICS-3ET3B"
+    },
+    {
+        "Info": "Physics Teaching Placement",
+        "Text": "PHYSICS-3ET3S"
+    },
+    {
         "Info": "Thermodynamics and Statistical Mechanics",
         "Text": "PHYSICS-3K03"
     },
@@ -4172,8 +5288,20 @@
         "Text": "PHYSICS-4F03"
     },
     {
+        "Info": "Independent Study",
+        "Text": "PHYSICS-4IS3"
+    },
+    {
         "Info": "Solid State Physics",
         "Text": "PHYSICS-4K03"
+    },
+    {
+        "Info": "Literature Review",
+        "Text": "PHYSICS-4L03B"
+    },
+    {
+        "Info": "Senior Research Project",
+        "Text": "PHYSICS-4P06B"
     },
     {
         "Info": "Graduate Topics in Physics",
@@ -4182,6 +5310,14 @@
     {
         "Info": "Python for PNB",
         "Text": "PNB-2A03"
+    },
+    {
+        "Info": "Introductory Independent Research",
+        "Text": "PNB-2QQ3B"
+    },
+    {
+        "Info": "Introductory Independent Research",
+        "Text": "PNB-2QQ3S"
     },
     {
         "Info": "Integrative PNB Through Scientific Writing",
@@ -4216,6 +5352,18 @@
         "Text": "PNB-3Q03S"
     },
     {
+        "Info": "Independent Research in Mental Health",
+        "Text": "PNB-3QM3B"
+    },
+    {
+        "Info": "Independent Research in Mental Health",
+        "Text": "PNB-3QM3S"
+    },
+    {
+        "Info": "Independent Research in Mental Health",
+        "Text": "PNB-3QM6B"
+    },
+    {
         "Info": "Intermediate Independent Research",
         "Text": "PNB-3QQ3B"
     },
@@ -4240,6 +5388,14 @@
         "Text": "PNB-4A03"
     },
     {
+        "Info": "Senior Thesis",
+        "Text": "PNB-4D06B"
+    },
+    {
+        "Info": "Senior Honours Thesis",
+        "Text": "PNB-4D09B"
+    },
+    {
         "Info": "Social Diversity through the Lens of Cognitive Neuroscience and Psychology",
         "Text": "PNB-4E03"
     },
@@ -4262,6 +5418,10 @@
     {
         "Info": "Senior Independent Research",
         "Text": "PNB-4QQ3S"
+    },
+    {
+        "Info": "Senior Independent Research",
+        "Text": "PNB-4QQ6B"
     },
     {
         "Info": "Science Communication in the Behavioural Sciences",
@@ -4336,12 +5496,88 @@
         "Text": "POLSCI-3RF3"
     },
     {
+        "Info": "Reading Course",
+        "Text": "POLSCI-3UU3"
+    },
+    {
+        "Info": "Working in Politics",
+        "Text": "POLSCI-3WP3"
+    },
+    {
         "Info": "Democratization and Human Rights",
         "Text": "POLSCI-3Y03"
     },
     {
         "Info": "Contemporary Politics",
         "Text": "POLSCI-4AA6B"
+    },
+    {
+        "Info": "Canadian Foreign Policy",
+        "Text": "POLSCI-4CF3"
+    },
+    {
+        "Info": "Politics of Public Policy",
+        "Text": "POLSCI-4G06B"
+    },
+    {
+        "Info": "Conceptual Issues in Global Politics",
+        "Text": "POLSCI-4GG3"
+    },
+    {
+        "Info": "Critical Theory",
+        "Text": "POLSCI-4HH3"
+    },
+    {
+        "Info": "Human Rights",
+        "Text": "POLSCI-4HR3"
+    },
+    {
+        "Info": "Research on Law and Courts",
+        "Text": "POLSCI-4LC3"
+    },
+    {
+        "Info": "Studies in Global Political Economy",
+        "Text": "POLSCI-4NN3"
+    },
+    {
+        "Info": "Origins of Law",
+        "Text": "POLSCI-4OL3"
+    },
+    {
+        "Info": "Policy Analysis and Implementation",
+        "Text": "POLSCI-4PA3"
+    },
+    {
+        "Info": "Issues in International Politics",
+        "Text": "POLSCI-4QQ3"
+    },
+    {
+        "Info": "Public Opinion and Policy",
+        "Text": "POLSCI-4SS3"
+    },
+    {
+        "Info": "US Foreign Policy",
+        "Text": "POLSCI-4UF3"
+    },
+    {
+        "Info": "Politics of the Welfare State: Contemporary Challenges in Comparative Perspective",
+        "Text": "POLSCI-4WS3"
+    },
+    {
+        "Info": "Child/Youth Rights and Security in Global Political Perspective",
+        "Text": "POLSCI-4YR3"
+    },
+    {
+        "Info": "Honours Essay",
+        "Text": "POLSCI-4Z06B"
+    },
+    {
+        "Info": "Experiential Learning in Research",
+        "Text": "POLSCI-4ZZ3"
+    },
+    {
+        "Info": "Experiential Learning in Research",
+        "Text": "POLSCI-4ZZ6B"
     },
     {
         "Info": "Chemical Engineering II: Energy Balance",
@@ -4366,6 +5602,10 @@
     {
         "Info": "Internet Technologies and Databases",
         "Text": "PROCTECH-4IT3"
+    },
+    {
+        "Info": "Capstone Design Project I",
+        "Text": "PROCTECH-4TR1"
     },
     {
         "Info": "Survey of Psychology",
@@ -4448,6 +5688,10 @@
         "Text": "PSYCH-3SP3"
     },
     {
+        "Info": "Neuroscience of Music",
+        "Text": "PSYCH-4MP3"
+    },
+    {
         "Info": "Intensive Beginner's Russian II",
         "Text": "RUSSIAN-1ZZ3"
     },
@@ -4520,6 +5764,10 @@
         "Text": "SCAR-3C03"
     },
     {
+        "Info": "Anthropology of Ethics",
+        "Text": "SCAR-3ET3"
+    },
+    {
         "Info": "Gender and Religion",
         "Text": "SCAR-3FF3"
     },
@@ -4540,6 +5788,14 @@
         "Text": "SCAR-3X03"
     },
     {
+        "Info": "Advanced Readings in Society, Culture and Religion",
+        "Text": "SCAR-4Q03"
+    },
+    {
+        "Info": "Honours Thesis",
+        "Text": "SCAR-4R06B"
+    },
+    {
         "Info": "Foundations in Science Communication",
         "Text": "SCICOMM-2A03"
     },
@@ -4550,6 +5806,10 @@
     {
         "Info": "Communicating Science for Professional Audiences",
         "Text": "SCICOMM-3PP3"
+    },
+    {
+        "Info": "Independent Project in Science Communication",
+        "Text": "SCICOMM-4A03"
     },
     {
         "Info": "Foundations of Science: Equity, Justice and Anti-Racism in Science",
@@ -4566,6 +5826,62 @@
     {
         "Info": "Impactful Initiatives in Health",
         "Text": "SCIENCE-2P03"
+    },
+    {
+        "Info": "Applied Science Placement",
+        "Text": "SCIENCE-3EP3B"
+    },
+    {
+        "Info": "Applied Science Placement",
+        "Text": "SCIENCE-3EP3S"
+    },
+    {
+        "Info": "Applied Science Placement",
+        "Text": "SCIENCE-3EX6B"
+    },
+    {
+        "Info": "Undergraduate Science Internship",
+        "Text": "SCIENCE-3IE0"
+    },
+    {
+        "Info": "Undergraduate Science Internship",
+        "Text": "SCIENCE-3IF0"
+    },
+    {
+        "Info": "Undergraduate Science Internship",
+        "Text": "SCIENCE-3IG0"
+    },
+    {
+        "Info": "Undergraduate Science Internship",
+        "Text": "SCIENCE-3IH0"
+    },
+    {
+        "Info": "Research Practicum",
+        "Text": "SCIENCE-3RP3B"
+    },
+    {
+        "Info": "Research Practicum",
+        "Text": "SCIENCE-3RP3S"
+    },
+    {
+        "Info": "Science Co-op Work Term",
+        "Text": "SCIENCE-3WT0"
+    },
+    {
+        "Info": "Science Co-op Work Term",
+        "Text": "SCIENCE-3WW0"
+    },
+    {
+        "Info": "Science Co-op Work Term",
+        "Text": "SCIENCE-4WT0"
+    },
+    {
+        "Info": "Science Co-op Work Term",
+        "Text": "SCIENCE-4WW0"
+    },
+    {
+        "Info": "Science Co-op Work Term",
+        "Text": "SCIENCE-5WT0"
     },
     {
         "Info": "Creativity, Innovation and Technology",
@@ -4808,8 +6124,36 @@
         "Text": "SOCIOL-3VV3"
     },
     {
+        "Info": "Critical Analysis of Media",
+        "Text": "SOCIOL-4CM3"
+    },
+    {
+        "Info": "Social Movements and Social Change",
+        "Text": "SOCIOL-4DD3"
+    },
+    {
         "Info": "Applications of Quantitative Methods in the Social Sciences",
         "Text": "SOCIOL-4FF3"
+    },
+    {
+        "Info": "Directed Research for Honours Students",
+        "Text": "SOCIOL-4MM6B"
+    },
+    {
+        "Info": "Directed Research II for Honours Students",
+        "Text": "SOCIOL-4N03"
+    },
+    {
+        "Info": "Meeting the Challenge of a Changing Climate",
+        "Text": "SOCIOL-4NN3"
+    },
+    {
+        "Info": "The Sociological Indian: What is reconciliation and decolonization and why does it matter?",
+        "Text": "SOCIOL-4RD3"
+    },
+    {
+        "Info": "Social Media, Sex, and Inequality in Intimate Relationships",
+        "Text": "SOCIOL-4SI3"
     },
     {
         "Info": "Social Problems",
@@ -4848,6 +6192,10 @@
         "Text": "SOCPSY-3F03"
     },
     {
+        "Info": "Research Experience",
+        "Text": "SOCPSY-3K03"
+    },
+    {
         "Info": "Advanced Research Methods",
         "Text": "SOCPSY-3L03"
     },
@@ -4868,12 +6216,28 @@
         "Text": "SOCPSY-3ZZ3"
     },
     {
+        "Info": "Advanced Research Experience",
+        "Text": "SOCPSY-4A03"
+    },
+    {
         "Info": "Special Topics in Social Psychology",
         "Text": "SOCPSY-4B03"
     },
     {
         "Info": "Special Topics in Social Psychology",
         "Text": "SOCPSY-4E03"
+    },
+    {
+        "Info": "Independent Research",
+        "Text": "SOCPSY-4IS3"
+    },
+    {
+        "Info": "Independent Research",
+        "Text": "SOCPSY-4IS6B"
+    },
+    {
+        "Info": "Social Psychology Research Project",
+        "Text": "SOCPSY-4ZZ6B"
     },
     {
         "Info": "How do we Know? Doing Social Sciences Research",
@@ -4890,6 +6254,10 @@
     {
         "Info": "Introduction to Business for Social Sciences",
         "Text": "SOCSCI-2BU3"
+    },
+    {
+        "Info": "Disability Management Capstone Project",
+        "Text": "SOCSCI-2CP3"
     },
     {
         "Info": "Career Preparation in the Social Sciences",
@@ -4932,6 +6300,26 @@
         "Text": "SOCSCI-2WF3"
     },
     {
+        "Info": "Social Sciences Experiential Project",
+        "Text": "SOCSCI-3EP3"
+    },
+    {
+        "Info": "Full-Time Internship",
+        "Text": "SOCSCI-3IF0B"
+    },
+    {
+        "Info": "Full-Time Internship",
+        "Text": "SOCSCI-3IF0S"
+    },
+    {
+        "Info": "Part-Time Internship",
+        "Text": "SOCSCI-3IP0B"
+    },
+    {
+        "Info": "Part-Time Internship",
+        "Text": "SOCSCI-3IP0S"
+    },
+    {
         "Info": "Re-Imagining Help: Introduction to Social Work II",
         "Text": "SOCWORK-1BB3"
     },
@@ -4946,6 +6334,10 @@
     {
         "Info": "General Social Work I",
         "Text": "SOCWORK-3D06B"
+    },
+    {
+        "Info": "Field Practicum I",
+        "Text": "SOCWORK-3DD6B"
     },
     {
         "Info": "Social Work with Groups",
@@ -4964,8 +6356,16 @@
         "Text": "SOCWORK-4D06B"
     },
     {
+        "Info": "Field Practicum II",
+        "Text": "SOCWORK-4DD6B"
+    },
+    {
         "Info": "Social Change: Social Movements and Advocacy",
         "Text": "SOCWORK-4J03"
+    },
+    {
+        "Info": "Critical Child Welfare: From Theory to Practice",
+        "Text": "SOCWORK-4SA3"
     },
     {
         "Info": "Child Welfare",
@@ -5022,6 +6422,10 @@
     {
         "Info": "Advanced Topics in Actuarial Science",
         "Text": "STATS-4G03"
+    },
+    {
+        "Info": "Senior Research Project",
+        "Text": "STATS-4T06B"
     },
     {
         "Info": "Reading in Statistics",
@@ -5128,7 +6532,15 @@
         "Text": "WORKLABR-3D03"
     },
     {
+        "Info": "Work and Labour Studies Practicum",
+        "Text": "WORKLABR-4A06B"
+    },
+    {
         "Info": "Public Sector Collective Bargaining",
         "Text": "WORKLABR-4C03"
+    },
+    {
+        "Info": "Work and the Environment",
+        "Text": "WORKLABR-4F03"
     }
 ]
