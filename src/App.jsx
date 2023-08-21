@@ -72,6 +72,7 @@ function App() {
     event.preventDefault();
     setLoading(true);
     setSelectedSections(null);
+    setSelectedRows({}); // Add this line to reset the selected rows
 
     // Send a request to the Flask API
     const response = await fetch(
@@ -87,6 +88,10 @@ function App() {
       setButtonText("Too Many Requests");
       return;
     }
+
+    // Reset the button text to normal if status is not 400 or 429
+    setButtonText("Search");
+
     const json = await response.json();
 
     // Update the data state variable with the result
@@ -237,6 +242,8 @@ function App() {
                   onChange={(event) => {
                     setTerm(event.target.value);
                     setSelectedOption(null);
+                    setData(null); // Clear the data state here
+                    setShowContact(false);
                   }}
                   sx={{
                     display: "flex",
@@ -491,6 +498,7 @@ function App() {
                         variant="contained"
                         color="primary"
                         onClick={handleClose}
+                        sx={{ borderRadius: "1.5em" }}
                       >
                         Close
                       </Button>
