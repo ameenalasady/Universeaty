@@ -381,11 +381,14 @@ function App() {
                                     return [key, rowData.section, rowData.key];
                                   }
                                 );
-                                setSelectedRows((prevSelectedRows) => ({
-                                  ...prevSelectedRows,
-                                  [key]: selectedRowsForKey,
-                                }));
-                                // console.log(selectedRows);
+                                setSelectedRows((prevSelectedRows) => {
+                                  const updatedSelectedRows = {
+                                    ...prevSelectedRows,
+                                    [key]: selectedRowsForKey,
+                                  };
+                                  // console.log(updatedSelectedRows); // Added line to print the updated selectedRows object
+                                  return updatedSelectedRows;
+                                });
                               }}
                             />
                           </div>
@@ -462,7 +465,13 @@ function App() {
                       fontWeight: "bold",
                     }}
                     onClick={handleButtonClick}
-                    disabled={buttonLoading}
+                    disabled={
+                      buttonLoading ||
+                      error ||
+                      Object.values(selectedRows).every(
+                        (arr) => arr.length === 0
+                      )
+                    }
                   >
                     {buttonLoading ? <CircularProgress size={20} /> : "Track"}
                   </Button>
