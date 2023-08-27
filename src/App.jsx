@@ -522,17 +522,7 @@ function App() {
 
       <footer className={`footer ${!data ? "fixed-footer" : ""}`}>
         <div className="footercontainer">
-          <p className="footer-paragraph2">
-            This open source tool was made by{" "}
-            <a href="https://github.com/ameenalasady" target="_blank">
-              Ameen
-            </a>{" "}
-            and{" "}
-            <a href="https://github.com/malasadi" target="_blank">
-              Mohammed Al-Asadi
-            </a>
-            .
-          </p>
+          <p className="footer-paragraph2">This tool is fully open source.</p>
           <p className="footer-paragraph3">
             Check out the{" "}
             <a
