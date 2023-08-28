@@ -148,7 +148,7 @@ function App() {
         setReason(reason);
         setOpen(true);
       } else if (response.status === 429) {
-        setReason("Too Many Requests");
+        setReason("Too many requests. Current limit is 10 requests per hour.");
         setOpen(true);
       }
     }
