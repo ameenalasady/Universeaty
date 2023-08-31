@@ -356,13 +356,14 @@ function App() {
                               checkboxSelection
                               getRowId={(row) => row.key}
                               isRowSelectable={(params) =>
-                                params.row.open_seats === 0
-                              }
+                                params.row.open_seats < 1
+                              } // changed from params.row.open_seats === 0
                               headerSelection={false}
-                              getCellClassName={(params) =>
-                                params.row.open_seats !== 0
-                                  ? "unselectable"
-                                  : ""
+                              getCellClassName={
+                                (params) =>
+                                  params.row.open_seats > 0
+                                    ? "unselectable"
+                                    : "" // changed from params.row.open_seats !== 0
                               }
                               sortModel={[
                                 {
