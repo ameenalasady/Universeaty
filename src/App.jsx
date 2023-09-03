@@ -471,7 +471,8 @@ function App() {
                       error ||
                       Object.values(selectedRows).every(
                         (arr) => arr.length === 0
-                      )
+                      ) ||
+                      (inputRef.current && inputRef.current.value === "")
                     }
                   >
                     {buttonLoading ? <CircularProgress size={20} /> : "Track"}
