@@ -94,8 +94,11 @@ function App() {
 
     const json = await response.json();
 
+    // Get the first returned object
+    const firstObject = Object.values(json)[0];
+
     // Update the data state variable with the result
-    setData(json);
+    setData(firstObject);
     setLoading(false);
     setSelectedSections(true);
     setShowContact(true);
