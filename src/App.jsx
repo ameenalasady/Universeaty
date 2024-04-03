@@ -554,7 +554,9 @@ function App() {
             for more information.
           </p>
 
-          <p className="footer-paragraph1">© 2023 universeaty.ca</p>
+          <p className="footer-paragraph1">
+            © universeaty.ca, {new Date().getFullYear()}
+          </p>
         </div>
       </footer>
 
