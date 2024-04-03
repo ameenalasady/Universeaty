@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import "./App.css";
 import courses3202330 from "./3202330.json";
 import courses3202340 from "./3202340.json";
+import courses3202450 from "./3202450.json";
 import { ReactComponent as Logo } from "./logo.svg";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import { DataGrid } from "@mui/x-data-grid";
@@ -266,13 +267,27 @@ function App() {
                     control={<Radio />}
                     label="Winter 2024"
                   />
+
+                  <FormControlLabel
+                    value="3202450"
+                    control={<Radio />}
+                    label="Spring/Summer 2024"
+                  />
                 </RadioGroup>
               </Box>
             </FormControl>
 
             <Autocomplete
               filterOptions={filterOptions}
-              options={term === "3202330" ? courses3202330 : courses3202340}
+              options={
+                term === "3202330"
+                  ? courses3202330
+                  : term === "3202340"
+                  ? courses3202340
+                  : term === "3202450"
+                  ? courses3202450
+                  : []
+              }
               getOptionLabel={(option) => option.Text}
               renderOption={(props, option) => (
                 <li {...props}>
