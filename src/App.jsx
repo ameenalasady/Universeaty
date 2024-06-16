@@ -3,6 +3,9 @@ import "./App.css";
 import courses3202330 from "./3202330.json";
 import courses3202340 from "./3202340.json";
 import courses3202450 from "./3202450.json";
+import courses3202430 from "./3202430.json";
+import courses3202510 from "./3202510.json";
+
 import { ReactComponent as Logo } from "./logo.svg";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import { DataGrid } from "@mui/x-data-grid";
@@ -49,7 +52,7 @@ const isValidPhone = (phone) => {
 
 function App() {
   const [courseCode, setCourseCode] = useState("");
-  const [term, setTerm] = useState("3202330");
+  const [term, setTerm] = useState("3202430");
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(false);
   const [selectedOption, setSelectedOption] = useState(null);
@@ -257,15 +260,15 @@ function App() {
                   }}
                 >
                   <FormControlLabel
-                    value="3202330"
+                    value="3202430"
                     control={<Radio />}
-                    label="Fall 2023"
+                    label="Fall 2024"
                   />
 
                   <FormControlLabel
-                    value="3202340"
+                    value="3202510"
                     control={<Radio />}
-                    label="Winter 2024"
+                    label="Winter 2025"
                   />
 
                   <FormControlLabel
@@ -280,10 +283,10 @@ function App() {
             <Autocomplete
               filterOptions={filterOptions}
               options={
-                term === "3202330"
-                  ? courses3202330
-                  : term === "3202340"
-                  ? courses3202340
+                term === "3202430"
+                  ? courses3202430
+                  : term === "3202510"
+                  ? courses3202510
                   : term === "3202450"
                   ? courses3202450
                   : []
