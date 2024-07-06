@@ -1,14 +1,7 @@
 // TermSelection.jsx
 
 import React from "react";
-import { useState } from "react";
-import {
-  FormControl,
-  RadioGroup,
-  FormControlLabel,
-  Radio,
-  Box,
-} from "@mui/material";
+import { FormControl, Select, MenuItem, Box } from "@mui/material";
 
 const TermSelection = ({
   term,
@@ -18,41 +11,25 @@ const TermSelection = ({
   setShowContact,
 }) => {
   return (
-    <FormControl component="fieldset">
+    <FormControl fullWidth>
       <Box>
-        <RadioGroup
+        <Select
           value={term}
           onChange={(event) => {
             setTerm(event.target.value);
             setSelectedOption(null);
-            setData(null); // Clear the data state here
+            setData(null);
             setShowContact(false);
           }}
           sx={{
-            display: "flex",
-            flexDirection: "row",
-            alignItems: "center",
-            flexWrap: "nowrap",
+            borderRadius: "1.5em",
+            width: "250px",
           }}
         >
-          <FormControlLabel
-            value="3202430"
-            control={<Radio />}
-            label="Fall 2024"
-          />
-
-          <FormControlLabel
-            value="3202510"
-            control={<Radio />}
-            label="Winter 2025"
-          />
-
-          <FormControlLabel
-            value="3202450"
-            control={<Radio />}
-            label="Spring/Summer 2024"
-          />
-        </RadioGroup>
+          <MenuItem value="3202430">Fall 2024</MenuItem>
+          <MenuItem value="3202510">Winter 2025</MenuItem>
+          <MenuItem value="3202450">Spring/Summer 2024</MenuItem>
+        </Select>
       </Box>
     </FormControl>
   );
