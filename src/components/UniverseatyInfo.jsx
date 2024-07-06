@@ -5,7 +5,7 @@ const UniverseatyInfo = () => {
     <div className="modivcontainer">
       <div className="modiv">
         <div className="moimgcontainer">
-          <img className="moimg" src="template.png" alt="templateimg" />
+          <img className="moimg" src="darkPic.svg" alt="templateimg" />
         </div>
 
         <div className="motext">

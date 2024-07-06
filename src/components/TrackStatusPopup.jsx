@@ -24,12 +24,22 @@ const TrackStatusPopup = ({ open, handleClose, reason }) => {
           p: 4,
         }}
       >
-        <Typography id="modal-modal-title" variant="h6" component="h2">
+        <Typography
+          id="modal-modal-title"
+          variant="h6"
+          component="h2"
+          style={{ color: "white" }}
+        >
           {reason ? "Error" : "Success!"}
         </Typography>
-        <Typography id="modal-modal-description" sx={{ mt: 2 }}>
+        <Typography
+          id="modal-modal-description"
+          sx={{ mt: 2 }}
+          style={{ color: "white" }}
+        >
           {reason ? reason : "Your request was made successfully."}
         </Typography>
+
         <Button
           variant="contained"
           color="primary"
