@@ -376,7 +376,7 @@
         "Text": "ANTHROP-2WA3"
     },
     {
-        "Info": "(Not available in any term) Ancient Agriculture to Criminal Investigations: Paleoethnobotany in Practice",
+        "Info": "(Winter 2025, 2025 Winter only) Ancient Agriculture to Criminal Investigations: Paleoethnobotany in Practice",
         "Text": "ANTHROP-3BB3"
     },
     {
@@ -2376,6 +2376,10 @@
         "Text": "COMMERCE-4FM3"
     },
     {
+        "Info": "(Winter 2025, 2025 Winter only) Pension, Retirement and Estate Planning",
+        "Text": "COMMERCE-4FS3"
+    },
+    {
         "Info": "(Winter 2025, 2025 Winter only) Venture Capital",
         "Text": "COMMERCE-4FV3"
     },
@@ -2518,6 +2522,10 @@
     {
         "Info": "(Winter 2025, 2025 Winter only) Introduction to Neural Networks and Machine Learning",
         "Text": "DATASCI-3ML3"
+    },
+    {
+        "Info": "(Not available in any term) Data Analysis Project Course",
+        "Text": "DATASCI-4X03"
     },
     {
         "Info": "Earth and the Environment",
@@ -2664,10 +2672,6 @@
         "Text": "ECON-3MP3"
     },
     {
-        "Info": "Industrial Organization",
-        "Text": "ECON-3S03"
-    },
-    {
         "Info": "Economic Development",
         "Text": "ECON-3T03"
     },
@@ -2714,6 +2718,10 @@
     {
         "Info": "Advanced Probability and Random Processes",
         "Text": "ELECENG-3TQ3"
+    },
+    {
+        "Info": "Biomedical Instrumentation",
+        "Text": "ELECENG-4BD4"
     },
     {
         "Info": "Control System Design",
@@ -3124,10 +3132,6 @@
         "Text": "ENVIRSC-2C03"
     },
     {
-        "Info": "Water and the Environment",
-        "Text": "ENVIRSC-2WW3"
-    },
-    {
         "Info": "Internship in Earth and Environmental Sciences",
         "Text": "ENVIRSC-3IN3"
     },
@@ -3304,7 +3308,7 @@
         "Text": "EARTHSC-3K03"
     },
     {
-        "Info": "(Not available in any term) Paleoecology",
+        "Info": "(Winter 2025, 2025 Winter only) Paleoecology",
         "Text": "EARTHSC-3P03"
     },
     {
@@ -3410,10 +3414,6 @@
     {
         "Info": "(Winter 2025, 2025 Winter only) Cellular Bioelectricity",
         "Text": "ELECENG-4BB3"
-    },
-    {
-        "Info": "(Not available in any term) Biomedical Instrumentation",
-        "Text": "ELECENG-4BD4"
     },
     {
         "Info": "(Winter 2025, 2025 Winter only) Advanced Medical Imaging",
@@ -3640,10 +3640,6 @@
         "Text": "ENGPHYS-4S04"
     },
     {
-        "Info": "(Not available in any term) Introduction to Photovoltaics",
-        "Text": "ENGPHYS-4X03"
-    },
-    {
         "Info": "(Winter 2025, 2025 Winter only) Case Studies in History and Technology",
         "Text": "ENGSOCTY-2Y03"
     },
@@ -3726,6 +3722,10 @@
     {
         "Info": "(Winter 2025, 2025 Winter only) Physical Hydrology",
         "Text": "ENVIRSC-2W03"
+    },
+    {
+        "Info": "(2024 Spring/Summer, Winter 2025, and 2025 Winter only) Water and the Environment",
+        "Text": "ENVIRSC-2WW3"
     },
     {
         "Info": "(Winter 2025, 2025 Winter only) Advanced Physical Climatology",
@@ -3992,6 +3992,10 @@
         "Text": "GENTECH-3MT3"
     },
     {
+        "Info": "Legal and Regulatory Issues",
+        "Text": "GENTECH-4EM3"
+    },
+    {
         "Info": "Entrepreneurial Thinking and Innovation",
         "Text": "GENTECH-4EN3"
     },
@@ -4146,10 +4150,6 @@
     {
         "Info": "(Winter 2025, 2025 Winter only) Creativity, Innovation and Technology",
         "Text": "GENTECH-3DM3"
-    },
-    {
-        "Info": "(2024 Spring/Summer only) Legal and Regulatory Issues",
-        "Text": "GENTECH-4EM3"
     },
     {
         "Info": "(Winter 2025, 2025 Winter only) Entrepreneurial Thinking and Innovation",
@@ -4504,16 +4504,16 @@
         "Text": "HTHSCI-2D06A"
     },
     {
+        "Info": "Global Health and the Complexities of Disease",
+        "Text": "HTHSCI-2DS3"
+    },
+    {
         "Info": "Inquiry II: Biochemistry",
         "Text": "HTHSCI-2E03"
     },
     {
         "Info": "Human Physiology and Anatomy I",
         "Text": "HTHSCI-2F03"
-    },
-    {
-        "Info": "Foundations for Inquiry in Anatomy & Physiology",
-        "Text": "HTHSCI-2FA3"
     },
     {
         "Info": "Statistics & Epidemiology 1",
@@ -4548,6 +4548,10 @@
         "Text": "HTHSCI-2X03A"
     },
     {
+        "Info": "Indigenous Health",
+        "Text": "HTHSCI-3AH3"
+    },
+    {
         "Info": "Human Biochemistry II: Nutrition and Metabolism",
         "Text": "HTHSCI-3BB3"
     },
@@ -4562,6 +4566,14 @@
     {
         "Info": "Advanced Nursing Concepts in Continence Care",
         "Text": "HTHSCI-3BG3"
+    },
+    {
+        "Info": "Introduction to Computational Biology",
+        "Text": "HTHSCI-3CB3"
+    },
+    {
+        "Info": "Theatre for Development",
+        "Text": "HTHSCI-3CC3"
     },
     {
         "Info": "CHS Inquiry Intermediate",
@@ -4580,12 +4592,32 @@
         "Text": "HTHSCI-3CV3A"
     },
     {
+        "Info": "Demystifying Medicine",
+        "Text": "HTHSCI-3DM3"
+    },
+    {
+        "Info": "Demystifying Research",
+        "Text": "HTHSCI-3DR3"
+    },
+    {
+        "Info": "Donation & Transplantation",
+        "Text": "HTHSCI-3DT3"
+    },
+    {
+        "Info": "Inquiry III: Advanced Inquiry in Health Sciences",
+        "Text": "HTHSCI-3E03"
+    },
+    {
         "Info": "Introduction to Expressive Arts Therapy",
         "Text": "HTHSCI-3EA3"
     },
     {
         "Info": "Epigenetics: Linking Nature and Nuture",
         "Text": "HTHSCI-3EP3"
+    },
+    {
+        "Info": "Science of Fictional Characters",
+        "Text": "HTHSCI-3FC3"
     },
     {
         "Info": "Health Systems and Health Policy",
@@ -4608,12 +4640,20 @@
         "Text": "HTHSCI-3K03"
     },
     {
+        "Info": "Critical Examination of Mental Health",
+        "Text": "HTHSCI-3MH3"
+    },
+    {
         "Info": "Practicum in Medical Research",
         "Text": "HTHSCI-3MR6A"
     },
     {
         "Info": "Music, Health, & the Community",
         "Text": "HTHSCI-3MU3"
+    },
+    {
+        "Info": "Creative Writing in the Health Sciences",
+        "Text": "HTHSCI-3N03"
     },
     {
         "Info": "Inquiry in Perinatal & Reproductive Health",
@@ -4632,8 +4672,16 @@
         "Text": "HTHSCI-3QA3"
     },
     {
+        "Info": "Communication Skills",
+        "Text": "HTHSCI-3S03"
+    },
+    {
         "Info": "Surviving Survivor: Insights from Reality TV for Real Life",
         "Text": "HTHSCI-3SS3"
+    },
+    {
+        "Info": "Inquiry into Work, Self and Purpose",
+        "Text": "HTHSCI-3T03"
     },
     {
         "Info": "What Trauma Teaches: Lessons from Listening",
@@ -5196,8 +5244,8 @@
         "Text": "HTHSCI-2D06B"
     },
     {
-        "Info": "(Not available in any term) Global Health and the Complexities of Disease",
-        "Text": "HTHSCI-2DS3"
+        "Info": "(Not available in any term) Foundations for Inquiry in Anatomy & Physiology",
+        "Text": "HTHSCI-2FA3"
     },
     {
         "Info": "(Winter 2025, 2025 Winter only) Inquiry in Anatomy & Physiology",
@@ -5240,24 +5288,12 @@
         "Text": "HTHSCI-2X03B"
     },
     {
-        "Info": "(Not available in any term) Indigenous Health",
-        "Text": "HTHSCI-3AH3"
-    },
-    {
         "Info": "(Winter 2025, 2025 Winter only) Symptomatology",
         "Text": "HTHSCI-3BA3"
     },
     {
         "Info": "(Winter 2025, 2025 Winter only) Research Appraisal and Utilization in Evidence Informed Decision Making",
         "Text": "HTHSCI-3C04"
-    },
-    {
-        "Info": "(Not available in any term) Introduction to Computational Biology",
-        "Text": "HTHSCI-3CB3"
-    },
-    {
-        "Info": "(Not available in any term) Theatre for Development",
-        "Text": "HTHSCI-3CC3"
     },
     {
         "Info": "(Winter 2025, 2025 Winter only) CHS Research Practicum",
@@ -5296,32 +5332,12 @@
         "Text": "HTHSCI-3DH3"
     },
     {
-        "Info": "(Not available in any term) Demystifying Medicine",
-        "Text": "HTHSCI-3DM3"
-    },
-    {
-        "Info": "(Winter 2025, 2025 Winter only) Demystifying Research",
-        "Text": "HTHSCI-3DR3"
-    },
-    {
-        "Info": "(Not available in any term) Donation & Transplantation",
-        "Text": "HTHSCI-3DT3"
-    },
-    {
-        "Info": "(Not available in any term) Inquiry III: Advanced Inquiry in Health Sciences",
-        "Text": "HTHSCI-3E03"
-    },
-    {
-        "Info": "(Not available in any term) Biomedical Graphics",
+        "Info": "(Winter 2025, 2025 Winter only) Biomedical Graphics",
         "Text": "HTHSCI-3EE3"
     },
     {
         "Info": "(Not available in any term) Inquiry in Anatomy & Physiology",
         "Text": "HTHSCI-3F03"
-    },
-    {
-        "Info": "(Not available in any term) Science of Fictional Characters",
-        "Text": "HTHSCI-3FC3"
     },
     {
         "Info": "(2024 Spring/Summer, Winter 2025, and 2025 Winter only) Critical Appraisal of the Health Literature",
@@ -5344,7 +5360,7 @@
         "Text": "HTHSCI-3H06S"
     },
     {
-        "Info": "(Not available in any term) Deceptions in Decision Making",
+        "Info": "(Winter 2025, 2025 Winter only) Deceptions in Decision Making",
         "Text": "HTHSCI-3HH3"
     },
     {
@@ -5368,16 +5384,8 @@
         "Text": "HTHSCI-3MB3"
     },
     {
-        "Info": "(Not available in any term) Critical Examination of Mental Health",
-        "Text": "HTHSCI-3MH3"
-    },
-    {
         "Info": "(Winter 2025, 2025 Winter only) Practicum in Medical Research.",
         "Text": "HTHSCI-3MR6B"
-    },
-    {
-        "Info": "(Not available in any term) Creative Writing in the Health Sciences",
-        "Text": "HTHSCI-3N03"
     },
     {
         "Info": "(Winter 2025, 2025 Winter only) Integrated Pathophysiology for Nursing",
@@ -5396,20 +5404,12 @@
         "Text": "HTHSCI-3RH3"
     },
     {
-        "Info": "(Not available in any term) Exploring the Foundations of Rehabilitation Sciences",
+        "Info": "(Winter 2025, 2025 Winter only) Exploring the Foundations of Rehabilitation Sciences",
         "Text": "HTHSCI-3RS3"
     },
     {
-        "Info": "(Not available in any term) Communication Skills",
-        "Text": "HTHSCI-3S03"
-    },
-    {
-        "Info": "(Not available in any term) Superbugs: Bacterial Antibiotic Resistance",
+        "Info": "(Winter 2025, 2025 Winter only) Superbugs: Bacterial Antibiotic Resistance",
         "Text": "HTHSCI-3SB3"
-    },
-    {
-        "Info": "(Not available in any term) Inquiry into Work, Self and Purpose",
-        "Text": "HTHSCI-3T03"
     },
     {
         "Info": "(Winter 2025, 2025 Winter only) Medical Genetics",
@@ -5656,7 +5656,7 @@
         "Text": "HTHSCI-4WW3B"
     },
     {
-        "Info": "(Winter 2025, 2025 Winter only) Praxis Pathways 4: Synthesis",
+        "Info": "(Not available in any term) Praxis Pathways 4: Synthesis",
         "Text": "HTHSCI-4XP0"
     },
     {
@@ -5664,7 +5664,7 @@
         "Text": "HTHSCI-4XP3B"
     },
     {
-        "Info": "(Not available in any term) Professional Transitions",
+        "Info": "(Winter 2025, 2025 Winter only) Professional Transitions",
         "Text": "HTHSCI-4XX3"
     },
     {
@@ -6812,6 +6812,10 @@
         "Text": "KINESIOL-4RR6B"
     },
     {
+        "Info": "(Winter 2025, 2025 Winter only) Thesis",
+        "Text": "KINESIOL-4RR9B"
+    },
+    {
         "Info": "(Winter 2025, 2025 Winter only) Selected Topics in Kinesiology II",
         "Text": "KINESIOL-4VV3"
     },
@@ -7484,8 +7488,8 @@
         "Text": "MECHENG-3O04"
     },
     {
-        "Info": "Topics in Product Development",
-        "Text": "MECHENG-4B03"
+        "Info": "Applied Artificial Intelligence",
+        "Text": "MECHENG-4AI3"
     },
     {
         "Info": "Biomechanics",
@@ -8308,8 +8312,8 @@
         "Text": "MECHENG-4AA3"
     },
     {
-        "Info": "(Not available in any term) Applied Artificial Intelligence",
-        "Text": "MECHENG-4AI3"
+        "Info": "(Winter 2025, 2025 Winter only) Topics in Product Development",
+        "Text": "MECHENG-4B03"
     },
     {
         "Info": "(Winter 2025, 2025 Winter only) Experimental and Computational Biomechanics",
@@ -8980,6 +8984,10 @@
         "Text": "NURSING-3X04"
     },
     {
+        "Info": "Foundations of Adult Critical Care Nursing",
+        "Text": "NURSING-4CC3"
+    },
+    {
         "Info": "Professional Nursing Practice VI",
         "Text": "NURSING-4J07"
     },
@@ -9096,7 +9104,7 @@
         "Text": "NURSING-2NN3"
     },
     {
-        "Info": "(Not available in any term) Professional Nursing Practice III for Basic Stream",
+        "Info": "(Winter 2025, 2025 Winter only) Professional Nursing Practice III for Basic Stream",
         "Text": "NURSING-2P03"
     },
     {
@@ -9458,6 +9466,10 @@
     {
         "Info": "Global Politics",
         "Text": "POLSCI-2I03"
+    },
+    {
+        "Info": "Governance, Representation, and Participation in Democracies",
+        "Text": "POLSCI-2M03"
     },
     {
         "Info": "Politics by Design",
@@ -9948,7 +9960,7 @@
         "Text": "PNB-3V03"
     },
     {
-        "Info": "(Not available in any term) Integrative Mentor: Learning to Write through Student Editing",
+        "Info": "(Winter 2025, 2025 Winter only) Integrative Mentor: Learning to Write through Student Editing",
         "Text": "PNB-3XD3B"
     },
     {
@@ -10000,10 +10012,6 @@
         "Text": "POLSCI-2LW3"
     },
     {
-        "Info": "(Not available in any term) Governance, Representation, and Participation in Democracies",
-        "Text": "POLSCI-2M03"
-    },
-    {
         "Info": "(Winter 2025, 2025 Winter only) Political Theory",
         "Text": "POLSCI-2O06B"
     },
@@ -10020,7 +10028,7 @@
         "Text": "POLSCI-2PP3"
     },
     {
-        "Info": "(Not available in any term) Public Policy and Administration",
+        "Info": "(Winter 2025, 2025 Winter only) Public Policy and Administration",
         "Text": "POLSCI-2U03"
     },
     {
@@ -10474,6 +10482,10 @@
     {
         "Info": "Management Principles",
         "Text": "SFGNTECH-3MP3"
+    },
+    {
+        "Info": "Legal and Regulatory Issues",
+        "Text": "SFGNTECH-4EM3"
     },
     {
         "Info": "Entrepreneurial Thinking and Innovation",
@@ -11012,6 +11024,10 @@
         "Text": "STATS-3A03"
     },
     {
+        "Info": "Advancing Tomorrow's Actuaries",
+        "Text": "STATS-3AT3"
+    },
+    {
         "Info": "Mathematical Statistics",
         "Text": "STATS-3D03"
     },
@@ -11100,7 +11116,7 @@
         "Text": "SCAR-2AR3"
     },
     {
-        "Info": "(Not available in any term) Religion, the Body, and the Machine",
+        "Info": "(Winter 2025, 2025 Winter only) Religion, the Body, and the Machine",
         "Text": "SCAR-2ER3"
     },
     {
@@ -11160,11 +11176,11 @@
         "Text": "SCAR-3UU3"
     },
     {
-        "Info": "(Not available in any term) Love",
+        "Info": "(Winter 2025, 2025 Winter only) Love",
         "Text": "SCAR-3Y03"
     },
     {
-        "Info": "(Not available in any term) Judaism in the Modern World",
+        "Info": "(Winter 2025, 2025 Winter only) Judaism in the Modern World",
         "Text": "SCAR-3ZZ3"
     },
     {
@@ -11208,12 +11224,12 @@
         "Text": "SCIENCE-3RP3B"
     },
     {
-        "Info": "(Winter 2025, 2025 Winter only) Creativity, Innovation and Technology",
-        "Text": "SFGNTECH-3DM3"
+        "Info": "(Winter 2025, 2025 Winter only) Inquiry in Equity, Justice and Anti-Racism in Science",
+        "Text": "SCIENCE-4AR6"
     },
     {
-        "Info": "(2024 Spring/Summer only) Legal and Regulatory Issues",
-        "Text": "SFGNTECH-4EM3"
+        "Info": "(Winter 2025, 2025 Winter only) Creativity, Innovation and Technology",
+        "Text": "SFGNTECH-3DM3"
     },
     {
         "Info": "(2024 Spring/Summer, Winter 2025, and 2025 Winter only) Fundamentals of Marketing",
@@ -11268,7 +11284,7 @@
         "Text": "SFWRENG-4C03"
     },
     {
-        "Info": "(Not available in any term) Computational Modeling for Cognitive Neuroscience",
+        "Info": "(Winter 2025, 2025 Winter only) Computational Modeling for Cognitive Neuroscience",
         "Text": "SFWRENG-4CN3"
     },
     {

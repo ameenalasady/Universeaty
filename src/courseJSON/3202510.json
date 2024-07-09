@@ -44,6 +44,10 @@
         "Text": "ANTHROP-2WA3"
     },
     {
+        "Info": "Ancient Agriculture to Criminal Investigations: Paleoethnobotany in Practice",
+        "Text": "ANTHROP-3BB3"
+    },
+    {
         "Info": "Comparative Mythology",
         "Text": "ANTHROP-3G03"
     },
@@ -334,10 +338,6 @@
     {
         "Info": "(2024 Fall only) Culture and Religion",
         "Text": "ANTHROP-3AR3"
-    },
-    {
-        "Info": "(Not available in any term) Ancient Agriculture to Criminal Investigations: Paleoethnobotany in Practice",
-        "Text": "ANTHROP-3BB3"
     },
     {
         "Info": "(Not available in any term) Archaeological Field School",
@@ -1676,6 +1676,10 @@
         "Text": "COMMERCE-4FM3"
     },
     {
+        "Info": "Pension, Retirement and Estate Planning",
+        "Text": "COMMERCE-4FS3"
+    },
+    {
         "Info": "Real Estate Finance and Investment",
         "Text": "COMMERCE-4FT3"
     },
@@ -2520,6 +2524,10 @@
         "Text": "DATASCI-2G03"
     },
     {
+        "Info": "(Not available in any term) Data Analysis Project Course",
+        "Text": "DATASCI-4X03"
+    },
+    {
         "Info": "Earth and the Environment",
         "Text": "EARTHSC-1G03"
     },
@@ -2538,6 +2546,10 @@
     {
         "Info": "Petrology",
         "Text": "EARTHSC-3K03"
+    },
+    {
+        "Info": "Paleoecology",
+        "Text": "EARTHSC-3P03"
     },
     {
         "Info": "Structural Geology",
@@ -2566,10 +2578,6 @@
     {
         "Info": "Introduction to Mathematical Economics",
         "Text": "ECON-1ME3"
-    },
-    {
-        "Info": "Economics of Labour-Market Issues",
-        "Text": "ECON-2A03"
     },
     {
         "Info": "Analysis of Economic Data",
@@ -3108,6 +3116,10 @@
         "Text": "ENVIRSC-2W03"
     },
     {
+        "Info": "Water and the Environment",
+        "Text": "ENVIRSC-2WW3"
+    },
+    {
         "Info": "Internship in Earth and Environmental Sciences",
         "Text": "ENVIRSC-3IN3"
     },
@@ -3264,10 +3276,6 @@
         "Text": "EARTHSC-3FE3"
     },
     {
-        "Info": "(Not available in any term) Paleoecology",
-        "Text": "EARTHSC-3P03"
-    },
-    {
         "Info": "(2024 Fall only) Research Design and Dissemination in Earth and Environmental Sciences",
         "Text": "EARTHSC-3RD3"
     },
@@ -3292,6 +3300,10 @@
         "Text": "EARTHSC-4T03"
     },
     {
+        "Info": "(2024 Spring/Summer, 2024 Fall only) Economics of Labour-Market Issues",
+        "Text": "ECON-2A03"
+    },
+    {
         "Info": "(2024 Spring/Summer, 2024 Fall only) Health Economics and its Application to Health Policy",
         "Text": "ECON-2CC3"
     },
@@ -3314,10 +3326,6 @@
     {
         "Info": "(2024 Fall only) Applied Macroeconomic Policy",
         "Text": "ECON-3MP3"
-    },
-    {
-        "Info": "(2024 Fall only) Industrial Organization",
-        "Text": "ECON-3S03"
     },
     {
         "Info": "(2024 Fall only) Methods of Inquiry in Economics",
@@ -3368,7 +3376,7 @@
         "Text": "ELECENG-3TQ3"
     },
     {
-        "Info": "(Not available in any term) Biomedical Instrumentation",
+        "Info": "(2024 Fall only) Biomedical Instrumentation",
         "Text": "ELECENG-4BD4"
     },
     {
@@ -3592,10 +3600,6 @@
         "Text": "ENGPHYS-4QC3"
     },
     {
-        "Info": "(Not available in any term) Introduction to Photovoltaics",
-        "Text": "ENGPHYS-4X03"
-    },
-    {
         "Info": "(2024 Fall only) Semiconductor Manufacturing Technology",
         "Text": "ENGPHYS-4Z04"
     },
@@ -3694,10 +3698,6 @@
     {
         "Info": "(2024 Fall only) Surface Climate Processes and Environmental Interactions",
         "Text": "ENVIRSC-2C03"
-    },
-    {
-        "Info": "(2024 Spring/Summer, 2024 Fall only) Water and the Environment",
-        "Text": "ENVIRSC-2WW3"
     },
     {
         "Info": "(2024 Fall only) Environmental Field Camp",
@@ -4152,7 +4152,7 @@
         "Text": "GENTECH-3MT3"
     },
     {
-        "Info": "(2024 Spring/Summer only) Legal and Regulatory Issues",
+        "Info": "(2024 Spring/Summer, 2024 Fall only) Legal and Regulatory Issues",
         "Text": "GENTECH-4EM3"
     },
     {
@@ -4500,6 +4500,10 @@
         "Text": "HTHSCI-2D06B"
     },
     {
+        "Info": "Global Health and the Complexities of Disease",
+        "Text": "HTHSCI-2DS3"
+    },
+    {
         "Info": "Inquiry in Anatomy & Physiology",
         "Text": "HTHSCI-2FB3"
     },
@@ -4544,6 +4548,10 @@
         "Text": "HTHSCI-2X03B"
     },
     {
+        "Info": "Indigenous Health",
+        "Text": "HTHSCI-3AH3"
+    },
+    {
         "Info": "Symptomatology",
         "Text": "HTHSCI-3BA3"
     },
@@ -4562,6 +4570,10 @@
     {
         "Info": "Research Appraisal and Utilization in Evidence Informed Decision Making",
         "Text": "HTHSCI-3C04"
+    },
+    {
+        "Info": "Theatre for Development",
+        "Text": "HTHSCI-3CC3"
     },
     {
         "Info": "CHS Inquiry Intermediate",
@@ -4592,12 +4604,28 @@
         "Text": "HTHSCI-3DD6B"
     },
     {
+        "Info": "Demystifying Medicine",
+        "Text": "HTHSCI-3DM3"
+    },
+    {
         "Info": "Demystifying Research",
         "Text": "HTHSCI-3DR3"
     },
     {
+        "Info": "Inquiry III: Advanced Inquiry in Health Sciences",
+        "Text": "HTHSCI-3E03"
+    },
+    {
         "Info": "Introduction to Expressive Arts Therapy",
         "Text": "HTHSCI-3EA3"
+    },
+    {
+        "Info": "Biomedical Graphics",
+        "Text": "HTHSCI-3EE3"
+    },
+    {
+        "Info": "Science of Fictional Characters",
+        "Text": "HTHSCI-3FC3"
     },
     {
         "Info": "Critical Appraisal of the Health Literature",
@@ -4610,6 +4638,10 @@
     {
         "Info": "Inquiry Project",
         "Text": "HTHSCI-3H06B"
+    },
+    {
+        "Info": "Deceptions in Decision Making",
+        "Text": "HTHSCI-3HH3"
     },
     {
         "Info": "Health Law: Current and Emerging Issues",
@@ -4628,12 +4660,20 @@
         "Text": "HTHSCI-3MB3"
     },
     {
+        "Info": "Critical Examination of Mental Health",
+        "Text": "HTHSCI-3MH3"
+    },
+    {
         "Info": "Practicum in Medical Research.",
         "Text": "HTHSCI-3MR6B"
     },
     {
         "Info": "Music, Health, & the Community",
         "Text": "HTHSCI-3MU3"
+    },
+    {
+        "Info": "Creative Writing in the Health Sciences",
+        "Text": "HTHSCI-3N03"
     },
     {
         "Info": "Integrated Pathophysiology for Nursing",
@@ -4654,6 +4694,22 @@
     {
         "Info": "Racism and Health",
         "Text": "HTHSCI-3RH3"
+    },
+    {
+        "Info": "Exploring the Foundations of Rehabilitation Sciences",
+        "Text": "HTHSCI-3RS3"
+    },
+    {
+        "Info": "Communication Skills",
+        "Text": "HTHSCI-3S03"
+    },
+    {
+        "Info": "Superbugs: Bacterial Antibiotic Resistance",
+        "Text": "HTHSCI-3SB3"
+    },
+    {
+        "Info": "Inquiry into Work, Self and Purpose",
+        "Text": "HTHSCI-3T03"
     },
     {
         "Info": "Medical Genetics",
@@ -4840,12 +4896,12 @@
         "Text": "HTHSCI-4W03"
     },
     {
-        "Info": "Praxis Pathways 4: Synthesis",
-        "Text": "HTHSCI-4XP0"
-    },
-    {
         "Info": "Praxis Pathways 4",
         "Text": "HTHSCI-4XP3B"
+    },
+    {
+        "Info": "Professional Transitions",
+        "Text": "HTHSCI-4XX3"
     },
     {
         "Info": "Science, Culture and Identity",
@@ -5264,10 +5320,6 @@
         "Text": "HTHSCI-2D06A"
     },
     {
-        "Info": "(Not available in any term) Global Health and the Complexities of Disease",
-        "Text": "HTHSCI-2DS3"
-    },
-    {
         "Info": "(2024 Fall only) Inquiry II: Biochemistry",
         "Text": "HTHSCI-2E03"
     },
@@ -5276,7 +5328,7 @@
         "Text": "HTHSCI-2F03"
     },
     {
-        "Info": "(2024 Fall only) Foundations for Inquiry in Anatomy & Physiology",
+        "Info": "(Not available in any term) Foundations for Inquiry in Anatomy & Physiology",
         "Text": "HTHSCI-2FA3"
     },
     {
@@ -5308,20 +5360,12 @@
         "Text": "HTHSCI-2X03A"
     },
     {
-        "Info": "(Not available in any term) Indigenous Health",
-        "Text": "HTHSCI-3AH3"
-    },
-    {
         "Info": "(2024 Fall only) Human Biochemistry II: Nutrition and Metabolism",
         "Text": "HTHSCI-3BB3"
     },
     {
-        "Info": "(Not available in any term) Introduction to Computational Biology",
+        "Info": "(2024 Fall only) Introduction to Computational Biology",
         "Text": "HTHSCI-3CB3"
-    },
-    {
-        "Info": "(Not available in any term) Theatre for Development",
-        "Text": "HTHSCI-3CC3"
     },
     {
         "Info": "(2024 Fall only) CHS Research Practicum",
@@ -5348,20 +5392,8 @@
         "Text": "HTHSCI-3DH3"
     },
     {
-        "Info": "(Not available in any term) Demystifying Medicine",
-        "Text": "HTHSCI-3DM3"
-    },
-    {
-        "Info": "(Not available in any term) Donation & Transplantation",
+        "Info": "(2024 Fall only) Donation & Transplantation",
         "Text": "HTHSCI-3DT3"
-    },
-    {
-        "Info": "(Not available in any term) Inquiry III: Advanced Inquiry in Health Sciences",
-        "Text": "HTHSCI-3E03"
-    },
-    {
-        "Info": "(Not available in any term) Biomedical Graphics",
-        "Text": "HTHSCI-3EE3"
     },
     {
         "Info": "(2024 Fall only) Epigenetics: Linking Nature and Nuture",
@@ -5370,10 +5402,6 @@
     {
         "Info": "(Not available in any term) Inquiry in Anatomy & Physiology",
         "Text": "HTHSCI-3F03"
-    },
-    {
-        "Info": "(Not available in any term) Science of Fictional Characters",
-        "Text": "HTHSCI-3FC3"
     },
     {
         "Info": "(2024 Fall only) Health Systems and Health Policy",
@@ -5396,10 +5424,6 @@
         "Text": "HTHSCI-3H06S"
     },
     {
-        "Info": "(Not available in any term) Deceptions in Decision Making",
-        "Text": "HTHSCI-3HH3"
-    },
-    {
         "Info": "(2024 Fall only) Introductory Immunology",
         "Text": "HTHSCI-3I03"
     },
@@ -5412,16 +5436,8 @@
         "Text": "HTHSCI-3K03"
     },
     {
-        "Info": "(Not available in any term) Critical Examination of Mental Health",
-        "Text": "HTHSCI-3MH3"
-    },
-    {
         "Info": "(2024 Fall only) Practicum in Medical Research",
         "Text": "HTHSCI-3MR6A"
-    },
-    {
-        "Info": "(Not available in any term) Creative Writing in the Health Sciences",
-        "Text": "HTHSCI-3N03"
     },
     {
         "Info": "(2024 Fall only) Inquiry in Perinatal & Reproductive Health",
@@ -5436,24 +5452,8 @@
         "Text": "HTHSCI-3PF1"
     },
     {
-        "Info": "(Not available in any term) Exploring the Foundations of Rehabilitation Sciences",
-        "Text": "HTHSCI-3RS3"
-    },
-    {
-        "Info": "(Not available in any term) Communication Skills",
-        "Text": "HTHSCI-3S03"
-    },
-    {
-        "Info": "(Not available in any term) Superbugs: Bacterial Antibiotic Resistance",
-        "Text": "HTHSCI-3SB3"
-    },
-    {
         "Info": "(2024 Fall only) Surviving Survivor: Insights from Reality TV for Real Life",
         "Text": "HTHSCI-3SS3"
-    },
-    {
-        "Info": "(Not available in any term) Inquiry into Work, Self and Purpose",
-        "Text": "HTHSCI-3T03"
     },
     {
         "Info": "(2024 Fall only) What Trauma Teaches: Lessons from Listening",
@@ -5680,12 +5680,12 @@
         "Text": "HTHSCI-4WW3B"
     },
     {
-        "Info": "(2024 Fall only) Praxis Pathways 4",
-        "Text": "HTHSCI-4XP3A"
+        "Info": "(Not available in any term) Praxis Pathways 4: Synthesis",
+        "Text": "HTHSCI-4XP0"
     },
     {
-        "Info": "(Not available in any term) Professional Transitions",
-        "Text": "HTHSCI-4XX3"
+        "Info": "(2024 Fall only) Praxis Pathways 4",
+        "Text": "HTHSCI-4XP3A"
     },
     {
         "Info": "(2024 Fall only) Humanities for Life: The Value of a Humanities Degree",
@@ -6710,6 +6710,10 @@
     {
         "Info": "Thesis",
         "Text": "KINESIOL-4RR6B"
+    },
+    {
+        "Info": "Thesis",
+        "Text": "KINESIOL-4RR9B"
     },
     {
         "Info": "Selected Topics in Kinesiology II",
@@ -8280,7 +8284,7 @@
         "Text": "MECHENG-3O04"
     },
     {
-        "Info": "(Not available in any term) Applied Artificial Intelligence",
+        "Info": "(2024 Fall only) Applied Artificial Intelligence",
         "Text": "MECHENG-4AI3"
     },
     {
@@ -8956,6 +8960,10 @@
         "Text": "NURSING-2NN3"
     },
     {
+        "Info": "Professional Nursing Practice III for Basic Stream",
+        "Text": "NURSING-2P03"
+    },
+    {
         "Info": "Nursing Concepts in Health & Illness for Accelerated Stream I",
         "Text": "NURSING-2V04"
     },
@@ -9088,10 +9096,6 @@
         "Text": "NURSING-2MM3"
     },
     {
-        "Info": "(Not available in any term) Professional Nursing Practice III for Basic Stream",
-        "Text": "NURSING-2P03"
-    },
-    {
         "Info": "(2024 Fall only) Introduction to Nursing Practice I for Accelerated Stream",
         "Text": "NURSING-2U04"
     },
@@ -9122,6 +9126,10 @@
     {
         "Info": "(2024 Spring/Summer only) Foundations of Adult Critical Care Nursing",
         "Text": "NURSING-4CC0"
+    },
+    {
+        "Info": "(2024 Fall only) Foundations of Adult Critical Care Nursing",
+        "Text": "NURSING-4CC3"
     },
     {
         "Info": "(2024 Spring/Summer, 2024 Fall only) Professional Nursing Practice VI",
@@ -9448,6 +9456,10 @@
         "Text": "PNB-3V03"
     },
     {
+        "Info": "Integrative Mentor: Learning to Write through Student Editing",
+        "Text": "PNB-3XD3B"
+    },
+    {
         "Info": "Assessment in Children",
         "Text": "PNB-4A03"
     },
@@ -9514,6 +9526,10 @@
     {
         "Info": "Law, Politics and Public Policy",
         "Text": "POLSCI-2PP3"
+    },
+    {
+        "Info": "Public Policy and Administration",
+        "Text": "POLSCI-2U03"
     },
     {
         "Info": "US Politics",
@@ -9936,10 +9952,6 @@
         "Text": "PNB-3XD3A"
     },
     {
-        "Info": "(Not available in any term) Integrative Mentor: Learning to Write through Student Editing",
-        "Text": "PNB-3XD3B"
-    },
-    {
         "Info": "(2024 Spring/Summer, 2024 Fall only) Inferential Statistics and Research Methods",
         "Text": "PNB-3XE3"
     },
@@ -9988,7 +10000,7 @@
         "Text": "POLSCI-2I03"
     },
     {
-        "Info": "(Not available in any term) Governance, Representation, and Participation in Democracies",
+        "Info": "(2024 Fall only) Governance, Representation, and Participation in Democracies",
         "Text": "POLSCI-2M03"
     },
     {
@@ -10002,10 +10014,6 @@
     {
         "Info": "(2024 Spring/Summer only) Political Theory",
         "Text": "POLSCI-2O06S"
-    },
-    {
-        "Info": "(Not available in any term) Public Policy and Administration",
-        "Text": "POLSCI-2U03"
     },
     {
         "Info": "(2024 Fall only) Politics of the Developing World",
@@ -10280,6 +10288,10 @@
         "Text": "SCAR-2AR3"
     },
     {
+        "Info": "Religion, the Body, and the Machine",
+        "Text": "SCAR-2ER3"
+    },
+    {
         "Info": "Who was Jesus?",
         "Text": "SCAR-2GG3"
     },
@@ -10314,6 +10326,14 @@
     {
         "Info": "Being Human in the Anthropocene",
         "Text": "SCAR-3LL3"
+    },
+    {
+        "Info": "Love",
+        "Text": "SCAR-3Y03"
+    },
+    {
+        "Info": "Judaism in the Modern World",
+        "Text": "SCAR-3ZZ3"
     },
     {
         "Info": "Advanced Readings in Society, Culture and Religion",
@@ -10416,6 +10436,10 @@
         "Text": "SCIENCE-3WW0"
     },
     {
+        "Info": "Inquiry in Equity, Justice and Anti-Racism in Science",
+        "Text": "SCIENCE-4AR6"
+    },
+    {
         "Info": "Science Co-op Work Term",
         "Text": "SCIENCE-4WT0"
     },
@@ -10510,6 +10534,10 @@
     {
         "Info": "Computer Networks and Security",
         "Text": "SFWRENG-4C03"
+    },
+    {
+        "Info": "Computational Modeling for Cognitive Neuroscience",
+        "Text": "SFWRENG-4CN3"
     },
     {
         "Info": "Performance Analysis of Computer Systems",
@@ -10936,6 +10964,10 @@
         "Text": "STATS-2MB3"
     },
     {
+        "Info": "Advancing Tomorrow's Actuaries",
+        "Text": "STATS-3AT3"
+    },
+    {
         "Info": "Data Science Methods",
         "Text": "STATS-3DA3"
     },
@@ -11018,10 +11050,6 @@
     {
         "Info": "(2024 Fall only) Introduction to Modern Standard Arabic",
         "Text": "SCAR-2AA3"
-    },
-    {
-        "Info": "(Not available in any term) Religion, the Body, and the Machine",
-        "Text": "SCAR-2ER3"
     },
     {
         "Info": "(2024 Fall only) Great Books in Asian Religions",
@@ -11112,14 +11140,6 @@
         "Text": "SCAR-3UU3"
     },
     {
-        "Info": "(Not available in any term) Love",
-        "Text": "SCAR-3Y03"
-    },
-    {
-        "Info": "(Not available in any term) Judaism in the Modern World",
-        "Text": "SCAR-3ZZ3"
-    },
-    {
         "Info": "(2024 Fall only) Honours Thesis",
         "Text": "SCAR-4R06A"
     },
@@ -11168,7 +11188,7 @@
         "Text": "SCIENCE-5WW0"
     },
     {
-        "Info": "(2024 Spring/Summer only) Legal and Regulatory Issues",
+        "Info": "(2024 Spring/Summer, 2024 Fall only) Legal and Regulatory Issues",
         "Text": "SFGNTECH-4EM3"
     },
     {
@@ -11230,10 +11250,6 @@
     {
         "Info": "(2024 Fall only) Applications of Machine Learning",
         "Text": "SFWRENG-4AL3"
-    },
-    {
-        "Info": "(Not available in any term) Computational Modeling for Cognitive Neuroscience",
-        "Text": "SFWRENG-4CN3"
     },
     {
         "Info": "(2024 Fall only) Software Design IV - Capstone Design Project",
@@ -11744,10 +11760,6 @@
         "Text": "WORKLABR-2K03"
     },
     {
-        "Info": "Economics of Labour Market Issues",
-        "Text": "WORKLABR-3A03"
-    },
-    {
         "Info": "Labour and Employment Law",
         "Text": "WORKLABR-3C03"
     },
@@ -11778,6 +11790,10 @@
     {
         "Info": "(2024 Spring/Summer, 2024 Fall only) Pop Culture, Media and Work",
         "Text": "WORKLABR-2M03"
+    },
+    {
+        "Info": "(2024 Spring/Summer, 2024 Fall only) Economics of Labour Market Issues",
+        "Text": "WORKLABR-3A03"
     },
     {
         "Info": "(2024 Spring/Summer only) Gender, Sexuality and Work",
