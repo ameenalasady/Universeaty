@@ -1,3 +1,11 @@
+name: Build and Deploy
+
+# Add the event trigger
+on:
+  push:
+    branches:
+      - main  # Trigger the workflow only when pushing to the main branch
+
 jobs:
   build:
     name: Build
